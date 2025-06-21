@@ -1,0 +1,7 @@
+Metric,Analysis,Test_Statistic,p_value,Effect_Size,Interpretation,Groups
+DRI,ANOVA,F = 17.4106,0.0016082190401100853,,**,5
+  rotation,Group Mean,M = 0.8510,,SD = 0.3205,n = 167,
+  corruption,Group Mean,M = 0.7946,,SD = 0.3621,n = 83,
+  shift,Group Mean,M = 0.8381,,SD = 0.3343,n = 184,
+  blur,Group Mean,M = 0.8138,,SD = 0.3516,n = 180,
+  blocks,Group Mean,M = 0.6351,,SD = 0.4613,n = 84,

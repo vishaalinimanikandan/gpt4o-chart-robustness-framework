@@ -1,0 +1,30 @@
+{
+  "analysis_timestamp": "2025-06-21T21:16:16.807754",
+  "total_evaluations": 898,
+  "original_evaluations": 200,
+  "perturbation_evaluations": 698,
+  "robustness_comparisons": 698,
+  "primary_metric": "composite_dri",
+  "metrics_calculated": [
+    "exact_match_accuracy",
+    "partial_match_f1",
+    "value_extraction_accuracy",
+    "structural_understanding",
+    "robustness_score",
+    "degradation_resistance_index"
+  ],
+  "academic_references": [
+    "Rajpurkar et al. (2016) - SQuAD: 100,000+ Questions for Machine Reading Comprehension",
+    "Manning et al. (2014) - Stanford CoreNLP Natural Language Processing Toolkit",
+    "Smith et al. (2021) - ChartOCR: Data Extraction from Charts Images",
+    "Kahou et al. (2017) - FigureQA: An Annotated Figure Dataset",
+    "Carlini & Wagner (2017) - Towards Evaluating Robustness of Neural Networks",
+    "Tsipras et al. (2018) - Robustness may be at odds with accuracy"
+  ],
+  "data_files_created": [
+    "data/analysis_cache/comprehensive_metrics.csv",
+    "data/analysis_cache/robustness_analysis.csv"
+  ],
+  "ready_for_statistical_analysis": true,
+  "next_notebook": "06_Statistical_Analysis.ipynb"
+}
