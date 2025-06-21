@@ -1,0 +1,14 @@
+{
+  "test_successful": true,
+  "test_stats": {
+    "attempts": 5,
+    "successes": 5,
+    "failures": 0,
+    "success_rate": 100.0,
+    "total_cost": 0.15,
+    "avg_response_time": 8.043301916122436
+  },
+  "recommendation": "PROCEED",
+  "projected_full_cost": 36.0,
+  "test_timestamp": "2025-06-21T15:05:41.664063"
+}
