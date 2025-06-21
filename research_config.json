@@ -1,0 +1,39 @@
+{
+  "project": {
+    "title": "GPT-4o Vision Robustness Analysis in Chart Data Extraction",
+    "author": "[Your Name]",
+    "institution": "[Your University]",
+    "supervisor": "[Professor Name]",
+    "start_date": "2025-06-21T13:11:18.508893",
+    "version": "1.0.0"
+  },
+  "experimental_design": {
+    "total_charts": 200,
+    "chart_complexity": [
+      "medium",
+      "complex",
+      "advanced"
+    ],
+    "perturbation_categories": 12,
+    "intensity_levels": 3,
+    "target_extractions": 1200,
+    "budget_limit": 45.0
+  },
+  "quality_standards": {
+    "chart_resolution": 300,
+    "image_format": "PNG",
+    "color_space": "RGB",
+    "min_data_points": 6,
+    "max_data_points": 15
+  },
+  "evaluation_metrics": [
+    "exact_match_accuracy",
+    "partial_match_accuracy",
+    "category_recognition_rate",
+    "value_precision_score",
+    "structural_understanding",
+    "confidence_correlation",
+    "error_pattern_analysis",
+    "composite_robustness_index"
+  ]
+}
