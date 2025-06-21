@@ -1,0 +1,5 @@
+# Ignore environment & Python build outputs:
+dissertation_env/
+__pycache__/
+*.py[cod]
+cv2/cv2.pyd
