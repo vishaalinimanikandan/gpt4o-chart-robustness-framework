@@ -1,0 +1,72 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 40
+    },
+    {
+      "category": "Category 2",
+      "value": 70
+    },
+    {
+      "category": "Category 3",
+      "value": 85
+    },
+    {
+      "category": "Category 4",
+      "value": 75
+    },
+    {
+      "category": "Category 5",
+      "value": 65
+    },
+    {
+      "category": "Category 6",
+      "value": 55
+    },
+    {
+      "category": "Category 7",
+      "value": 60
+    },
+    {
+      "category": "Category 8",
+      "value": 20
+    },
+    {
+      "category": "Category 9",
+      "value": 50
+    },
+    {
+      "category": "Category 10",
+      "value": 90
+    },
+    {
+      "category": "Category 11",
+      "value": 10
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly labeled and visible. Trend line is present but not extracted as a data point.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750530778_5026",
+    "image_path": "data\\perturbations\\chart_067_advanced_scatter_brightness_shift_high.png",
+    "extraction_timestamp": "2025-06-21T19:33:07.052351",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.509166479110718,
+    "chart_metadata": {
+      "original_chart_id": "chart_067_advanced_scatter_brightness",
+      "perturbation_type": "shift",
+      "intensity": "high",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

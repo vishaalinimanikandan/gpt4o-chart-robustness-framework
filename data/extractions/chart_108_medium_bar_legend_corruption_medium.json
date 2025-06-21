@@ -1,0 +1,108 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Sep 2024 - Blue",
+      "value": 100
+    },
+    {
+      "category": "Sep 2024 - Orange",
+      "value": 90
+    },
+    {
+      "category": "Oct 2024 - Blue",
+      "value": 105
+    },
+    {
+      "category": "Oct 2024 - Orange",
+      "value": 95
+    },
+    {
+      "category": "Nov 2024 - Blue",
+      "value": 110
+    },
+    {
+      "category": "Nov 2024 - Orange",
+      "value": 100
+    },
+    {
+      "category": "Dec 2024 - Blue",
+      "value": 105
+    },
+    {
+      "category": "Dec 2024 - Orange",
+      "value": 95
+    },
+    {
+      "category": "Jan 2025 - Blue",
+      "value": 110
+    },
+    {
+      "category": "Jan 2025 - Orange",
+      "value": 100
+    },
+    {
+      "category": "Feb 2025 - Blue",
+      "value": 115
+    },
+    {
+      "category": "Feb 2025 - Orange",
+      "value": 105
+    },
+    {
+      "category": "Mar 2025 - Blue",
+      "value": 110
+    },
+    {
+      "category": "Mar 2025 - Orange",
+      "value": 100
+    },
+    {
+      "category": "Apr 2025 - Blue",
+      "value": 115
+    },
+    {
+      "category": "Apr 2025 - Orange",
+      "value": 105
+    },
+    {
+      "category": "May 2025 - Blue",
+      "value": 110
+    },
+    {
+      "category": "May 2025 - Orange",
+      "value": 100
+    },
+    {
+      "category": "Jun 2025 - Blue",
+      "value": 105
+    },
+    {
+      "category": "Jun 2025 - Orange",
+      "value": 95
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data extracted with high confidence. The chart is partially obscured, but visible data points were extracted accurately.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750520785_8138",
+    "image_path": "data\\perturbations\\chart_108_medium_bar_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-06-21T16:46:35.303259",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.987790822982788,
+    "chart_metadata": {
+      "original_chart_id": "chart_108_medium_bar_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

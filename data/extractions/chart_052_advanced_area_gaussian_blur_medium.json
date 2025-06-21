@@ -1,0 +1,84 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "area",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 84.8
+    },
+    {
+      "category": "Condition B",
+      "value": 78.2
+    },
+    {
+      "category": "Condition C",
+      "value": 73.7
+    },
+    {
+      "category": "Condition D",
+      "value": 67.8
+    },
+    {
+      "category": "Condition E",
+      "value": 75.6
+    },
+    {
+      "category": "Condition F",
+      "value": 71.5
+    },
+    {
+      "category": "Condition G",
+      "value": 78.2
+    },
+    {
+      "category": "Condition H",
+      "value": 71.2
+    },
+    {
+      "category": "Condition I",
+      "value": 79.5
+    },
+    {
+      "category": "Condition J",
+      "value": 76.0
+    },
+    {
+      "category": "Condition K",
+      "value": 73.5
+    },
+    {
+      "category": "Condition L",
+      "value": 77.7
+    },
+    {
+      "category": "Condition M",
+      "value": 69.7
+    },
+    {
+      "category": "Condition N",
+      "value": 84.5
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The chart is clear and the values are well-labeled. Multiple data series are present, but only one series is extracted for simplicity.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750526600_5336",
+    "image_path": "data\\perturbations\\chart_052_advanced_area_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-06-21T18:23:30.498149",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.59358811378479,
+    "chart_metadata": {
+      "original_chart_id": "chart_052_advanced_area_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

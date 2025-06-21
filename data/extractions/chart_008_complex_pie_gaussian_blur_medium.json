@@ -1,0 +1,76 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Q1 '22",
+      "value": 7.9
+    },
+    {
+      "category": "Q1 '22",
+      "value": 8.3
+    },
+    {
+      "category": "Q1 '22",
+      "value": 7.6
+    },
+    {
+      "category": "Q2 '22",
+      "value": 6.9
+    },
+    {
+      "category": "Q2 '22",
+      "value": 8.7
+    },
+    {
+      "category": "Q2 '22",
+      "value": 8.9
+    },
+    {
+      "category": "Q3 '22",
+      "value": 6.8
+    },
+    {
+      "category": "Q3 '22",
+      "value": 7.3
+    },
+    {
+      "category": "Q3 '22",
+      "value": 10.3
+    },
+    {
+      "category": "Q4 '22",
+      "value": 9.8
+    },
+    {
+      "category": "Q4 '22",
+      "value": 8.8
+    },
+    {
+      "category": "Q4 '22",
+      "value": 8.8
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values are clearly visible and legible. The percentages sum to approximately 100%.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750525015_7655",
+    "image_path": "data\\perturbations\\chart_008_complex_pie_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-06-21T17:57:03.412374",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.747858762741089,
+    "chart_metadata": {
+      "original_chart_id": "chart_008_complex_pie_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 30
+    },
+    {
+      "category": "Category 2",
+      "value": 20
+    },
+    {
+      "category": "Category 3",
+      "value": 50
+    },
+    {
+      "category": "Category 4",
+      "value": 70
+    },
+    {
+      "category": "Category 5",
+      "value": 60
+    },
+    {
+      "category": "Category 6",
+      "value": 40
+    },
+    {
+      "category": "Category 7",
+      "value": 30
+    },
+    {
+      "category": "Category 8",
+      "value": 80
+    },
+    {
+      "category": "Category 9",
+      "value": 90
+    },
+    {
+      "category": "Category 10",
+      "value": 50
+    },
+    {
+      "category": "Category 11",
+      "value": 20
+    },
+    {
+      "category": "Category 12",
+      "value": 60
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the visual representation of the line chart. Exact values are not labeled.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750529644_9592",
+    "image_path": "data\\perturbations\\chart_159_complex_line_brightness_shift_low.png",
+    "extraction_timestamp": "2025-06-21T19:14:11.177389",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.098456144332886,
+    "chart_metadata": {
+      "original_chart_id": "chart_159_complex_line_brightness",
+      "perturbation_type": "shift",
+      "intensity": "low",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

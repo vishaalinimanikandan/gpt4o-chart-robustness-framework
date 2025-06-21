@@ -1,0 +1,92 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "North America - Product A",
+      "value": 150
+    },
+    {
+      "category": "North America - Product B",
+      "value": 300
+    },
+    {
+      "category": "Europe - Product A",
+      "value": 200
+    },
+    {
+      "category": "Europe - Product B",
+      "value": 250
+    },
+    {
+      "category": "Asia Pacific - Product A",
+      "value": 180
+    },
+    {
+      "category": "Asia Pacific - Product B",
+      "value": 320
+    },
+    {
+      "category": "Latin America - Product A",
+      "value": 100
+    },
+    {
+      "category": "Latin America - Product B",
+      "value": 150
+    },
+    {
+      "category": "Middle East - Product A",
+      "value": 50
+    },
+    {
+      "category": "Middle East - Product B",
+      "value": 70
+    },
+    {
+      "category": "Africa - Product A",
+      "value": 60
+    },
+    {
+      "category": "Africa - Product B",
+      "value": 40
+    },
+    {
+      "category": "Oceania - Product A",
+      "value": 30
+    },
+    {
+      "category": "Oceania - Product B",
+      "value": 20
+    },
+    {
+      "category": "Nordic - Product A",
+      "value": 90
+    },
+    {
+      "category": "Nordic - Product B",
+      "value": 60
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some values are estimated due to visual obstruction.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750520821_2288",
+    "image_path": "data\\perturbations\\chart_003_medium_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-06-21T16:47:10.160948",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.400852680206299,
+    "chart_metadata": {
+      "original_chart_id": "chart_003_medium_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

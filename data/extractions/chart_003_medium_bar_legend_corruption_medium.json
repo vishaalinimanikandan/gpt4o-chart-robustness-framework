@@ -1,0 +1,84 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "North America - Product A",
+      "value": 50
+    },
+    {
+      "category": "North America - Product B",
+      "value": 275
+    },
+    {
+      "category": "Europe - Product A",
+      "value": 125
+    },
+    {
+      "category": "Europe - Product B",
+      "value": 225
+    },
+    {
+      "category": "Asia Pacific - Product A",
+      "value": 175
+    },
+    {
+      "category": "Asia Pacific - Product B",
+      "value": 75
+    },
+    {
+      "category": "Latin America - Product A",
+      "value": 150
+    },
+    {
+      "category": "Latin America - Product B",
+      "value": 300
+    },
+    {
+      "category": "Middle East - Product A",
+      "value": 100
+    },
+    {
+      "category": "Middle East - Product B",
+      "value": 50
+    },
+    {
+      "category": "Africa - Product A",
+      "value": 50
+    },
+    {
+      "category": "Africa - Product B",
+      "value": 25
+    },
+    {
+      "category": "Oceania - Product A",
+      "value": 75
+    },
+    {
+      "category": "Oceania - Product B",
+      "value": 10
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clear and legible. The chart is partially obscured at the bottom right, but all relevant data is visible.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750523149_1627",
+    "image_path": "data\\perturbations\\chart_003_medium_bar_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-06-21T17:25:58.981416",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.572675228118896,
+    "chart_metadata": {
+      "original_chart_id": "chart_003_medium_bar_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

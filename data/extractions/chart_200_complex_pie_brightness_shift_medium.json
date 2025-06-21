@@ -1,0 +1,68 @@
+{
+  "chart_title": "Production Efficiency - (Operational Metrics)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 12.1
+    },
+    {
+      "category": "Category 2",
+      "value": 17.9
+    },
+    {
+      "category": "Category 3",
+      "value": 13.1
+    },
+    {
+      "category": "Category 4",
+      "value": 3.0
+    },
+    {
+      "category": "Category 5",
+      "value": 10.5
+    },
+    {
+      "category": "Category 6",
+      "value": 1.0
+    },
+    {
+      "category": "Category 7",
+      "value": 13.8
+    },
+    {
+      "category": "Category 8",
+      "value": 7.5
+    },
+    {
+      "category": "Category 9",
+      "value": 8.3
+    },
+    {
+      "category": "Category 10",
+      "value": 12.8
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All text and values are clear and legible.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750526168_8088",
+    "image_path": "data\\perturbations\\chart_200_complex_pie_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-06-21T18:16:14.981368",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.19516921043396,
+    "chart_metadata": {
+      "original_chart_id": "chart_200_complex_pie_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

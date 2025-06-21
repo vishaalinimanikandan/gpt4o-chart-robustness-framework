@@ -1,0 +1,52 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 80
+    },
+    {
+      "category": "Category 2",
+      "value": 60
+    },
+    {
+      "category": "Category 3",
+      "value": 40
+    },
+    {
+      "category": "Category 4",
+      "value": 80
+    },
+    {
+      "category": "Category 5",
+      "value": 40
+    },
+    {
+      "category": "Category 6",
+      "value": 20
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the position of the points on the chart. Exact values are not labeled.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750522322_9626",
+    "image_path": "data\\perturbations\\chart_157_medium_line_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-06-21T17:12:08.656626",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.095942258834839,
+    "chart_metadata": {
+      "original_chart_id": "chart_157_medium_line_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

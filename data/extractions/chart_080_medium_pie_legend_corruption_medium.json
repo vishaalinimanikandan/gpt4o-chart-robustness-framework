@@ -1,0 +1,54 @@
+{
+  "chart_title": "Correlation Analysis - (Scientific Research)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 15.1
+    },
+    {
+      "category": "Category 2",
+      "value": 8.8
+    },
+    {
+      "category": "Category 3",
+      "value": 15.3
+    },
+    {
+      "category": "Category 4",
+      "value": 8.7
+    },
+    {
+      "category": "Category 6",
+      "value": 11.0
+    },
+    {
+      "category": "Category 7",
+      "value": 21.0
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Category 5 is obscured and its value is not visible.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750521765_5634",
+    "image_path": "data\\perturbations\\chart_080_medium_pie_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-06-21T17:02:50.950058",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 5.1894731521606445,
+    "chart_metadata": {
+      "original_chart_id": "chart_080_medium_pie_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [
+      "Pie chart values sum to 79.9%, expected ~100%"
+    ],
+    "errors": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 30
+    },
+    {
+      "category": "Category 2",
+      "value": 70
+    },
+    {
+      "category": "Category 3",
+      "value": 40
+    },
+    {
+      "category": "Category 4",
+      "value": 60
+    },
+    {
+      "category": "Category 5",
+      "value": 50
+    },
+    {
+      "category": "Category 6",
+      "value": 20
+    },
+    {
+      "category": "Category 7",
+      "value": 80
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The values are estimated based on the position on the y-axis. The exact values may vary slightly.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750530919_3293",
+    "image_path": "data\\perturbations\\chart_076_medium_area_rotation_high.png",
+    "extraction_timestamp": "2025-06-21T19:35:26.035999",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.339285373687744,
+    "chart_metadata": {
+      "original_chart_id": "chart_076_medium_area",
+      "perturbation_type": "rotation",
+      "intensity": "high",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

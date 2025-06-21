@@ -1,0 +1,8 @@
+{
+  "extraction_id": "ext_1750523452_9189",
+  "image_path": "data\\perturbations\\chart_071_advanced_bar_brightness_shift_low.png",
+  "error_timestamp": "2025-06-21T17:35:33.527833",
+  "error_type": "APITimeoutError",
+  "error_message": "Request timed out.",
+  "response_time": 281.1391062736511
+}

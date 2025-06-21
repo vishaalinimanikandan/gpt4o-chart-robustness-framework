@@ -1,0 +1,83 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific Research)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 20
+    },
+    {
+      "category": "Category 2",
+      "value": 80
+    },
+    {
+      "category": "Category 3",
+      "value": 90
+    },
+    {
+      "category": "Category 4",
+      "value": 100
+    },
+    {
+      "category": "Category 5",
+      "value": 70
+    },
+    {
+      "category": "Category 6",
+      "value": 60
+    },
+    {
+      "category": "Category 7",
+      "value": 50
+    },
+    {
+      "category": "Category 8",
+      "value": 110
+    },
+    {
+      "category": "Category 9",
+      "value": 40
+    },
+    {
+      "category": "Category 10",
+      "value": 30
+    },
+    {
+      "category": "Category 11",
+      "value": 30
+    },
+    {
+      "category": "Category 12",
+      "value": 40
+    },
+    {
+      "category": "Category 13",
+      "value": 20
+    },
+    {
+      "category": "Category 14",
+      "value": 110
+    },
+    {
+      "category": "Category 15",
+      "value": 120
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly labeled and color-coded. The trend line and shaded area do not affect data extraction.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750518070_2697",
+    "image_path": "data\\raw_charts\\chart_092_advanced_scatter.png",
+    "extraction_timestamp": "2025-06-21T16:01:21.571422",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.778502225875854,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

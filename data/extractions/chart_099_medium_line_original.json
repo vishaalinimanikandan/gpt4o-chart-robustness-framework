@@ -1,0 +1,47 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 100
+    },
+    {
+      "category": "Category 2",
+      "value": 50
+    },
+    {
+      "category": "Category 3",
+      "value": 30
+    },
+    {
+      "category": "Category 4",
+      "value": 70
+    },
+    {
+      "category": "Category 5",
+      "value": 40
+    },
+    {
+      "category": "Category 6",
+      "value": 90
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the visual position on the y-axis. Series differentiation is not included.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750517243_1958",
+    "image_path": "data\\raw_charts\\chart_099_medium_line.png",
+    "extraction_timestamp": "2025-06-21T15:47:30.052947",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.980189323425293,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

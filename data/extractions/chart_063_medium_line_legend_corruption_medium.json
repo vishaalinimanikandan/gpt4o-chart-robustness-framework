@@ -1,0 +1,76 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Condition A - Control",
+      "value": 55
+    },
+    {
+      "category": "Condition B - Control",
+      "value": 56
+    },
+    {
+      "category": "Condition C - Control",
+      "value": 70
+    },
+    {
+      "category": "Condition D - Control",
+      "value": 72
+    },
+    {
+      "category": "Condition E - Control",
+      "value": 68
+    },
+    {
+      "category": "Condition F - Control",
+      "value": 74
+    },
+    {
+      "category": "Condition A - Treatment 1",
+      "value": 75
+    },
+    {
+      "category": "Condition B - Treatment 1",
+      "value": 85
+    },
+    {
+      "category": "Condition C - Treatment 1",
+      "value": 90
+    },
+    {
+      "category": "Condition D - Treatment 1",
+      "value": 80
+    },
+    {
+      "category": "Condition E - Treatment 1",
+      "value": 70
+    },
+    {
+      "category": "Condition F - Treatment 1",
+      "value": 75
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly visible and distinguishable.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750523041_7326",
+    "image_path": "data\\perturbations\\chart_063_medium_line_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-06-21T17:24:09.527560",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.666752815246582,
+    "chart_metadata": {
+      "original_chart_id": "chart_063_medium_line_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

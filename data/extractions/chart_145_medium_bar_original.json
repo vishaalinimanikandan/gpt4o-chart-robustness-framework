@@ -1,0 +1,131 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Oct 2024 - Stocks",
+      "value": 95
+    },
+    {
+      "category": "Oct 2024 - Bonds",
+      "value": 105
+    },
+    {
+      "category": "Oct 2024 - Real Estate",
+      "value": 100
+    },
+    {
+      "category": "Nov 2024 - Stocks",
+      "value": 90
+    },
+    {
+      "category": "Nov 2024 - Bonds",
+      "value": 110
+    },
+    {
+      "category": "Nov 2024 - Real Estate",
+      "value": 100
+    },
+    {
+      "category": "Dec 2024 - Stocks",
+      "value": 95
+    },
+    {
+      "category": "Dec 2024 - Bonds",
+      "value": 105
+    },
+    {
+      "category": "Dec 2024 - Real Estate",
+      "value": 95
+    },
+    {
+      "category": "Jan 2025 - Stocks",
+      "value": 100
+    },
+    {
+      "category": "Jan 2025 - Bonds",
+      "value": 110
+    },
+    {
+      "category": "Jan 2025 - Real Estate",
+      "value": 100
+    },
+    {
+      "category": "Feb 2025 - Stocks",
+      "value": 90
+    },
+    {
+      "category": "Feb 2025 - Bonds",
+      "value": 105
+    },
+    {
+      "category": "Feb 2025 - Real Estate",
+      "value": 95
+    },
+    {
+      "category": "Mar 2025 - Stocks",
+      "value": 95
+    },
+    {
+      "category": "Mar 2025 - Bonds",
+      "value": 110
+    },
+    {
+      "category": "Mar 2025 - Real Estate",
+      "value": 100
+    },
+    {
+      "category": "Apr 2025 - Stocks",
+      "value": 100
+    },
+    {
+      "category": "Apr 2025 - Bonds",
+      "value": 105
+    },
+    {
+      "category": "Apr 2025 - Real Estate",
+      "value": 95
+    },
+    {
+      "category": "May 2025 - Stocks",
+      "value": 95
+    },
+    {
+      "category": "May 2025 - Bonds",
+      "value": 110
+    },
+    {
+      "category": "May 2025 - Real Estate",
+      "value": 100
+    },
+    {
+      "category": "Jun 2025 - Stocks",
+      "value": 100
+    },
+    {
+      "category": "Jun 2025 - Bonds",
+      "value": 105
+    },
+    {
+      "category": "Jun 2025 - Real Estate",
+      "value": 95
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on visual inspection; exact values may vary slightly.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750517464_2122",
+    "image_path": "data\\raw_charts\\chart_145_medium_bar.png",
+    "extraction_timestamp": "2025-06-21T15:51:21.469311",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 16.61664080619812,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

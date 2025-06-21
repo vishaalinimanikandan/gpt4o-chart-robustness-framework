@@ -1,0 +1,84 @@
+{
+  "chart_title": "Production Efficiency - (Operational Metrics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 9
+    },
+    {
+      "category": "Category 2",
+      "value": 1
+    },
+    {
+      "category": "Category 3",
+      "value": 6
+    },
+    {
+      "category": "Category 4",
+      "value": 12
+    },
+    {
+      "category": "Category 5",
+      "value": 7
+    },
+    {
+      "category": "Category 6",
+      "value": 5
+    },
+    {
+      "category": "Category 7",
+      "value": 8
+    },
+    {
+      "category": "Category 8",
+      "value": 7
+    },
+    {
+      "category": "Category 9",
+      "value": 4
+    },
+    {
+      "category": "Category 10",
+      "value": 3
+    },
+    {
+      "category": "Category 11",
+      "value": 3
+    },
+    {
+      "category": "Category 12",
+      "value": 2
+    },
+    {
+      "category": "Category 13",
+      "value": 7
+    },
+    {
+      "category": "Category 14",
+      "value": 2
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly labeled with distinct colors and values.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750527533_5064",
+    "image_path": "data\\perturbations\\chart_196_advanced_scatter_rotation_high.png",
+    "extraction_timestamp": "2025-06-21T18:39:05.052428",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.54088282585144,
+    "chart_metadata": {
+      "original_chart_id": "chart_196_advanced_scatter",
+      "perturbation_type": "rotation",
+      "intensity": "high",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Sep 2024 - Stocks",
+      "value": 100
+    },
+    {
+      "category": "Sep 2024 - Bonds",
+      "value": 90
+    },
+    {
+      "category": "Oct 2024 - Stocks",
+      "value": 95
+    },
+    {
+      "category": "Oct 2024 - Bonds",
+      "value": 85
+    },
+    {
+      "category": "Nov 2024 - Stocks",
+      "value": 100
+    },
+    {
+      "category": "Nov 2024 - Bonds",
+      "value": 90
+    },
+    {
+      "category": "Dec 2024 - Stocks",
+      "value": 110
+    },
+    {
+      "category": "Dec 2024 - Bonds",
+      "value": 95
+    },
+    {
+      "category": "Jan 2025 - Stocks",
+      "value": 105
+    },
+    {
+      "category": "Jan 2025 - Bonds",
+      "value": 90
+    },
+    {
+      "category": "Feb 2025 - Stocks",
+      "value": 100
+    },
+    {
+      "category": "Feb 2025 - Bonds",
+      "value": 85
+    },
+    {
+      "category": "Mar 2025 - Stocks",
+      "value": 105
+    },
+    {
+      "category": "Mar 2025 - Bonds",
+      "value": 90
+    },
+    {
+      "category": "Apr 2025 - Stocks",
+      "value": 110
+    },
+    {
+      "category": "Apr 2025 - Bonds",
+      "value": 95
+    },
+    {
+      "category": "May 2025 - Stocks",
+      "value": 105
+    },
+    {
+      "category": "May 2025 - Bonds",
+      "value": 90
+    },
+    {
+      "category": "Jun 2025 - Stocks",
+      "value": 110
+    },
+    {
+      "category": "Jun 2025 - Bonds",
+      "value": 95
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Values are clearly visible and distinct. No ambiguities in the data.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750526913_7070",
+    "image_path": "data\\perturbations\\chart_108_medium_bar_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-06-21T18:28:47.131036",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 13.155959606170654,
+    "chart_metadata": {
+      "original_chart_id": "chart_108_medium_bar_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

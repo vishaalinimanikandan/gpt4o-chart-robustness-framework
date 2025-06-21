@@ -1,0 +1,80 @@
+{
+  "chart_title": "Treatment Efficacy Analysis - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 48.6
+    },
+    {
+      "category": "Category 2",
+      "value": 58.8
+    },
+    {
+      "category": "Category 3",
+      "value": 63.8
+    },
+    {
+      "category": "Category 4",
+      "value": 71.7
+    },
+    {
+      "category": "Category 5",
+      "value": 54.8
+    },
+    {
+      "category": "Category 6",
+      "value": 46.6
+    },
+    {
+      "category": "Category 7",
+      "value": 30.5
+    },
+    {
+      "category": "Category 8",
+      "value": 13.8
+    },
+    {
+      "category": "Category 9",
+      "value": 54.1
+    },
+    {
+      "category": "Category 10",
+      "value": 79.0
+    },
+    {
+      "category": "Category 11",
+      "value": 87.0
+    },
+    {
+      "category": "Category 12",
+      "value": 25.4
+    },
+    {
+      "category": "Category 13",
+      "value": 18.6
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points were clear and legible. Multiple series were present, but only one series was extracted for simplicity.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750520998_2684",
+    "image_path": "data\\perturbations\\chart_062_advanced_line_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-06-21T16:50:08.803729",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.986867666244507,
+    "chart_metadata": {
+      "original_chart_id": "chart_062_advanced_line_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

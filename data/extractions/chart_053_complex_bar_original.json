@@ -1,0 +1,123 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 90.7
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 57.4
+    },
+    {
+      "category": "Category 1 - Series C",
+      "value": 33.1
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 86.9
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 56.0
+    },
+    {
+      "category": "Category 2 - Series C",
+      "value": 37.7
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 83.4
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 37.7
+    },
+    {
+      "category": "Category 3 - Series C",
+      "value": 25.0
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 50.5
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 35.6
+    },
+    {
+      "category": "Category 4 - Series C",
+      "value": 23.9
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 88.3
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 78.1
+    },
+    {
+      "category": "Category 5 - Series C",
+      "value": 44.9
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 95.6
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 92.5
+    },
+    {
+      "category": "Category 6 - Series C",
+      "value": 40.7
+    },
+    {
+      "category": "Category 7 - Series A",
+      "value": 79.3
+    },
+    {
+      "category": "Category 7 - Series B",
+      "value": 40.7
+    },
+    {
+      "category": "Category 7 - Series C",
+      "value": 37.8
+    },
+    {
+      "category": "Category 8 - Series A",
+      "value": 98.6
+    },
+    {
+      "category": "Category 8 - Series B",
+      "value": 63.1
+    },
+    {
+      "category": "Category 8 - Series C",
+      "value": 42.8
+    },
+    {
+      "category": "Overall Average",
+      "value": 61.9
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values are clearly visible and legible. The chart is a grouped bar chart with a trend line and overall average.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750518814_7745",
+    "image_path": "data\\raw_charts\\chart_053_complex_bar.png",
+    "extraction_timestamp": "2025-06-21T16:13:47.159618",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.830220460891724,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

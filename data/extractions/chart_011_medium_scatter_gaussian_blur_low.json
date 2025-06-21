@@ -1,0 +1,77 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point 1",
+      "value": {
+        "Revenue": 0.9,
+        "Profit": 0.08
+      }
+    },
+    {
+      "category": "Point 2",
+      "value": {
+        "Revenue": 0.95,
+        "Profit": 0.18
+      }
+    },
+    {
+      "category": "Point 3",
+      "value": {
+        "Revenue": 1.0,
+        "Profit": 0.12
+      }
+    },
+    {
+      "category": "Point 4",
+      "value": {
+        "Revenue": 1.05,
+        "Profit": 0.1
+      }
+    },
+    {
+      "category": "Point 5",
+      "value": {
+        "Revenue": 1.1,
+        "Profit": 0.14
+      }
+    },
+    {
+      "category": "Point 6",
+      "value": {
+        "Revenue": 1.2,
+        "Profit": 0.18
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Exact values are estimated based on the grid lines. Colors are used to differentiate points but are not labeled.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750530616_3390",
+    "image_path": "data\\perturbations\\chart_011_medium_scatter_gaussian_blur_low.png",
+    "extraction_timestamp": "2025-06-21T19:30:32.563477",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 16.32610845565796,
+    "chart_metadata": {
+      "original_chart_id": "chart_011_medium_scatter_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "low",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'Revenue': 0.9, 'Profit': 0.08}",
+      "Data point 1 has invalid value: {'Revenue': 0.95, 'Profit': 0.18}",
+      "Data point 2 has invalid value: {'Revenue': 1.0, 'Profit': 0.12}",
+      "Data point 3 has invalid value: {'Revenue': 1.05, 'Profit': 0.1}",
+      "Data point 4 has invalid value: {'Revenue': 1.1, 'Profit': 0.14}",
+      "Data point 5 has invalid value: {'Revenue': 1.2, 'Profit': 0.18}"
+    ]
+  }
+}

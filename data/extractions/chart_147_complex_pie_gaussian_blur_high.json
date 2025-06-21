@@ -1,0 +1,60 @@
+{
+  "chart_title": "Economic Indicators - (Financial Analysis)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 2.2
+    },
+    {
+      "category": "Category 2",
+      "value": 19.9
+    },
+    {
+      "category": "Category 3",
+      "value": 6.1
+    },
+    {
+      "category": "Category 4",
+      "value": 14.7
+    },
+    {
+      "category": "Category 5",
+      "value": 12.1
+    },
+    {
+      "category": "Category 6",
+      "value": 5.3
+    },
+    {
+      "category": "Category 7",
+      "value": 20.0
+    },
+    {
+      "category": "Category 8",
+      "value": 19.8
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All percentages are clear and sum to approximately 100%.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750527356_7643",
+    "image_path": "data\\perturbations\\chart_147_complex_pie_gaussian_blur_high.png",
+    "extraction_timestamp": "2025-06-21T18:36:02.987184",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.957532167434692,
+    "chart_metadata": {
+      "original_chart_id": "chart_147_complex_pie_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "high",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

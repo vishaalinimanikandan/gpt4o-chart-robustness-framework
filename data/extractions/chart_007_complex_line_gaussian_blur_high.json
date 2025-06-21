@@ -1,0 +1,68 @@
+{
+  "chart_title": "Product Line Profitability - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 100
+    },
+    {
+      "category": "Category 2",
+      "value": 60
+    },
+    {
+      "category": "Category 3",
+      "value": 80
+    },
+    {
+      "category": "Category 4",
+      "value": 40
+    },
+    {
+      "category": "Category 5",
+      "value": 70
+    },
+    {
+      "category": "Category 6",
+      "value": 90
+    },
+    {
+      "category": "Category 7",
+      "value": 30
+    },
+    {
+      "category": "Category 8",
+      "value": 50
+    },
+    {
+      "category": "Category 9",
+      "value": 85
+    },
+    {
+      "category": "Category 10",
+      "value": 60
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are approximate due to overlapping lines and shaded areas.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750528783_7887",
+    "image_path": "data\\perturbations\\chart_007_complex_line_gaussian_blur_high.png",
+    "extraction_timestamp": "2025-06-21T18:59:51.317228",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.403412342071533,
+    "chart_metadata": {
+      "original_chart_id": "chart_007_complex_line_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "high",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "chart_title": "Service Level Agreement - (Operational Metrics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 23.3
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 31.9
+    },
+    {
+      "category": "Category 1 - Series C",
+      "value": 44.0
+    },
+    {
+      "category": "Category 1 - Series D",
+      "value": 64.2
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 35.8
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 29.9
+    },
+    {
+      "category": "Category 2 - Series C",
+      "value": 47.8
+    },
+    {
+      "category": "Category 2 - Series D",
+      "value": 55.6
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 40.6
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 16.6
+    },
+    {
+      "category": "Category 3 - Series C",
+      "value": 59.0
+    },
+    {
+      "category": "Category 3 - Series D",
+      "value": 63.2
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 30.0
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 38.4
+    },
+    {
+      "category": "Category 4 - Series C",
+      "value": 38.1
+    },
+    {
+      "category": "Category 4 - Series D",
+      "value": 77.0
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 67.6
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 96.6
+    },
+    {
+      "category": "Category 5 - Series C",
+      "value": 91.4
+    },
+    {
+      "category": "Category 5 - Series D",
+      "value": 97.2
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 44.7
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 48.3
+    },
+    {
+      "category": "Category 6 - Series C",
+      "value": 42.3
+    },
+    {
+      "category": "Category 6 - Series D",
+      "value": 56.1
+    },
+    {
+      "category": "Category 7 - Series A",
+      "value": 38.8
+    },
+    {
+      "category": "Category 7 - Series B",
+      "value": 49.0
+    },
+    {
+      "category": "Category 7 - Series C",
+      "value": 43.0
+    },
+    {
+      "category": "Category 7 - Series D",
+      "value": 60.8
+    },
+    {
+      "category": "Category 8 - Series A",
+      "value": 88.0
+    },
+    {
+      "category": "Category 8 - Series B",
+      "value": 93.5
+    },
+    {
+      "category": "Category 8 - Series C",
+      "value": 85.9
+    },
+    {
+      "category": "Category 8 - Series D",
+      "value": 88.8
+    },
+    {
+      "category": "Category 9 - Series A",
+      "value": 46.4
+    },
+    {
+      "category": "Category 9 - Series B",
+      "value": 66.1
+    },
+    {
+      "category": "Category 9 - Series C",
+      "value": 41.5
+    },
+    {
+      "category": "Category 9 - Series D",
+      "value": 73.7
+    },
+    {
+      "category": "Category 10 - Series A",
+      "value": 28.8
+    },
+    {
+      "category": "Category 10 - Series B",
+      "value": 104.6
+    },
+    {
+      "category": "Category 10 - Series C",
+      "value": 13.6
+    },
+    {
+      "category": "Category 10 - Series D",
+      "value": 46.4
+    },
+    {
+      "category": "Category 11 - Series A",
+      "value": 71.4
+    },
+    {
+      "category": "Category 11 - Series B",
+      "value": 88.2
+    },
+    {
+      "category": "Category 11 - Series C",
+      "value": 34.5
+    },
+    {
+      "category": "Category 11 - Series D",
+      "value": 83.2
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points were clearly visible and extracted with high confidence.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750527426_2562",
+    "image_path": "data\\perturbations\\chart_156_complex_bar_brightness_shift_low.png",
+    "extraction_timestamp": "2025-06-21T18:37:32.408616",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 25.63168740272522,
+    "chart_metadata": {
+      "original_chart_id": "chart_156_complex_bar_brightness",
+      "perturbation_type": "shift",
+      "intensity": "low",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

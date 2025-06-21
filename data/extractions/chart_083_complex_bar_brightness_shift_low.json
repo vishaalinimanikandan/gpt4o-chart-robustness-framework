@@ -1,0 +1,136 @@
+{
+  "chart_title": "Correlation Analysis - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 63.8
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 90.2
+    },
+    {
+      "category": "Category 1 - Series C",
+      "value": 84.2
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 46.5
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 82.7
+    },
+    {
+      "category": "Category 2 - Series C",
+      "value": 30.9
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 67.2
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 83.1
+    },
+    {
+      "category": "Category 3 - Series C",
+      "value": 39.9
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 58.0
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 85.0
+    },
+    {
+      "category": "Category 4 - Series C",
+      "value": 39.5
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 52.3
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 90.7
+    },
+    {
+      "category": "Category 5 - Series C",
+      "value": 53.9
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 21.6
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 79.7
+    },
+    {
+      "category": "Category 6 - Series C",
+      "value": 25.8
+    },
+    {
+      "category": "Category 7 - Series A",
+      "value": 43.5
+    },
+    {
+      "category": "Category 7 - Series B",
+      "value": 60.1
+    },
+    {
+      "category": "Category 7 - Series C",
+      "value": 35.0
+    },
+    {
+      "category": "Category 8 - Series A",
+      "value": 14.8
+    },
+    {
+      "category": "Category 8 - Series B",
+      "value": 34.6
+    },
+    {
+      "category": "Category 8 - Series C",
+      "value": 34.6
+    },
+    {
+      "category": "Category 9 - Series A",
+      "value": 8.3
+    },
+    {
+      "category": "Category 9 - Series B",
+      "value": 85.5
+    },
+    {
+      "category": "Category 9 - Series C",
+      "value": 36.0
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values are clearly visible and distinct. The chart is well-labeled.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750528915_7439",
+    "image_path": "data\\perturbations\\chart_083_complex_bar_brightness_shift_low.png",
+    "extraction_timestamp": "2025-06-21T19:02:12.750645",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 17.543015956878662,
+    "chart_metadata": {
+      "original_chart_id": "chart_083_complex_bar_brightness",
+      "perturbation_type": "shift",
+      "intensity": "low",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

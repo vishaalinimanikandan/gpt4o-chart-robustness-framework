@@ -1,0 +1,88 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 90.8
+    },
+    {
+      "category": "Category 2",
+      "value": 62.1
+    },
+    {
+      "category": "Category 3",
+      "value": 56.0
+    },
+    {
+      "category": "Category 4",
+      "value": 49.6
+    },
+    {
+      "category": "Category 5",
+      "value": 31.4
+    },
+    {
+      "category": "Category 6",
+      "value": 18.5
+    },
+    {
+      "category": "Category 7",
+      "value": 18.5
+    },
+    {
+      "category": "Category 8",
+      "value": 39.7
+    },
+    {
+      "category": "Category 9",
+      "value": 32.7
+    },
+    {
+      "category": "Category 10",
+      "value": 37.7
+    },
+    {
+      "category": "Category 11",
+      "value": 31.1
+    },
+    {
+      "category": "Category 12",
+      "value": 25.9
+    },
+    {
+      "category": "Category 13",
+      "value": 20.4
+    },
+    {
+      "category": "Category 14",
+      "value": 16.3
+    },
+    {
+      "category": "Category 15",
+      "value": 114.0
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart is cluttered with black squares, making some data points difficult to read. Values are estimated based on visible portions.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750526403_4216",
+    "image_path": "data\\perturbations\\chart_190_advanced_line_random_blocks_medium.png",
+    "extraction_timestamp": "2025-06-21T18:20:16.163839",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.65971302986145,
+    "chart_metadata": {
+      "original_chart_id": "chart_190_advanced_line_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

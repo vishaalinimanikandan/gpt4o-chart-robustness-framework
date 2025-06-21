@@ -1,0 +1,76 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 93.9
+    },
+    {
+      "category": "Category 2",
+      "value": 50.9
+    },
+    {
+      "category": "Category 3",
+      "value": 36.6
+    },
+    {
+      "category": "Category 4",
+      "value": 91.6
+    },
+    {
+      "category": "Category 5",
+      "value": 48.0
+    },
+    {
+      "category": "Category 6",
+      "value": 53.8
+    },
+    {
+      "category": "Category 7",
+      "value": 66.1
+    },
+    {
+      "category": "Category 8",
+      "value": 43.4
+    },
+    {
+      "category": "Category 9",
+      "value": 22.3
+    },
+    {
+      "category": "Category 10",
+      "value": 46.3
+    },
+    {
+      "category": "Category 11",
+      "value": 50.8
+    },
+    {
+      "category": "Category 12",
+      "value": 32.9
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The image is obscured by black squares, making it difficult to extract all data points accurately. Some values and labels might be missing or partially visible.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750524913_6759",
+    "image_path": "data\\perturbations\\chart_180_advanced_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-06-21T17:55:23.578107",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.836817026138306,
+    "chart_metadata": {
+      "original_chart_id": "chart_180_advanced_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

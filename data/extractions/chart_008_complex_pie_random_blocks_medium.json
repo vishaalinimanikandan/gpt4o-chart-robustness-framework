@@ -1,0 +1,72 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - [Business Analytics]",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Q1 '22",
+      "value": 7.9
+    },
+    {
+      "category": "Q2 '22",
+      "value": 8.1
+    },
+    {
+      "category": "Q3 '22",
+      "value": 7.6
+    },
+    {
+      "category": "Q4 '22",
+      "value": 6.9
+    },
+    {
+      "category": "Q1 '22",
+      "value": 8.9
+    },
+    {
+      "category": "Q2 '22",
+      "value": 6.8
+    },
+    {
+      "category": "Q3 '22",
+      "value": 8.8
+    },
+    {
+      "category": "Q4 '22",
+      "value": 8.8
+    },
+    {
+      "category": "Q1 '22",
+      "value": 9.8
+    },
+    {
+      "category": "Q2 '22",
+      "value": 10.3
+    },
+    {
+      "category": "Q3 '22",
+      "value": 7.3
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart has overlapping text and some labels are repeated, causing potential ambiguity in category identification.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750526568_1464",
+    "image_path": "data\\perturbations\\chart_008_complex_pie_random_blocks_medium.png",
+    "extraction_timestamp": "2025-06-21T18:22:55.058680",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.567528009414673,
+    "chart_metadata": {
+      "original_chart_id": "chart_008_complex_pie_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

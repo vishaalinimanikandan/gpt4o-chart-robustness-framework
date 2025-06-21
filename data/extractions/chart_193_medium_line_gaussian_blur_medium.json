@@ -1,0 +1,76 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 100
+    },
+    {
+      "category": "Category 2",
+      "value": 70
+    },
+    {
+      "category": "Category 3",
+      "value": 40
+    },
+    {
+      "category": "Category 4",
+      "value": 50
+    },
+    {
+      "category": "Category 5",
+      "value": 90
+    },
+    {
+      "category": "Category 6",
+      "value": 35
+    },
+    {
+      "category": "Category 1",
+      "value": 70
+    },
+    {
+      "category": "Category 2",
+      "value": 90
+    },
+    {
+      "category": "Category 3",
+      "value": 80
+    },
+    {
+      "category": "Category 4",
+      "value": 85
+    },
+    {
+      "category": "Category 5",
+      "value": 75
+    },
+    {
+      "category": "Category 6",
+      "value": 40
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly visible and distinct for both series.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750520760_2734",
+    "image_path": "data\\perturbations\\chart_193_medium_line_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-06-21T16:46:08.842041",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.673566341400146,
+    "chart_metadata": {
+      "original_chart_id": "chart_193_medium_line_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

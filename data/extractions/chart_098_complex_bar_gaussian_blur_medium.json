@@ -1,0 +1,160 @@
+{
+  "chart_title": "Correlation Analysis - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 42.2
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 70.1
+    },
+    {
+      "category": "Category 1 - Series C",
+      "value": 39.7
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 48.6
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 59.4
+    },
+    {
+      "category": "Category 2 - Series C",
+      "value": 22.7
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 113.1
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 78.8
+    },
+    {
+      "category": "Category 3 - Series C",
+      "value": 29.0
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 73.6
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 44.6
+    },
+    {
+      "category": "Category 4 - Series C",
+      "value": 30.0
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 97.6
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 66.7
+    },
+    {
+      "category": "Category 5 - Series C",
+      "value": 23.6
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 114.2
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 55.5
+    },
+    {
+      "category": "Category 6 - Series C",
+      "value": 28.9
+    },
+    {
+      "category": "Category 7 - Series A",
+      "value": 94.1
+    },
+    {
+      "category": "Category 7 - Series B",
+      "value": 23.9
+    },
+    {
+      "category": "Category 7 - Series C",
+      "value": 49.9
+    },
+    {
+      "category": "Category 8 - Series A",
+      "value": 92.2
+    },
+    {
+      "category": "Category 8 - Series B",
+      "value": 70.8
+    },
+    {
+      "category": "Category 8 - Series C",
+      "value": 45.4
+    },
+    {
+      "category": "Category 9 - Series A",
+      "value": 91.9
+    },
+    {
+      "category": "Category 9 - Series B",
+      "value": 72.9
+    },
+    {
+      "category": "Category 9 - Series C",
+      "value": 23.6
+    },
+    {
+      "category": "Category 10 - Series A",
+      "value": 98.0
+    },
+    {
+      "category": "Category 10 - Series B",
+      "value": 83.1
+    },
+    {
+      "category": "Category 10 - Series C",
+      "value": 23.5
+    },
+    {
+      "category": "Category 11 - Series A",
+      "value": 59.9
+    },
+    {
+      "category": "Category 11 - Series B",
+      "value": 42.1
+    },
+    {
+      "category": "Category 11 - Series C",
+      "value": 30.0
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points were clearly visible and extracted with high confidence.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750526652_9159",
+    "image_path": "data\\perturbations\\chart_098_complex_bar_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-06-21T18:24:30.121684",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 17.13765048980713,
+    "chart_metadata": {
+      "original_chart_id": "chart_098_complex_bar_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

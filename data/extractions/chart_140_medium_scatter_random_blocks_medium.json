@@ -1,0 +1,61 @@
+{
+  "chart_title": "Sector Comparison - (Financial Analysis)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point 1",
+      "value": {
+        "Series A": 30,
+        "Series B": 20
+      }
+    },
+    {
+      "category": "Point 2",
+      "value": {
+        "Series A": 50,
+        "Series B": 40
+      }
+    },
+    {
+      "category": "Point 3",
+      "value": {
+        "Series A": 70,
+        "Series B": 60
+      }
+    },
+    {
+      "category": "Point 4",
+      "value": {
+        "Series A": 100,
+        "Series B": 80
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart is obscured by black squares, making it difficult to extract precise data points. The values are estimated based on visible markers.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750525223_8273",
+    "image_path": "data\\perturbations\\chart_140_medium_scatter_random_blocks_medium.png",
+    "extraction_timestamp": "2025-06-21T18:00:29.219553",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 5.8213300704956055,
+    "chart_metadata": {
+      "original_chart_id": "chart_140_medium_scatter_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'Series A': 30, 'Series B': 20}",
+      "Data point 1 has invalid value: {'Series A': 50, 'Series B': 40}",
+      "Data point 2 has invalid value: {'Series A': 70, 'Series B': 60}",
+      "Data point 3 has invalid value: {'Series A': 100, 'Series B': 80}"
+    ]
+  }
+}

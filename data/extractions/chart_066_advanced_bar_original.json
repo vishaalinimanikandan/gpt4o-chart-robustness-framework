@@ -1,0 +1,75 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 86.6
+    },
+    {
+      "category": "Category 2",
+      "value": 88.3
+    },
+    {
+      "category": "Category 3",
+      "value": 97.7
+    },
+    {
+      "category": "Category 4",
+      "value": 90.7
+    },
+    {
+      "category": "Category 5",
+      "value": 90.3
+    },
+    {
+      "category": "Category 6",
+      "value": 90.4
+    },
+    {
+      "category": "Category 7",
+      "value": 100.2
+    },
+    {
+      "category": "Category 8",
+      "value": 104.1
+    },
+    {
+      "category": "Category 9",
+      "value": 98.4
+    },
+    {
+      "category": "Category 10",
+      "value": 98.8
+    },
+    {
+      "category": "Category 11",
+      "value": 95.9
+    },
+    {
+      "category": "Category 12",
+      "value": 91.4
+    },
+    {
+      "category": "Category 13",
+      "value": 91.1
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data extracted from visible bars. Series labels and values are clear.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750517949_5956",
+    "image_path": "data\\raw_charts\\chart_066_advanced_bar.png",
+    "extraction_timestamp": "2025-06-21T15:59:17.112515",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.804905652999878,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

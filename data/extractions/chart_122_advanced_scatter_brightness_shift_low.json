@@ -1,0 +1,76 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Jul 2024",
+      "value": 95
+    },
+    {
+      "category": "Aug 2024",
+      "value": 96
+    },
+    {
+      "category": "Sep 2024",
+      "value": 97
+    },
+    {
+      "category": "Oct 2024",
+      "value": 98
+    },
+    {
+      "category": "Nov 2024",
+      "value": 99
+    },
+    {
+      "category": "Dec 2024",
+      "value": 100
+    },
+    {
+      "category": "Jan 2025",
+      "value": 105
+    },
+    {
+      "category": "Feb 2025",
+      "value": 106
+    },
+    {
+      "category": "Mar 2025",
+      "value": 107
+    },
+    {
+      "category": "Apr 2025",
+      "value": 108
+    },
+    {
+      "category": "May 2025",
+      "value": 115
+    },
+    {
+      "category": "Jun 2025",
+      "value": 120
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly labeled with months and years. The trend line and color gradient provide additional context but do not affect the extraction of numerical values.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750530443_6892",
+    "image_path": "data\\perturbations\\chart_122_advanced_scatter_brightness_shift_low.png",
+    "extraction_timestamp": "2025-06-21T19:27:35.868730",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.23375940322876,
+    "chart_metadata": {
+      "original_chart_id": "chart_122_advanced_scatter_brightness",
+      "perturbation_type": "shift",
+      "intensity": "low",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

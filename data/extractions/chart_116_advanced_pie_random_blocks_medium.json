@@ -1,0 +1,80 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "May 2024",
+      "value": 8.6
+    },
+    {
+      "category": "Jun 2024",
+      "value": 8.3
+    },
+    {
+      "category": "Jul 2024",
+      "value": 7.5
+    },
+    {
+      "category": "Aug 2024",
+      "value": 7.0
+    },
+    {
+      "category": "Sep 2024",
+      "value": 6.5
+    },
+    {
+      "category": "Oct 2024",
+      "value": 6.1
+    },
+    {
+      "category": "Nov 2024",
+      "value": 6.2
+    },
+    {
+      "category": "Dec 2024",
+      "value": 6.1
+    },
+    {
+      "category": "Jan 2025",
+      "value": 6.1
+    },
+    {
+      "category": "Feb 2025",
+      "value": 6.7
+    },
+    {
+      "category": "Mar 2025",
+      "value": 7.7
+    },
+    {
+      "category": "Apr 2025",
+      "value": 7.2
+    },
+    {
+      "category": "Jun 2025",
+      "value": 7.8
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data extracted from pie chart with clear labels and values.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750524807_5813",
+    "image_path": "data\\perturbations\\chart_116_advanced_pie_random_blocks_medium.png",
+    "extraction_timestamp": "2025-06-21T17:53:35.444956",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.159462451934814,
+    "chart_metadata": {
+      "original_chart_id": "chart_116_advanced_pie_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

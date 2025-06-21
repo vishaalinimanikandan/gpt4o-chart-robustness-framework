@@ -1,0 +1,64 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 8.7
+    },
+    {
+      "category": "Category 2",
+      "value": 17.1
+    },
+    {
+      "category": "Category 3",
+      "value": 12.2
+    },
+    {
+      "category": "Category 4",
+      "value": 4.5
+    },
+    {
+      "category": "Category 5",
+      "value": 16.3
+    },
+    {
+      "category": "Category 6",
+      "value": 7.8
+    },
+    {
+      "category": "Category 7",
+      "value": 12.6
+    },
+    {
+      "category": "Category 8",
+      "value": 4.1
+    },
+    {
+      "category": "Category 9",
+      "value": 16.8
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All percentages are clear and legible. The sum of percentages is approximately 100%.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750520734_2443",
+    "image_path": "data\\perturbations\\chart_176_medium_pie_rotation_medium.png",
+    "extraction_timestamp": "2025-06-21T16:45:41.061669",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.743692398071289,
+    "chart_metadata": {
+      "original_chart_id": "chart_176_medium_pie",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

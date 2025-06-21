@@ -1,0 +1,69 @@
+{
+  "chart_title": "Sector Comparison - (Financial Analysis)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point 1",
+      "value": {
+        "Series A": 30,
+        "Series B": 20
+      }
+    },
+    {
+      "category": "Point 2",
+      "value": {
+        "Series A": 40,
+        "Series B": 50
+      }
+    },
+    {
+      "category": "Point 3",
+      "value": {
+        "Series A": 50,
+        "Series B": 30
+      }
+    },
+    {
+      "category": "Point 4",
+      "value": {
+        "Series A": 70,
+        "Series B": 80
+      }
+    },
+    {
+      "category": "Point 5",
+      "value": {
+        "Series A": 100,
+        "Series B": 40
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Exact values are estimated based on the grid lines as there are no labels on the points.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750520468_9725",
+    "image_path": "data\\perturbations\\chart_140_medium_scatter_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-06-21T16:41:15.241090",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.744019269943237,
+    "chart_metadata": {
+      "original_chart_id": "chart_140_medium_scatter_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'Series A': 30, 'Series B': 20}",
+      "Data point 1 has invalid value: {'Series A': 40, 'Series B': 50}",
+      "Data point 2 has invalid value: {'Series A': 50, 'Series B': 30}",
+      "Data point 3 has invalid value: {'Series A': 70, 'Series B': 80}",
+      "Data point 4 has invalid value: {'Series A': 100, 'Series B': 40}"
+    ]
+  }
+}

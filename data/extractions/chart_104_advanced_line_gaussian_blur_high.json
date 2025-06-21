@@ -1,0 +1,84 @@
+{
+  "chart_title": "Economic Indicators - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 97.5
+    },
+    {
+      "category": "Category 2",
+      "value": 88.4
+    },
+    {
+      "category": "Category 3",
+      "value": 69.2
+    },
+    {
+      "category": "Category 4",
+      "value": 34.0
+    },
+    {
+      "category": "Category 5",
+      "value": 41.7
+    },
+    {
+      "category": "Category 6",
+      "value": 36.1
+    },
+    {
+      "category": "Category 7",
+      "value": 33.3
+    },
+    {
+      "category": "Category 8",
+      "value": 30.1
+    },
+    {
+      "category": "Category 9",
+      "value": 12.7
+    },
+    {
+      "category": "Category 10",
+      "value": 9.7
+    },
+    {
+      "category": "Category 11",
+      "value": 22.3
+    },
+    {
+      "category": "Category 12",
+      "value": 32.9
+    },
+    {
+      "category": "Category 13",
+      "value": 28.6
+    },
+    {
+      "category": "Category 14",
+      "value": 36.8
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The chart is clear and values are legible. Multiple series are present, but only one series is extracted for simplicity.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750530670_7841",
+    "image_path": "data\\perturbations\\chart_104_advanced_line_gaussian_blur_high.png",
+    "extraction_timestamp": "2025-06-21T19:31:21.535654",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.391111612319946,
+    "chart_metadata": {
+      "original_chart_id": "chart_104_advanced_line_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "high",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

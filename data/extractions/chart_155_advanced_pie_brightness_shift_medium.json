@@ -1,0 +1,84 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 4.6
+    },
+    {
+      "category": "Category 2",
+      "value": 5.1
+    },
+    {
+      "category": "Category 3",
+      "value": 8.3
+    },
+    {
+      "category": "Category 4",
+      "value": 7.1
+    },
+    {
+      "category": "Category 5",
+      "value": 6.9
+    },
+    {
+      "category": "Category 6",
+      "value": 2.9
+    },
+    {
+      "category": "Category 7",
+      "value": 6.7
+    },
+    {
+      "category": "Category 8",
+      "value": 5.6
+    },
+    {
+      "category": "Category 9",
+      "value": 12.2
+    },
+    {
+      "category": "Category 10",
+      "value": 10.5
+    },
+    {
+      "category": "Category 11",
+      "value": 5.2
+    },
+    {
+      "category": "Category 12",
+      "value": 9.4
+    },
+    {
+      "category": "Category 13",
+      "value": 6.6
+    },
+    {
+      "category": "Category 14",
+      "value": 9.0
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data extracted from pie chart with clear labels and percentages.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750526981_4960",
+    "image_path": "data\\perturbations\\chart_155_advanced_pie_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-06-21T18:29:49.447814",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.086154699325562,
+    "chart_metadata": {
+      "original_chart_id": "chart_155_advanced_pie_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

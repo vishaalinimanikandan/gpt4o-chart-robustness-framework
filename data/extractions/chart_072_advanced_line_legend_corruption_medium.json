@@ -1,0 +1,68 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 63.3
+    },
+    {
+      "category": "Condition B",
+      "value": 74.9
+    },
+    {
+      "category": "Condition C",
+      "value": 78.5
+    },
+    {
+      "category": "Condition D",
+      "value": 73.5
+    },
+    {
+      "category": "Condition E",
+      "value": 82.5
+    },
+    {
+      "category": "Condition F",
+      "value": 66.3
+    },
+    {
+      "category": "Condition G",
+      "value": 67.2
+    },
+    {
+      "category": "Condition H",
+      "value": 70.0
+    },
+    {
+      "category": "Condition I",
+      "value": 82.6
+    },
+    {
+      "category": "Condition J",
+      "value": 85.0
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some data points are partially obscured by overlapping lines and shaded areas, which may affect precision.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750525008_2229",
+    "image_path": "data\\perturbations\\chart_072_advanced_line_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-06-21T17:56:54.661725",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 5.682352066040039,
+    "chart_metadata": {
+      "original_chart_id": "chart_072_advanced_line_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

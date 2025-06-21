@@ -1,0 +1,76 @@
+{
+  "chart_title": "Service Level Agreement - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 30
+    },
+    {
+      "category": "Category 2",
+      "value": 40
+    },
+    {
+      "category": "Category 3",
+      "value": 50
+    },
+    {
+      "category": "Category 4",
+      "value": 60
+    },
+    {
+      "category": "Category 5",
+      "value": 70
+    },
+    {
+      "category": "Category 6",
+      "value": 80
+    },
+    {
+      "category": "Category 7",
+      "value": 90
+    },
+    {
+      "category": "Category 8",
+      "value": 100
+    },
+    {
+      "category": "Category 9",
+      "value": 110
+    },
+    {
+      "category": "Category 10",
+      "value": 120
+    },
+    {
+      "category": "Category 11",
+      "value": 130
+    },
+    {
+      "category": "Category 12",
+      "value": 140
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The values are estimated based on the visual representation of the lines. Exact values may vary slightly.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750524138_9945",
+    "image_path": "data\\perturbations\\chart_170_complex_line_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-06-21T17:42:27.566534",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.585612058639526,
+    "chart_metadata": {
+      "original_chart_id": "chart_170_complex_line_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

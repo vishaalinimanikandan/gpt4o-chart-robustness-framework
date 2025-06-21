@@ -1,0 +1,93 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "North America",
+      "Product A": 120,
+      "Product B": 100,
+      "Product C": 110,
+      "Product D": 90
+    },
+    {
+      "category": "Europe",
+      "Product A": 160,
+      "Product B": 150,
+      "Product C": 280,
+      "Product D": 130
+    },
+    {
+      "category": "Asia Pacific",
+      "Product A": 140,
+      "Product B": 130,
+      "Product C": 260,
+      "Product D": 120
+    },
+    {
+      "category": "Latin America",
+      "Product A": 80,
+      "Product B": 70,
+      "Product C": 90,
+      "Product D": 60
+    },
+    {
+      "category": "Middle East",
+      "Product A": 60,
+      "Product B": 50,
+      "Product C": 70,
+      "Product D": 40
+    },
+    {
+      "category": "Africa",
+      "Product A": 50,
+      "Product B": 40,
+      "Product C": 60,
+      "Product D": 30
+    },
+    {
+      "category": "Oceania",
+      "Product A": 70,
+      "Product B": 60,
+      "Product C": 50,
+      "Product D": 40
+    },
+    {
+      "category": "Nordic Countries",
+      "Product A": 90,
+      "Product B": 80,
+      "Product C": 70,
+      "Product D": 60
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the chart's visual representation. Some overlap in lines may cause slight inaccuracies.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750521056_3504",
+    "image_path": "data\\perturbations\\chart_027_complex_area_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-06-21T16:51:07.039388",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.3350989818573,
+    "chart_metadata": {
+      "original_chart_id": "chart_027_complex_area_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 missing value",
+      "Data point 1 missing value",
+      "Data point 2 missing value",
+      "Data point 3 missing value",
+      "Data point 4 missing value",
+      "Data point 5 missing value",
+      "Data point 6 missing value",
+      "Data point 7 missing value"
+    ]
+  }
+}

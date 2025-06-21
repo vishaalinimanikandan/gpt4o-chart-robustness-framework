@@ -1,0 +1,48 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 100
+    },
+    {
+      "category": "Category 2",
+      "value": 30
+    },
+    {
+      "category": "Category 3",
+      "value": 40
+    },
+    {
+      "category": "Category 4",
+      "value": 90
+    },
+    {
+      "category": "Category 5",
+      "value": 70
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The values were estimated based on the position of the points on the chart. The exact numerical values might slightly differ.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750521661_1641",
+    "image_path": "data\\perturbations\\chart_099_medium_line_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-06-21T17:01:06.861311",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 5.18673300743103,
+    "chart_metadata": {
+      "original_chart_id": "chart_099_medium_line_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

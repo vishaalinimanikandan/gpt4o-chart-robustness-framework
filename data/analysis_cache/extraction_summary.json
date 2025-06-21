@@ -1,0 +1,26 @@
+{
+  "extraction_execution_complete": true,
+  "total_extractions": 898,
+  "successful_extractions": 1078,
+  "success_rate": 97.29241877256317,
+  "total_cost": 32.340000000000465,
+  "remaining_budget": 7.659999999999535,
+  "extraction_breakdown": {
+    "original_charts": 200,
+    "perturbations": 698
+  },
+  "perturbation_types_tested": [
+    "rotation",
+    "corruption",
+    "shift",
+    "blur",
+    "blocks"
+  ],
+  "quality_metrics": {
+    "high_confidence_extractions": 543,
+    "valid_extractions": 867,
+    "avg_response_time": 13.298565328895272
+  },
+  "ready_for_analysis": true,
+  "next_notebook": "05_Multi_Metric_Analysis.ipynb"
+}

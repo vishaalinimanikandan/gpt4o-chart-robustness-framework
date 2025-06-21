@@ -1,0 +1,103 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Sep 2024 - Stocks",
+      "value": 100
+    },
+    {
+      "category": "Oct 2024 - Stocks",
+      "value": 105
+    },
+    {
+      "category": "Nov 2024 - Stocks",
+      "value": 112
+    },
+    {
+      "category": "Dec 2024 - Stocks",
+      "value": 115
+    },
+    {
+      "category": "Jan 2025 - Stocks",
+      "value": 113
+    },
+    {
+      "category": "Feb 2025 - Stocks",
+      "value": 110
+    },
+    {
+      "category": "Mar 2025 - Stocks",
+      "value": 111
+    },
+    {
+      "category": "Apr 2025 - Stocks",
+      "value": 112
+    },
+    {
+      "category": "May 2025 - Stocks",
+      "value": 113
+    },
+    {
+      "category": "Jun 2025 - Stocks",
+      "value": 118
+    },
+    {
+      "category": "Sep 2024 - Bonds",
+      "value": 95
+    },
+    {
+      "category": "Oct 2024 - Bonds",
+      "value": 96
+    },
+    {
+      "category": "Nov 2024 - Bonds",
+      "value": 97
+    },
+    {
+      "category": "Dec 2024 - Bonds",
+      "value": 97
+    },
+    {
+      "category": "Jan 2025 - Bonds",
+      "value": 96
+    },
+    {
+      "category": "Feb 2025 - Bonds",
+      "value": 94
+    },
+    {
+      "category": "Mar 2025 - Bonds",
+      "value": 94.5
+    },
+    {
+      "category": "Apr 2025 - Bonds",
+      "value": 95
+    },
+    {
+      "category": "May 2025 - Bonds",
+      "value": 95.5
+    },
+    {
+      "category": "Jun 2025 - Bonds",
+      "value": 97
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clear and well-defined. No ambiguities observed.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750517223_5861",
+    "image_path": "data\\raw_charts\\chart_111_medium_line.png",
+    "extraction_timestamp": "2025-06-21T15:47:13.886617",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.714897871017456,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

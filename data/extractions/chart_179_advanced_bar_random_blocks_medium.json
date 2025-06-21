@@ -1,0 +1,80 @@
+{
+  "chart_title": "Quality Control Metrics - (Operational Metrics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 97.4
+    },
+    {
+      "category": "Category 2",
+      "value": 83.8
+    },
+    {
+      "category": "Category 3",
+      "value": 85.9
+    },
+    {
+      "category": "Category 4",
+      "value": 97.2
+    },
+    {
+      "category": "Category 5",
+      "value": 96.4
+    },
+    {
+      "category": "Category 6",
+      "value": 84.0
+    },
+    {
+      "category": "Category 7",
+      "value": 82.6
+    },
+    {
+      "category": "Category 8",
+      "value": 112.8
+    },
+    {
+      "category": "Category 9",
+      "value": 87.1
+    },
+    {
+      "category": "Category 10",
+      "value": 83.7
+    },
+    {
+      "category": "Category 11",
+      "value": 81.6
+    },
+    {
+      "category": "Category 12",
+      "value": 77.8
+    },
+    {
+      "category": "Category 13",
+      "value": 61.7
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some values are partially obscured by black squares, making precise extraction challenging.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750520282_4349",
+    "image_path": "data\\perturbations\\chart_179_advanced_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-06-21T16:38:11.861580",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.399750232696533,
+    "chart_metadata": {
+      "original_chart_id": "chart_179_advanced_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

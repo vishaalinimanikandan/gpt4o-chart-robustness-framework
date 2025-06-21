@@ -1,0 +1,188 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Sep 2024 - Stocks",
+      "value": 97.9
+    },
+    {
+      "category": "Sep 2024 - Bonds",
+      "value": 101.5
+    },
+    {
+      "category": "Sep 2024 - Real Estate",
+      "value": 105.0
+    },
+    {
+      "category": "Sep 2024 - Commodities",
+      "value": 97.9
+    },
+    {
+      "category": "Oct 2024 - Stocks",
+      "value": 96.7
+    },
+    {
+      "category": "Oct 2024 - Bonds",
+      "value": 102.5
+    },
+    {
+      "category": "Oct 2024 - Real Estate",
+      "value": 102.9
+    },
+    {
+      "category": "Oct 2024 - Commodities",
+      "value": 99.7
+    },
+    {
+      "category": "Nov 2024 - Stocks",
+      "value": 94.7
+    },
+    {
+      "category": "Nov 2024 - Bonds",
+      "value": 100.8
+    },
+    {
+      "category": "Nov 2024 - Real Estate",
+      "value": 103.5
+    },
+    {
+      "category": "Nov 2024 - Commodities",
+      "value": 99.3
+    },
+    {
+      "category": "Dec 2024 - Stocks",
+      "value": 94.0
+    },
+    {
+      "category": "Dec 2024 - Bonds",
+      "value": 97.5
+    },
+    {
+      "category": "Dec 2024 - Real Estate",
+      "value": 105.1
+    },
+    {
+      "category": "Dec 2024 - Commodities",
+      "value": 97.5
+    },
+    {
+      "category": "Jan 2025 - Stocks",
+      "value": 95.2
+    },
+    {
+      "category": "Jan 2025 - Bonds",
+      "value": 99.7
+    },
+    {
+      "category": "Jan 2025 - Real Estate",
+      "value": 103.2
+    },
+    {
+      "category": "Jan 2025 - Commodities",
+      "value": 103.2
+    },
+    {
+      "category": "Feb 2025 - Stocks",
+      "value": 94.2
+    },
+    {
+      "category": "Feb 2025 - Bonds",
+      "value": 105.1
+    },
+    {
+      "category": "Feb 2025 - Real Estate",
+      "value": 106.5
+    },
+    {
+      "category": "Feb 2025 - Commodities",
+      "value": 105.9
+    },
+    {
+      "category": "Mar 2025 - Stocks",
+      "value": 98.9
+    },
+    {
+      "category": "Mar 2025 - Bonds",
+      "value": 111.2
+    },
+    {
+      "category": "Mar 2025 - Real Estate",
+      "value": 115.9
+    },
+    {
+      "category": "Mar 2025 - Commodities",
+      "value": 106.6
+    },
+    {
+      "category": "Apr 2025 - Stocks",
+      "value": 103.7
+    },
+    {
+      "category": "Apr 2025 - Bonds",
+      "value": 106.8
+    },
+    {
+      "category": "Apr 2025 - Real Estate",
+      "value": 117.1
+    },
+    {
+      "category": "Apr 2025 - Commodities",
+      "value": 106.2
+    },
+    {
+      "category": "May 2025 - Stocks",
+      "value": 102.1
+    },
+    {
+      "category": "May 2025 - Bonds",
+      "value": 108.0
+    },
+    {
+      "category": "May 2025 - Real Estate",
+      "value": 111.2
+    },
+    {
+      "category": "May 2025 - Commodities",
+      "value": 103.1
+    },
+    {
+      "category": "Jun 2025 - Stocks",
+      "value": 101.9
+    },
+    {
+      "category": "Jun 2025 - Bonds",
+      "value": 108.2
+    },
+    {
+      "category": "Jun 2025 - Real Estate",
+      "value": 103.9
+    },
+    {
+      "category": "Jun 2025 - Commodities",
+      "value": 103.4
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points were clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750522039_6072",
+    "image_path": "data\\perturbations\\chart_138_complex_bar_rotation_medium.png",
+    "extraction_timestamp": "2025-06-21T17:07:40.689908",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 21.409364700317383,
+    "chart_metadata": {
+      "original_chart_id": "chart_138_complex_bar",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

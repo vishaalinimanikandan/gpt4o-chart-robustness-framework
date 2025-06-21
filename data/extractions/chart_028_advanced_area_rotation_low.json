@@ -1,0 +1,92 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "North America - Product A",
+      "value": 115.5
+    },
+    {
+      "category": "North America - Product B",
+      "value": 53.4
+    },
+    {
+      "category": "North America - Product C",
+      "value": 188.1
+    },
+    {
+      "category": "North America - Product D",
+      "value": 90.1
+    },
+    {
+      "category": "North America - Product E",
+      "value": 83.5
+    },
+    {
+      "category": "Europe - Product A",
+      "value": 125.5
+    },
+    {
+      "category": "Europe - Product B",
+      "value": 62.1
+    },
+    {
+      "category": "Europe - Product C",
+      "value": 252.9
+    },
+    {
+      "category": "Europe - Product D",
+      "value": 244.3
+    },
+    {
+      "category": "Europe - Product E",
+      "value": 195.5
+    },
+    {
+      "category": "Asia Pacific - Product A",
+      "value": 54.2
+    },
+    {
+      "category": "Asia Pacific - Product B",
+      "value": 45.0
+    },
+    {
+      "category": "Asia Pacific - Product C",
+      "value": 27.8
+    },
+    {
+      "category": "Asia Pacific - Product D",
+      "value": 23.2
+    },
+    {
+      "category": "Asia Pacific - Product E",
+      "value": 19.8
+    },
+    {
+      "category": "Latin America - Product A",
+      "value": 10.3
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly labeled and visible. The chart is a line chart with multiple data series.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750527646_6890",
+    "image_path": "data\\perturbations\\chart_028_advanced_area_rotation_low.png",
+    "extraction_timestamp": "2025-06-21T18:40:59.164186",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.334930181503296,
+    "chart_metadata": {
+      "original_chart_id": "chart_028_advanced_area",
+      "perturbation_type": "rotation",
+      "intensity": "low",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "chart_title": "Service Level Agreement - (Operational Metrics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 60.4
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 60.3
+    },
+    {
+      "category": "Category 1 - Series C",
+      "value": 39.8
+    },
+    {
+      "category": "Category 1 - Series D",
+      "value": 28.1
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 90.4
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 63.4
+    },
+    {
+      "category": "Category 2 - Series C",
+      "value": 37.5
+    },
+    {
+      "category": "Category 2 - Series D",
+      "value": 28.1
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 98.7
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 94.5
+    },
+    {
+      "category": "Category 3 - Series C",
+      "value": 85.6
+    },
+    {
+      "category": "Category 3 - Series D",
+      "value": 61.1
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 102.6
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 98.7
+    },
+    {
+      "category": "Category 4 - Series C",
+      "value": 91.5
+    },
+    {
+      "category": "Category 4 - Series D",
+      "value": 51.4
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 103.3
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 84.5
+    },
+    {
+      "category": "Category 5 - Series C",
+      "value": 70.0
+    },
+    {
+      "category": "Category 5 - Series D",
+      "value": 44.8
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 111.3
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 85.3
+    },
+    {
+      "category": "Category 6 - Series C",
+      "value": 75.0
+    },
+    {
+      "category": "Category 6 - Series D",
+      "value": 45.3
+    },
+    {
+      "category": "Category 7 - Series A",
+      "value": 54.7
+    },
+    {
+      "category": "Category 7 - Series B",
+      "value": 63.3
+    },
+    {
+      "category": "Category 7 - Series C",
+      "value": 27.5
+    },
+    {
+      "category": "Category 7 - Series D",
+      "value": 41.9
+    },
+    {
+      "category": "Category 8 - Series A",
+      "value": 42.2
+    },
+    {
+      "category": "Category 8 - Series B",
+      "value": 32.8
+    },
+    {
+      "category": "Category 8 - Series C",
+      "value": 16.7
+    },
+    {
+      "category": "Category 8 - Series D",
+      "value": 49.6
+    },
+    {
+      "category": "Category 9 - Series A",
+      "value": 39.7
+    },
+    {
+      "category": "Category 9 - Series B",
+      "value": 42.6
+    },
+    {
+      "category": "Category 9 - Series C",
+      "value": 26.7
+    },
+    {
+      "category": "Category 9 - Series D",
+      "value": 9.3
+    },
+    {
+      "category": "Category 10 - Series A",
+      "value": 42.8
+    },
+    {
+      "category": "Category 10 - Series B",
+      "value": 25.6
+    },
+    {
+      "category": "Category 10 - Series C",
+      "value": 17.3
+    },
+    {
+      "category": "Category 10 - Series D",
+      "value": 17.3
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points were clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750528462_1945",
+    "image_path": "data\\perturbations\\chart_162_complex_bar_rotation_low.png",
+    "extraction_timestamp": "2025-06-21T18:54:39.400495",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 17.150278568267822,
+    "chart_metadata": {
+      "original_chart_id": "chart_162_complex_bar",
+      "perturbation_type": "rotation",
+      "intensity": "low",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

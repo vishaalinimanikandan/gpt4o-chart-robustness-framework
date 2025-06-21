@@ -1,0 +1,167 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "area",
+  "data": [
+    {
+      "category": "Control - Condition A",
+      "value": 95
+    },
+    {
+      "category": "Control - Condition B",
+      "value": 80
+    },
+    {
+      "category": "Control - Condition C",
+      "value": 85
+    },
+    {
+      "category": "Control - Condition D",
+      "value": 75
+    },
+    {
+      "category": "Control - Condition E",
+      "value": 90
+    },
+    {
+      "category": "Control - Condition F",
+      "value": 85
+    },
+    {
+      "category": "Control - Condition G",
+      "value": 80
+    },
+    {
+      "category": "Control - Condition H",
+      "value": 85
+    },
+    {
+      "category": "Control - Condition I",
+      "value": 90
+    },
+    {
+      "category": "Treatment 1 - Condition A",
+      "value": 80
+    },
+    {
+      "category": "Treatment 1 - Condition B",
+      "value": 75
+    },
+    {
+      "category": "Treatment 1 - Condition C",
+      "value": 80
+    },
+    {
+      "category": "Treatment 1 - Condition D",
+      "value": 70
+    },
+    {
+      "category": "Treatment 1 - Condition E",
+      "value": 75
+    },
+    {
+      "category": "Treatment 1 - Condition F",
+      "value": 80
+    },
+    {
+      "category": "Treatment 1 - Condition G",
+      "value": 85
+    },
+    {
+      "category": "Treatment 1 - Condition H",
+      "value": 80
+    },
+    {
+      "category": "Treatment 1 - Condition I",
+      "value": 75
+    },
+    {
+      "category": "Treatment 2 - Condition A",
+      "value": 100
+    },
+    {
+      "category": "Treatment 2 - Condition B",
+      "value": 85
+    },
+    {
+      "category": "Treatment 2 - Condition C",
+      "value": 90
+    },
+    {
+      "category": "Treatment 2 - Condition D",
+      "value": 80
+    },
+    {
+      "category": "Treatment 2 - Condition E",
+      "value": 95
+    },
+    {
+      "category": "Treatment 2 - Condition F",
+      "value": 90
+    },
+    {
+      "category": "Treatment 2 - Condition G",
+      "value": 95
+    },
+    {
+      "category": "Treatment 2 - Condition H",
+      "value": 90
+    },
+    {
+      "category": "Treatment 2 - Condition I",
+      "value": 100
+    },
+    {
+      "category": "Treatment 3 - Condition A",
+      "value": 70
+    },
+    {
+      "category": "Treatment 3 - Condition B",
+      "value": 65
+    },
+    {
+      "category": "Treatment 3 - Condition C",
+      "value": 75
+    },
+    {
+      "category": "Treatment 3 - Condition D",
+      "value": 70
+    },
+    {
+      "category": "Treatment 3 - Condition E",
+      "value": 80
+    },
+    {
+      "category": "Treatment 3 - Condition F",
+      "value": 75
+    },
+    {
+      "category": "Treatment 3 - Condition G",
+      "value": 70
+    },
+    {
+      "category": "Treatment 3 - Condition H",
+      "value": 75
+    },
+    {
+      "category": "Treatment 3 - Condition I",
+      "value": 80
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on visual inspection; exact values may vary slightly.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750518971_4728",
+    "image_path": "data\\raw_charts\\chart_055_complex_line.png",
+    "extraction_timestamp": "2025-06-21T16:16:29.638045",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 18.2564115524292,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

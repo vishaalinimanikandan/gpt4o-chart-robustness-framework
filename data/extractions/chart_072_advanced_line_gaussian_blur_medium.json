@@ -1,0 +1,228 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Condition A - Control",
+      "value": 63.3
+    },
+    {
+      "category": "Condition B - Control",
+      "value": 66.3
+    },
+    {
+      "category": "Condition C - Control",
+      "value": 73.3
+    },
+    {
+      "category": "Condition D - Control",
+      "value": 73.5
+    },
+    {
+      "category": "Condition E - Control",
+      "value": 67.8
+    },
+    {
+      "category": "Condition F - Control",
+      "value": 67.2
+    },
+    {
+      "category": "Condition G - Control",
+      "value": 70.0
+    },
+    {
+      "category": "Condition H - Control",
+      "value": 70.9
+    },
+    {
+      "category": "Condition I - Control",
+      "value": 82.6
+    },
+    {
+      "category": "Condition J - Control",
+      "value": 82.9
+    },
+    {
+      "category": "Condition A - Treatment 1",
+      "value": 74.9
+    },
+    {
+      "category": "Condition B - Treatment 1",
+      "value": 78.5
+    },
+    {
+      "category": "Condition C - Treatment 1",
+      "value": 87.3
+    },
+    {
+      "category": "Condition D - Treatment 1",
+      "value": 82.5
+    },
+    {
+      "category": "Condition E - Treatment 1",
+      "value": 80.9
+    },
+    {
+      "category": "Condition F - Treatment 1",
+      "value": 80.1
+    },
+    {
+      "category": "Condition G - Treatment 1",
+      "value": 80.1
+    },
+    {
+      "category": "Condition H - Treatment 1",
+      "value": 80.9
+    },
+    {
+      "category": "Condition I - Treatment 1",
+      "value": 82.6
+    },
+    {
+      "category": "Condition J - Treatment 1",
+      "value": 82.9
+    },
+    {
+      "category": "Condition A - Treatment 2",
+      "value": 91.4
+    },
+    {
+      "category": "Condition B - Treatment 2",
+      "value": 93.4
+    },
+    {
+      "category": "Condition C - Treatment 2",
+      "value": 96.5
+    },
+    {
+      "category": "Condition D - Treatment 2",
+      "value": 96.5
+    },
+    {
+      "category": "Condition E - Treatment 2",
+      "value": 96.5
+    },
+    {
+      "category": "Condition F - Treatment 2",
+      "value": 96.5
+    },
+    {
+      "category": "Condition G - Treatment 2",
+      "value": 96.5
+    },
+    {
+      "category": "Condition H - Treatment 2",
+      "value": 96.5
+    },
+    {
+      "category": "Condition I - Treatment 2",
+      "value": 96.5
+    },
+    {
+      "category": "Condition J - Treatment 2",
+      "value": 96.5
+    },
+    {
+      "category": "Condition A - Treatment 3",
+      "value": 74.9
+    },
+    {
+      "category": "Condition B - Treatment 3",
+      "value": 78.5
+    },
+    {
+      "category": "Condition C - Treatment 3",
+      "value": 87.3
+    },
+    {
+      "category": "Condition D - Treatment 3",
+      "value": 82.5
+    },
+    {
+      "category": "Condition E - Treatment 3",
+      "value": 80.9
+    },
+    {
+      "category": "Condition F - Treatment 3",
+      "value": 80.1
+    },
+    {
+      "category": "Condition G - Treatment 3",
+      "value": 80.1
+    },
+    {
+      "category": "Condition H - Treatment 3",
+      "value": 80.9
+    },
+    {
+      "category": "Condition I - Treatment 3",
+      "value": 82.6
+    },
+    {
+      "category": "Condition J - Treatment 3",
+      "value": 82.9
+    },
+    {
+      "category": "Condition A - Treatment 4",
+      "value": 91.4
+    },
+    {
+      "category": "Condition B - Treatment 4",
+      "value": 93.4
+    },
+    {
+      "category": "Condition C - Treatment 4",
+      "value": 96.5
+    },
+    {
+      "category": "Condition D - Treatment 4",
+      "value": 96.5
+    },
+    {
+      "category": "Condition E - Treatment 4",
+      "value": 96.5
+    },
+    {
+      "category": "Condition F - Treatment 4",
+      "value": 96.5
+    },
+    {
+      "category": "Condition G - Treatment 4",
+      "value": 96.5
+    },
+    {
+      "category": "Condition H - Treatment 4",
+      "value": 96.5
+    },
+    {
+      "category": "Condition I - Treatment 4",
+      "value": 96.5
+    },
+    {
+      "category": "Condition J - Treatment 4",
+      "value": 96.5
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some values are overlapping and difficult to distinguish clearly. The secondary axis values are not extracted.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750521150_6179",
+    "image_path": "data\\perturbations\\chart_072_advanced_line_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-06-21T16:52:55.661808",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 25.10377311706543,
+    "chart_metadata": {
+      "original_chart_id": "chart_072_advanced_line_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

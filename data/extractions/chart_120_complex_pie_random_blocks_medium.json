@@ -1,0 +1,76 @@
+{
+  "chart_title": "Sector Comparison (Financial Analysis)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 7.8
+    },
+    {
+      "category": "Category 2",
+      "value": 1.8
+    },
+    {
+      "category": "Category 3",
+      "value": 11.1
+    },
+    {
+      "category": "Category 4",
+      "value": 12.6
+    },
+    {
+      "category": "Category 5",
+      "value": 12.1
+    },
+    {
+      "category": "Category 6",
+      "value": 13.0
+    },
+    {
+      "category": "Category 7",
+      "value": 10.0
+    },
+    {
+      "category": "Category 8",
+      "value": 5.0
+    },
+    {
+      "category": "Category 9",
+      "value": 5.7
+    },
+    {
+      "category": "Category 10",
+      "value": 10.6
+    },
+    {
+      "category": "Category 11",
+      "value": 6.5
+    },
+    {
+      "category": "Category 12",
+      "value": 3.1
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some text is obscured by black boxes, which may affect accuracy.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750522687_4271",
+    "image_path": "data\\perturbations\\chart_120_complex_pie_random_blocks_medium.png",
+    "extraction_timestamp": "2025-06-21T17:18:16.026162",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.05808401107788,
+    "chart_metadata": {
+      "original_chart_id": "chart_120_complex_pie_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

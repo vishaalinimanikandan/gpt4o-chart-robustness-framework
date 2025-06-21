@@ -1,0 +1,29 @@
+{
+  "chart_title": "Sector Comparison - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [],
+  "extraction_confidence": "low",
+  "extraction_notes": "The chart is obscured by black squares, making it impossible to extract numerical values and labels accurately.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750521608_6626",
+    "image_path": "data\\perturbations\\chart_150_medium_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-06-21T17:00:12.245625",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 3.709977149963379,
+    "chart_metadata": {
+      "original_chart_id": "chart_150_medium_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [
+      "Only 0 data points extracted"
+    ],
+    "errors": []
+  }
+}

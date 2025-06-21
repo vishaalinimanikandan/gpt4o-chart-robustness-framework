@@ -1,0 +1,87 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 40
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 100
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 80
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 90
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 60
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 30
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 70
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 50
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 90
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 100
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 50
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 70
+    },
+    {
+      "category": "Category 7 - Series A",
+      "value": 60
+    },
+    {
+      "category": "Category 7 - Series B",
+      "value": 90
+    },
+    {
+      "category": "Category 8 - Series A",
+      "value": 70
+    },
+    {
+      "category": "Category 8 - Series B",
+      "value": 80
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Values are clearly visible and distinguishable.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750518689_6794",
+    "image_path": "data\\raw_charts\\chart_054_medium_bar.png",
+    "extraction_timestamp": "2025-06-21T16:11:38.637610",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.6390700340271,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

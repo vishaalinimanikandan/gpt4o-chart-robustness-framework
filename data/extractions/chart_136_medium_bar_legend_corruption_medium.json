@@ -1,0 +1,100 @@
+{
+  "chart_title": "Sector Comparison - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 20
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 85
+    },
+    {
+      "category": "Category 1 - Series C",
+      "value": 45
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 60
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 40
+    },
+    {
+      "category": "Category 2 - Series C",
+      "value": 55
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 50
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 65
+    },
+    {
+      "category": "Category 3 - Series C",
+      "value": 60
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 70
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 30
+    },
+    {
+      "category": "Category 4 - Series C",
+      "value": 40
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 90
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 75
+    },
+    {
+      "category": "Category 5 - Series C",
+      "value": 50
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 65
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 80
+    },
+    {
+      "category": "Category 6 - Series C",
+      "value": 70
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Values were clear and distinct. No overlapping or ambiguous data points.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750519931_2391",
+    "image_path": "data\\perturbations\\chart_136_medium_bar_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-06-21T16:32:24.603784",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 13.37791657447815,
+    "chart_metadata": {
+      "original_chart_id": "chart_136_medium_bar_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

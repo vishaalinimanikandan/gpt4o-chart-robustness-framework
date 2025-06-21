@@ -1,0 +1,79 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 8.1
+    },
+    {
+      "category": "Category 2",
+      "value": 6.0
+    },
+    {
+      "category": "Category 3",
+      "value": 4.9
+    },
+    {
+      "category": "Category 4",
+      "value": 5.5
+    },
+    {
+      "category": "Category 5",
+      "value": 8.7
+    },
+    {
+      "category": "Category 6",
+      "value": 9.5
+    },
+    {
+      "category": "Category 7",
+      "value": 3.6
+    },
+    {
+      "category": "Category 8",
+      "value": 7.3
+    },
+    {
+      "category": "Category 9",
+      "value": 4.1
+    },
+    {
+      "category": "Category 10",
+      "value": 7.0
+    },
+    {
+      "category": "Category 11",
+      "value": 10.7
+    },
+    {
+      "category": "Category 12",
+      "value": 5.8
+    },
+    {
+      "category": "Category 13",
+      "value": 10.8
+    },
+    {
+      "category": "Category 14",
+      "value": 8.1
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data extracted from a pie chart with clear labels and percentages.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750518553_1590",
+    "image_path": "data\\raw_charts\\chart_182_advanced_pie.png",
+    "extraction_timestamp": "2025-06-21T16:09:21.520964",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.661139011383057,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

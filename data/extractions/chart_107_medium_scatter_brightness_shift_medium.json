@@ -1,0 +1,85 @@
+{
+  "chart_title": "Economic Indicators - (Financial Analysis)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point 1",
+      "value": {
+        "Series A": 40,
+        "Series B": 85
+      }
+    },
+    {
+      "category": "Point 2",
+      "value": {
+        "Series A": 45,
+        "Series B": 70
+      }
+    },
+    {
+      "category": "Point 3",
+      "value": {
+        "Series A": 60,
+        "Series B": 75
+      }
+    },
+    {
+      "category": "Point 4",
+      "value": {
+        "Series A": 80,
+        "Series B": 90
+      }
+    },
+    {
+      "category": "Point 5",
+      "value": {
+        "Series A": 60,
+        "Series B": 30
+      }
+    },
+    {
+      "category": "Point 6",
+      "value": {
+        "Series A": 65,
+        "Series B": 25
+      }
+    },
+    {
+      "category": "Point 7",
+      "value": {
+        "Series A": 75,
+        "Series B": 20
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The exact positions of the points are estimated based on the grid lines. There may be slight inaccuracies due to visual estimation.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750519400_6761",
+    "image_path": "data\\perturbations\\chart_107_medium_scatter_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-06-21T16:23:28.038627",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.468425512313843,
+    "chart_metadata": {
+      "original_chart_id": "chart_107_medium_scatter_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'Series A': 40, 'Series B': 85}",
+      "Data point 1 has invalid value: {'Series A': 45, 'Series B': 70}",
+      "Data point 2 has invalid value: {'Series A': 60, 'Series B': 75}",
+      "Data point 3 has invalid value: {'Series A': 80, 'Series B': 90}",
+      "Data point 4 has invalid value: {'Series A': 60, 'Series B': 30}",
+      "Data point 5 has invalid value: {'Series A': 65, 'Series B': 25}",
+      "Data point 6 has invalid value: {'Series A': 75, 'Series B': 20}"
+    ]
+  }
+}

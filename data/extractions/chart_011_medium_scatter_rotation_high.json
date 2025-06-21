@@ -1,0 +1,69 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point_1",
+      "value": {
+        "Revenue": 0.9,
+        "Profit": 0.08
+      }
+    },
+    {
+      "category": "Point_2",
+      "value": {
+        "Revenue": 1.0,
+        "Profit": 0.18
+      }
+    },
+    {
+      "category": "Point_3",
+      "value": {
+        "Revenue": 1.1,
+        "Profit": 0.12
+      }
+    },
+    {
+      "category": "Point_4",
+      "value": {
+        "Revenue": 1.2,
+        "Profit": 0.1
+      }
+    },
+    {
+      "category": "Point_5",
+      "value": {
+        "Revenue": 1.3,
+        "Profit": 0.16
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The exact values are estimated based on the grid lines as there are no specific labels for each point.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750528453_8484",
+    "image_path": "data\\perturbations\\chart_011_medium_scatter_rotation_high.png",
+    "extraction_timestamp": "2025-06-21T18:54:21.233031",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.669171571731567,
+    "chart_metadata": {
+      "original_chart_id": "chart_011_medium_scatter",
+      "perturbation_type": "rotation",
+      "intensity": "high",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'Revenue': 0.9, 'Profit': 0.08}",
+      "Data point 1 has invalid value: {'Revenue': 1.0, 'Profit': 0.18}",
+      "Data point 2 has invalid value: {'Revenue': 1.1, 'Profit': 0.12}",
+      "Data point 3 has invalid value: {'Revenue': 1.2, 'Profit': 0.1}",
+      "Data point 4 has invalid value: {'Revenue': 1.3, 'Profit': 0.16}"
+    ]
+  }
+}

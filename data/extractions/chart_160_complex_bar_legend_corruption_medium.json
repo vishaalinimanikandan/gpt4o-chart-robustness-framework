@@ -1,0 +1,156 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 92.4
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 98.4
+    },
+    {
+      "category": "Category 1 - Series C",
+      "value": 43.4
+    },
+    {
+      "category": "Category 1 - Series D",
+      "value": 33.2
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 86.1
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 55.7
+    },
+    {
+      "category": "Category 2 - Series C",
+      "value": 41.9
+    },
+    {
+      "category": "Category 2 - Series D",
+      "value": 21.0
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 88.5
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 54.8
+    },
+    {
+      "category": "Category 3 - Series C",
+      "value": 43.9
+    },
+    {
+      "category": "Category 3 - Series D",
+      "value": 71.2
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 86.6
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 38.5
+    },
+    {
+      "category": "Category 4 - Series C",
+      "value": 28.2
+    },
+    {
+      "category": "Category 4 - Series D",
+      "value": 26.7
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 57.0
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 53.7
+    },
+    {
+      "category": "Category 5 - Series C",
+      "value": 28.0
+    },
+    {
+      "category": "Category 5 - Series D",
+      "value": 23.0
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 74.0
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 54.6
+    },
+    {
+      "category": "Category 6 - Series C",
+      "value": 35.0
+    },
+    {
+      "category": "Category 6 - Series D",
+      "value": 68.0
+    },
+    {
+      "category": "Category 7 - Series A",
+      "value": 81.7
+    },
+    {
+      "category": "Category 7 - Series B",
+      "value": 65.2
+    },
+    {
+      "category": "Category 7 - Series C",
+      "value": 44.1
+    },
+    {
+      "category": "Category 7 - Series D",
+      "value": 52.3
+    },
+    {
+      "category": "Category 8 - Series A",
+      "value": 75.8
+    },
+    {
+      "category": "Category 8 - Series B",
+      "value": 52.7
+    },
+    {
+      "category": "Category 8 - Series C",
+      "value": 16.7
+    },
+    {
+      "category": "Category 8 - Series D",
+      "value": 19.2
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values are clearly visible and extracted with high confidence.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750525594_6236",
+    "image_path": "data\\perturbations\\chart_160_complex_bar_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-06-21T18:06:49.446098",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 14.884061574935913,
+    "chart_metadata": {
+      "original_chart_id": "chart_160_complex_bar_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Sep 2024 - Stocks",
+      "value": 100
+    },
+    {
+      "category": "Sep 2024 - Bonds",
+      "value": 90
+    },
+    {
+      "category": "Oct 2024 - Stocks",
+      "value": 105
+    },
+    {
+      "category": "Oct 2024 - Bonds",
+      "value": 95
+    },
+    {
+      "category": "Nov 2024 - Stocks",
+      "value": 110
+    },
+    {
+      "category": "Nov 2024 - Bonds",
+      "value": 100
+    },
+    {
+      "category": "Dec 2024 - Stocks",
+      "value": 115
+    },
+    {
+      "category": "Dec 2024 - Bonds",
+      "value": 105
+    },
+    {
+      "category": "Jan 2025 - Stocks",
+      "value": 110
+    },
+    {
+      "category": "Jan 2025 - Bonds",
+      "value": 100
+    },
+    {
+      "category": "Feb 2025 - Stocks",
+      "value": 115
+    },
+    {
+      "category": "Feb 2025 - Bonds",
+      "value": 105
+    },
+    {
+      "category": "Mar 2025 - Stocks",
+      "value": 110
+    },
+    {
+      "category": "Mar 2025 - Bonds",
+      "value": 100
+    },
+    {
+      "category": "Apr 2025 - Stocks",
+      "value": 115
+    },
+    {
+      "category": "Apr 2025 - Bonds",
+      "value": 105
+    },
+    {
+      "category": "May 2025 - Stocks",
+      "value": 110
+    },
+    {
+      "category": "May 2025 - Bonds",
+      "value": 100
+    },
+    {
+      "category": "Jun 2025 - Stocks",
+      "value": 115
+    },
+    {
+      "category": "Jun 2025 - Bonds",
+      "value": 105
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Values are estimated based on the bar heights. The chart is clear and well-labeled.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750516957_1241",
+    "image_path": "data\\raw_charts\\chart_108_medium_bar.png",
+    "extraction_timestamp": "2025-06-21T15:42:48.935562",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.264995813369751,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

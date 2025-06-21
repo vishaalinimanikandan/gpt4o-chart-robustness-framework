@@ -1,0 +1,88 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific Research)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 30
+    },
+    {
+      "category": "Category 2",
+      "value": 80
+    },
+    {
+      "category": "Category 3",
+      "value": 90
+    },
+    {
+      "category": "Category 4",
+      "value": 95
+    },
+    {
+      "category": "Category 5",
+      "value": 85
+    },
+    {
+      "category": "Category 6",
+      "value": 70
+    },
+    {
+      "category": "Category 7",
+      "value": 50
+    },
+    {
+      "category": "Category 8",
+      "value": 100
+    },
+    {
+      "category": "Category 9",
+      "value": 40
+    },
+    {
+      "category": "Category 10",
+      "value": 35
+    },
+    {
+      "category": "Category 11",
+      "value": 30
+    },
+    {
+      "category": "Category 12",
+      "value": 45
+    },
+    {
+      "category": "Category 13",
+      "value": 25
+    },
+    {
+      "category": "Category 14",
+      "value": 105
+    },
+    {
+      "category": "Category 15",
+      "value": 110
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the position of points on the axes. Some overlap and color variations may affect precision.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750526764_3589",
+    "image_path": "data\\perturbations\\chart_092_advanced_scatter_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-06-21T18:26:16.445414",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.381544828414917,
+    "chart_metadata": {
+      "original_chart_id": "chart_092_advanced_scatter_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

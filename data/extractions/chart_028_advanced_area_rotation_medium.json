@@ -1,0 +1,92 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "North America - Product A",
+      "value": 188.1
+    },
+    {
+      "category": "North America - Product B",
+      "value": 115.5
+    },
+    {
+      "category": "North America - Product C",
+      "value": 90.1
+    },
+    {
+      "category": "North America - Product D",
+      "value": 83.5
+    },
+    {
+      "category": "North America - Product E",
+      "value": 53.4
+    },
+    {
+      "category": "Europe - Product A",
+      "value": 252.9
+    },
+    {
+      "category": "Europe - Product B",
+      "value": 244.3
+    },
+    {
+      "category": "Europe - Product C",
+      "value": 195.5
+    },
+    {
+      "category": "Europe - Product D",
+      "value": 125.5
+    },
+    {
+      "category": "Europe - Product E",
+      "value": 62.1
+    },
+    {
+      "category": "Asia Pacific - Product A",
+      "value": 54.2
+    },
+    {
+      "category": "Asia Pacific - Product B",
+      "value": 45.0
+    },
+    {
+      "category": "Asia Pacific - Product C",
+      "value": 27.8
+    },
+    {
+      "category": "Asia Pacific - Product D",
+      "value": 22.0
+    },
+    {
+      "category": "Asia Pacific - Product E",
+      "value": 19.8
+    },
+    {
+      "category": "Latin America - Product A",
+      "value": 10.3
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly labeled and legible. The chart is slightly rotated, but values are still clear.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750521914_6461",
+    "image_path": "data\\perturbations\\chart_028_advanced_area_rotation_medium.png",
+    "extraction_timestamp": "2025-06-21T17:05:26.341153",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.920702457427979,
+    "chart_metadata": {
+      "original_chart_id": "chart_028_advanced_area",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

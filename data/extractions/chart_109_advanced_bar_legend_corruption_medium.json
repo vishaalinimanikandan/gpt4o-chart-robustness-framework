@@ -1,0 +1,84 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Apr 2024",
+      "value": 103.1
+    },
+    {
+      "category": "May 2024",
+      "value": 105.1
+    },
+    {
+      "category": "Jun 2024",
+      "value": 100.2
+    },
+    {
+      "category": "Jul 2024",
+      "value": 104.4
+    },
+    {
+      "category": "Aug 2024",
+      "value": 110.2
+    },
+    {
+      "category": "Sep 2024",
+      "value": 106.9
+    },
+    {
+      "category": "Oct 2024",
+      "value": 108.7
+    },
+    {
+      "category": "Nov 2024",
+      "value": 111.0
+    },
+    {
+      "category": "Dec 2024",
+      "value": 105.8
+    },
+    {
+      "category": "Jan 2025",
+      "value": 107.0
+    },
+    {
+      "category": "Feb 2025",
+      "value": 104.5
+    },
+    {
+      "category": "Mar 2025",
+      "value": 108.6
+    },
+    {
+      "category": "Apr 2025",
+      "value": 120.1
+    },
+    {
+      "category": "May 2025",
+      "value": 124.0
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly labeled and visible. The chart type is identified as grouped bar based on the layout.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750521009_3399",
+    "image_path": "data\\perturbations\\chart_109_advanced_bar_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-06-21T16:50:19.074628",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.268235445022583,
+    "chart_metadata": {
+      "original_chart_id": "chart_109_advanced_bar_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

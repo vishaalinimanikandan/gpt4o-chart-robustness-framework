@@ -1,0 +1,80 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 86.6
+    },
+    {
+      "category": "Category 2",
+      "value": 79.1
+    },
+    {
+      "category": "Category 3",
+      "value": 91.3
+    },
+    {
+      "category": "Category 4",
+      "value": 88.3
+    },
+    {
+      "category": "Category 5",
+      "value": 97.0
+    },
+    {
+      "category": "Category 6",
+      "value": 87.0
+    },
+    {
+      "category": "Category 7",
+      "value": 90.3
+    },
+    {
+      "category": "Category 8",
+      "value": 94.0
+    },
+    {
+      "category": "Category 9",
+      "value": 87.3
+    },
+    {
+      "category": "Category 10",
+      "value": 85.3
+    },
+    {
+      "category": "Category 11",
+      "value": 91.4
+    },
+    {
+      "category": "Category 12",
+      "value": 91.1
+    },
+    {
+      "category": "Category 13",
+      "value": 57.0
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some values are obscured by black squares, making extraction challenging. The chart is cluttered, affecting clarity.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750519250_3131",
+    "image_path": "data\\perturbations\\chart_066_advanced_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-06-21T16:21:00.605473",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.688527584075928,
+    "chart_metadata": {
+      "original_chart_id": "chart_066_advanced_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

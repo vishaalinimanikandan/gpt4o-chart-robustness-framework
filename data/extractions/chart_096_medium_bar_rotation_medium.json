@@ -1,0 +1,76 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 30
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 20
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 60
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 70
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 20
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 50
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 80
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 90
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 50
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 100
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 40
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 100
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Values are clearly visible and distinct. No ambiguities in the labels or values.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750520082_7785",
+    "image_path": "data\\perturbations\\chart_096_medium_bar_rotation_medium.png",
+    "extraction_timestamp": "2025-06-21T16:34:49.538085",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.1651451587677,
+    "chart_metadata": {
+      "original_chart_id": "chart_096_medium_bar",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

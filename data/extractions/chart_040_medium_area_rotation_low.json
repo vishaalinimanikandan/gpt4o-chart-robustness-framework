@@ -1,0 +1,60 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Q1 '22 - Revenue ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q1 '22 - Profit ($M)",
+      "value": 0.1
+    },
+    {
+      "category": "Q1 '23 - Revenue ($M)",
+      "value": 1.2
+    },
+    {
+      "category": "Q1 '23 - Profit ($M)",
+      "value": 0.15
+    },
+    {
+      "category": "Q2 '22 - Revenue ($M)",
+      "value": 0.9
+    },
+    {
+      "category": "Q2 '22 - Profit ($M)",
+      "value": 0.1
+    },
+    {
+      "category": "Q2 '23 - Revenue ($M)",
+      "value": 1.1
+    },
+    {
+      "category": "Q2 '23 - Profit ($M)",
+      "value": 0.2
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clear and well-labeled. No ambiguities observed.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750528792_7135",
+    "image_path": "data\\perturbations\\chart_040_medium_area_rotation_low.png",
+    "extraction_timestamp": "2025-06-21T18:59:59.083549",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.760211944580078,
+    "chart_metadata": {
+      "original_chart_id": "chart_040_medium_area",
+      "perturbation_type": "rotation",
+      "intensity": "low",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

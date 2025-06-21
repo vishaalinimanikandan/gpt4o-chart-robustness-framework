@@ -1,0 +1,68 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 15.7
+    },
+    {
+      "category": "Category 2",
+      "value": 14.0
+    },
+    {
+      "category": "Category 3",
+      "value": 11.1
+    },
+    {
+      "category": "Category 4",
+      "value": 4.8
+    },
+    {
+      "category": "Category 5",
+      "value": 3.6
+    },
+    {
+      "category": "Category 6",
+      "value": 8.6
+    },
+    {
+      "category": "Category 7",
+      "value": 11.2
+    },
+    {
+      "category": "Category 8",
+      "value": 10.8
+    },
+    {
+      "category": "Category 9",
+      "value": 2.8
+    },
+    {
+      "category": "Category 10",
+      "value": 17.4
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data extracted from pie chart with clear labels and percentages.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750530498_8635",
+    "image_path": "data\\perturbations\\chart_195_advanced_pie_gaussian_blur_high.png",
+    "extraction_timestamp": "2025-06-21T19:28:27.169371",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.880797863006592,
+    "chart_metadata": {
+      "original_chart_id": "chart_195_advanced_pie_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "high",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

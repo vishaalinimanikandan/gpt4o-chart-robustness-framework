@@ -1,0 +1,101 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific Research)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": [
+        50,
+        60
+      ]
+    },
+    {
+      "category": "Category 2",
+      "value": [
+        45,
+        55
+      ]
+    },
+    {
+      "category": "Category 3",
+      "value": [
+        60,
+        70
+      ]
+    },
+    {
+      "category": "Category 4",
+      "value": [
+        65,
+        50
+      ]
+    },
+    {
+      "category": "Category 5",
+      "value": [
+        75,
+        65
+      ]
+    },
+    {
+      "category": "Category 6",
+      "value": [
+        50,
+        45
+      ]
+    },
+    {
+      "category": "Category 7",
+      "value": [
+        40,
+        65
+      ]
+    },
+    {
+      "category": "Category 8",
+      "value": [
+        55,
+        80
+      ]
+    },
+    {
+      "category": "Category 9",
+      "value": [
+        85,
+        90
+      ]
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly labeled and positioned on the chart. The trend line is noted but not included in data extraction.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750531411_7114",
+    "image_path": "data\\perturbations\\chart_087_complex_scatter_rotation_high.png",
+    "extraction_timestamp": "2025-06-21T19:43:41.536490",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.195748567581177,
+    "chart_metadata": {
+      "original_chart_id": "chart_087_complex_scatter",
+      "perturbation_type": "rotation",
+      "intensity": "high",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: [50, 60]",
+      "Data point 1 has invalid value: [45, 55]",
+      "Data point 2 has invalid value: [60, 70]",
+      "Data point 3 has invalid value: [65, 50]",
+      "Data point 4 has invalid value: [75, 65]",
+      "Data point 5 has invalid value: [50, 45]",
+      "Data point 6 has invalid value: [40, 65]",
+      "Data point 7 has invalid value: [55, 80]",
+      "Data point 8 has invalid value: [85, 90]"
+    ]
+  }
+}

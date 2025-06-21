@@ -1,0 +1,79 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 98.4
+    },
+    {
+      "category": "Category 2",
+      "value": 91.0
+    },
+    {
+      "category": "Category 3",
+      "value": 86.0
+    },
+    {
+      "category": "Category 4",
+      "value": 77.9
+    },
+    {
+      "category": "Category 5",
+      "value": 57.2
+    },
+    {
+      "category": "Category 6",
+      "value": 51.7
+    },
+    {
+      "category": "Category 7",
+      "value": 29.3
+    },
+    {
+      "category": "Category 8",
+      "value": 23.4
+    },
+    {
+      "category": "Category 9",
+      "value": 20.4
+    },
+    {
+      "category": "Category 10",
+      "value": 48.4
+    },
+    {
+      "category": "Category 11",
+      "value": 29.5
+    },
+    {
+      "category": "Category 12",
+      "value": 14.6
+    },
+    {
+      "category": "Category 13",
+      "value": 51.1
+    },
+    {
+      "category": "Category 14",
+      "value": 19.2
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points were clearly visible and extracted with high confidence.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750518598_1685",
+    "image_path": "data\\raw_charts\\chart_168_advanced_line.png",
+    "extraction_timestamp": "2025-06-21T16:10:09.770888",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.851942539215088,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

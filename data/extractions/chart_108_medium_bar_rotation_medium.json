@@ -1,0 +1,108 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Sep 2024 - Stocks",
+      "value": 95
+    },
+    {
+      "category": "Sep 2024 - Bonds",
+      "value": 85
+    },
+    {
+      "category": "Oct 2024 - Stocks",
+      "value": 90
+    },
+    {
+      "category": "Oct 2024 - Bonds",
+      "value": 80
+    },
+    {
+      "category": "Nov 2024 - Stocks",
+      "value": 92
+    },
+    {
+      "category": "Nov 2024 - Bonds",
+      "value": 82
+    },
+    {
+      "category": "Dec 2024 - Stocks",
+      "value": 94
+    },
+    {
+      "category": "Dec 2024 - Bonds",
+      "value": 84
+    },
+    {
+      "category": "Jan 2025 - Stocks",
+      "value": 98
+    },
+    {
+      "category": "Jan 2025 - Bonds",
+      "value": 88
+    },
+    {
+      "category": "Feb 2025 - Stocks",
+      "value": 96
+    },
+    {
+      "category": "Feb 2025 - Bonds",
+      "value": 86
+    },
+    {
+      "category": "Mar 2025 - Stocks",
+      "value": 97
+    },
+    {
+      "category": "Mar 2025 - Bonds",
+      "value": 87
+    },
+    {
+      "category": "Apr 2025 - Stocks",
+      "value": 93
+    },
+    {
+      "category": "Apr 2025 - Bonds",
+      "value": 83
+    },
+    {
+      "category": "May 2025 - Stocks",
+      "value": 91
+    },
+    {
+      "category": "May 2025 - Bonds",
+      "value": 81
+    },
+    {
+      "category": "Jun 2025 - Stocks",
+      "value": 99
+    },
+    {
+      "category": "Jun 2025 - Bonds",
+      "value": 89
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly visible and distinct. No ambiguities in the labels or values.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750520486_9196",
+    "image_path": "data\\perturbations\\chart_108_medium_bar_rotation_medium.png",
+    "extraction_timestamp": "2025-06-21T16:41:38.844452",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.266329288482666,
+    "chart_metadata": {
+      "original_chart_id": "chart_108_medium_bar",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

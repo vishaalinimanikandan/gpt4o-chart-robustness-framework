@@ -1,0 +1,88 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "stacked_bar",
+  "data": [
+    {
+      "category": "Apr 2024",
+      "value": 103.1
+    },
+    {
+      "category": "May 2024",
+      "value": 105.1
+    },
+    {
+      "category": "Jun 2024",
+      "value": 104.4
+    },
+    {
+      "category": "Jul 2024",
+      "value": 110.2
+    },
+    {
+      "category": "Aug 2024",
+      "value": 108.7
+    },
+    {
+      "category": "Sep 2024",
+      "value": 111.0
+    },
+    {
+      "category": "Oct 2024",
+      "value": 107.0
+    },
+    {
+      "category": "Nov 2024",
+      "value": 108.5
+    },
+    {
+      "category": "Dec 2024",
+      "value": 106.2
+    },
+    {
+      "category": "Jan 2025",
+      "value": 105.3
+    },
+    {
+      "category": "Feb 2025",
+      "value": 103.3
+    },
+    {
+      "category": "Mar 2025",
+      "value": 101.2
+    },
+    {
+      "category": "Apr 2025",
+      "value": 104.7
+    },
+    {
+      "category": "May 2025",
+      "value": 120.1
+    },
+    {
+      "category": "Jun 2025",
+      "value": 124.3
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points were clear and legible. The chart type was identified as stacked bar based on the visual representation.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1750527855_3509",
+    "image_path": "data\\perturbations\\chart_109_advanced_bar_rotation_high.png",
+    "extraction_timestamp": "2025-06-21T18:48:36.015888",
+    "model": "gpt-4o",
+    "attempt_number": 3,
+    "response_time": 260.1866674423218,
+    "chart_metadata": {
+      "original_chart_id": "chart_109_advanced_bar",
+      "perturbation_type": "rotation",
+      "intensity": "high",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}
