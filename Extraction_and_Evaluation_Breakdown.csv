@@ -1,0 +1,9 @@
+Stage,Count,Explanation
+Original Charts Generated,200,Programmatically created using structured chart configurations (chart_configurations.json).
+Charts Selected for Perturbation,150,Selected based on existence of valid image and extraction file. (Notebook: 03_Perturbation_Framework.ipynb)
+Charts Not Perturbed,50,Charts were skipped if image/extraction JSON was missing or failed. (Line ~90 in 03_Perturbation_Framework.ipynb)
+Total Perturbations Created,1650,Generated from 148 charts using 11 perturbation types × 3 intensity levels.
+Successful Extractions,1078,Total JSON responses returned by GPT-4V (originals + perturbations).
+Original Charts Used in Evaluation,200,All 200 original extractions were clean and matched the ground truth.
+Perturbed Charts Used in Evaluation,698,"Selected after validating that JSON was valid, included `chart_type` and `data`, and original matched. (Filtered in 05_Multi_Metric_Analysis.ipynb)"
+Perturbed Extractions Excluded,180,"Failed due to JSON errors, missing keys, or no corresponding original. Automatically excluded in extraction filtering."
