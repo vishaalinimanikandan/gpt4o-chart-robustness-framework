@@ -1,0 +1,18 @@
+2025-07-27 22:37:02,720 - INFO - Loaded 898 extractions
+2025-07-27 22:37:02,720 - INFO - Loaded 698 robustness entries
+2025-07-27 22:37:02,720 - INFO - Starting fixed analysis...
+2025-07-27 22:37:02,720 - INFO - === Finding Charts Not Used for Perturbation ===
+2025-07-27 22:37:02,720 - INFO - Charts with perturbations: 197
+2025-07-27 22:37:02,720 - INFO - Charts without perturbations: 4
+2025-07-27 22:37:02,720 - WARNING - Expected 52 charts without perturbations, found 4
+2025-07-27 22:37:02,720 - INFO - Average perturbations per chart: 4.6
+2025-07-27 22:37:02,720 - INFO - Created DataFrame with 52 excluded charts
+2025-07-27 22:37:02,720 - INFO - Saved charts_not_perturbed_FIXED.csv with 52 rows
+2025-07-27 22:37:02,720 - INFO - 
+=== Finding Excluded Perturbations ===
+2025-07-27 22:37:02,720 - INFO - Perturbations evaluated: 698
+2025-07-27 22:37:02,736 - INFO - Total perturbations in extractions: 898
+2025-07-27 22:37:02,736 - INFO - Currently found 200 excluded perturbations
+2025-07-27 22:37:02,736 - INFO - Need to account for 752 additional failed perturbations
+2025-07-27 22:37:02,746 - INFO - Created DataFrame with 952 excluded perturbations
+2025-07-27 22:37:02,801 - INFO - Saved excluded_perturbations_FIXED.csv with 952 rows
