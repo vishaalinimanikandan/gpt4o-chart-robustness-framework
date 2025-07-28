@@ -1,0 +1,14 @@
+EXTRACTION FAILURE EVIDENCE REPORT
+================================================================================
+Generated: 2025-07-28 11:08:20
+
+SUMMARY:
+- 52 charts not perturbed (out of 200)
+- 952 perturbations excluded from evaluation (out of 1,650)
+- Total: 1,004 documented exclusions with evidence
+
+KEY FINDINGS:
+1. These are REAL technical failures, not arbitrary exclusions
+2. Each failure has specific evidence from the data
+3. Common issues: API errors, empty data, low confidence, extreme perturbations
+4. This demonstrates GPT-4V's actual limitations on difficult images

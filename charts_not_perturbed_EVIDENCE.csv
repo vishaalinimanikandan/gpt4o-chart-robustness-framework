@@ -1,0 +1,53 @@
+Chart ID,Reason,Evidence,Category
+chart_000,Original extraction completely failed,Key 'chart_000_original' not found in extraction results,Extraction Failure
+chart_004,Original extraction completely failed,Key 'chart_004_original' not found in extraction results,Extraction Failure
+chart_026,Original extraction completely failed,Key 'chart_026_original' not found in extraction results,Extraction Failure
+chart_161,Original extraction completely failed,Key 'chart_161_original' not found in extraction results,Extraction Failure
+chart_049,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_075,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_029,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_135,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_115,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_009,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_065,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_178,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_086,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_089,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_022,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_095,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_182,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_191,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_084,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_181,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_037,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_168,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_085,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_185,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_038,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_069,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_148,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_112,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_054,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_105,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_188,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_164,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_048,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_141,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_198,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_152,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_127,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_057,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_053,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_021,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_005,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_006,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_106,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_149,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_020,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_137,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_197,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_171,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_024,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_186,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_033,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
+chart_055,Incomplete perturbation set - only 1 generated,"Expected ~11 perturbations, found 1",Partial Generation Failure
