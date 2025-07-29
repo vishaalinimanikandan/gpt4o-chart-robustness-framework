@@ -1,0 +1,103 @@
+FILE ORGANIZATION SUMMARY
+==================================================
+
+RAW CHARTS:
+
+COMPLEX:
+  bar: 35 charts
+  pie: 7 charts
+  line: 18 charts
+  scatter: 11 charts
+  area: 8 charts
+  Total: 79 charts
+
+MEDIUM:
+  bar: 28 charts
+  pie: 8 charts
+  line: 23 charts
+  scatter: 10 charts
+  area: 5 charts
+  Total: 74 charts
+
+ADVANCED:
+  bar: 12 charts
+  pie: 12 charts
+  line: 10 charts
+  scatter: 12 charts
+  area: 4 charts
+  Total: 50 charts
+
+
+PERTURBATIONS:
+
+AXIS_DEGRADATION:
+  complex: 29 files
+  medium: 25 files
+  advanced: 21 files
+  Total: 75 files
+
+BRIGHTNESS_SHIFT:
+  complex: 95 files
+  medium: 83 files
+  advanced: 72 files
+  Total: 250 files
+
+CONTRAST_CHANGE:
+  complex: 29 files
+  medium: 25 files
+  advanced: 21 files
+  Total: 75 files
+
+GAUSSIAN_BLUR:
+  complex: 95 files
+  medium: 83 files
+  advanced: 72 files
+  Total: 250 files
+
+GRAYSCALE_CONVERSION:
+  complex: 59 files
+  medium: 53 files
+  advanced: 38 files
+  Total: 150 files
+
+LEGEND_CORRUPTION:
+  complex: 59 files
+  medium: 53 files
+  advanced: 38 files
+  Total: 150 files
+
+MOTION_BLUR:
+  complex: 29 files
+  medium: 25 files
+  advanced: 21 files
+  Total: 75 files
+
+RANDOM_BLOCKS:
+  complex: 59 files
+  medium: 53 files
+  advanced: 38 files
+  Total: 150 files
+
+ROTATION:
+  complex: 95 files
+  medium: 83 files
+  advanced: 72 files
+  Total: 250 files
+
+SALT_PEPPER_NOISE:
+  complex: 29 files
+  medium: 25 files
+  advanced: 21 files
+  Total: 75 files
+
+SCALING:
+  complex: 29 files
+  medium: 25 files
+  advanced: 21 files
+  Total: 75 files
+
+TEXT_OVERLAY:
+  complex: 29 files
+  medium: 25 files
+  advanced: 21 files
+  Total: 75 files

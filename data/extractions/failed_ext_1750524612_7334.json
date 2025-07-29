@@ -1,8 +1,0 @@
-{
-  "extraction_id": "ext_1750524612_7334",
-  "image_path": "data\\perturbations\\chart_058_complex_bar_rotation_low.png",
-  "error_timestamp": "2025-06-21T17:50:12.094914",
-  "error_type": "Exception",
-  "error_message": "Image encoding failed: image file is truncated",
-  "response_time": 0.010048389434814453
-}
