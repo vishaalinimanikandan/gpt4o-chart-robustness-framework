@@ -1,0 +1,88 @@
+{
+  "chart_title": "Production Efficiency - (Operational Metrics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 60
+    },
+    {
+      "category": "Category 2",
+      "value": 50
+    },
+    {
+      "category": "Category 3",
+      "value": 70
+    },
+    {
+      "category": "Category 4",
+      "value": 80
+    },
+    {
+      "category": "Category 5",
+      "value": 90
+    },
+    {
+      "category": "Category 6",
+      "value": 75
+    },
+    {
+      "category": "Category 7",
+      "value": 65
+    },
+    {
+      "category": "Category 8",
+      "value": 20
+    },
+    {
+      "category": "Category 9",
+      "value": 30
+    },
+    {
+      "category": "Category 10",
+      "value": 110
+    },
+    {
+      "category": "Category 11",
+      "value": 95
+    },
+    {
+      "category": "Category 12",
+      "value": 55
+    },
+    {
+      "category": "Category 13",
+      "value": 60
+    },
+    {
+      "category": "Category 14",
+      "value": 45
+    },
+    {
+      "category": "Category 15",
+      "value": 85
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the position on the axes. Some overlap in data points may affect precision.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753818039_1742",
+    "image_path": "data\\perturbations\\chart_166_advanced_scatter_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T20:40:55.758475",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 16.548534870147705,
+    "chart_metadata": {
+      "original_chart_id": "chart_166_advanced_scatter",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

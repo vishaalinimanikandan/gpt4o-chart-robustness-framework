@@ -1,0 +1,92 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Nov 2024 - Stocks",
+      "value": 90
+    },
+    {
+      "category": "Nov 2024 - Bonds",
+      "value": 85
+    },
+    {
+      "category": "Dec 2024 - Stocks",
+      "value": 92
+    },
+    {
+      "category": "Dec 2024 - Bonds",
+      "value": 88
+    },
+    {
+      "category": "Jan 2025 - Stocks",
+      "value": 95
+    },
+    {
+      "category": "Jan 2025 - Bonds",
+      "value": 90
+    },
+    {
+      "category": "Mar 2025 - Stocks",
+      "value": 93
+    },
+    {
+      "category": "Mar 2025 - Bonds",
+      "value": 89
+    },
+    {
+      "category": "Apr 2025 - Stocks",
+      "value": 94
+    },
+    {
+      "category": "Apr 2025 - Bonds",
+      "value": 91
+    },
+    {
+      "category": "May 2025 - Stocks",
+      "value": 96
+    },
+    {
+      "category": "May 2025 - Bonds",
+      "value": 92
+    },
+    {
+      "category": "Jun 2025 - Stocks",
+      "value": 97
+    },
+    {
+      "category": "Jun 2025 - Bonds",
+      "value": 93
+    },
+    {
+      "category": "Jul 2025 - Stocks",
+      "value": 98
+    },
+    {
+      "category": "Jul 2025 - Bonds",
+      "value": 94
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly visible and distinguishable. The chart is slightly rotated, but values are readable.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753832297_3868",
+    "image_path": "data\\perturbations\\chart_113_medium_bar_rotation_medium.png",
+    "extraction_timestamp": "2025-07-30T00:38:27.888471",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.569624185562134,
+    "chart_metadata": {
+      "original_chart_id": "chart_113_medium_bar",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

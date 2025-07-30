@@ -1,0 +1,67 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 70
+    },
+    {
+      "category": "Condition B",
+      "value": 90
+    },
+    {
+      "category": "Condition C",
+      "value": 80
+    },
+    {
+      "category": "Condition D",
+      "value": 60
+    },
+    {
+      "category": "Condition E",
+      "value": 85
+    },
+    {
+      "category": "Condition F",
+      "value": 75
+    },
+    {
+      "category": "Condition G",
+      "value": 95
+    },
+    {
+      "category": "Condition H",
+      "value": 65
+    },
+    {
+      "category": "Condition I",
+      "value": 80
+    },
+    {
+      "category": "Condition J",
+      "value": 70
+    },
+    {
+      "category": "Condition K",
+      "value": 60
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated from the chart as exact numbers are not provided. The chart contains multiple data series, but only one series is extracted for simplicity.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753814663_8433",
+    "image_path": "data\\raw_charts\\chart_095_complex_area.png",
+    "extraction_timestamp": "2025-07-29T19:44:34.342381",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.412766695022583,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

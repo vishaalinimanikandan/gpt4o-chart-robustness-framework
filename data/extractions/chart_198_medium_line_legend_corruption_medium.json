@@ -1,0 +1,48 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 30
+    },
+    {
+      "category": "Category 2",
+      "value": 40
+    },
+    {
+      "category": "Category 3",
+      "value": 80
+    },
+    {
+      "category": "Category 4",
+      "value": 70
+    },
+    {
+      "category": "Category 5",
+      "value": 50
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the position on the y-axis. Series A and Series B are not distinguished in the data extraction.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753823081_9214",
+    "image_path": "data\\perturbations\\chart_198_medium_line_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T22:04:48.116112",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.208980560302734,
+    "chart_metadata": {
+      "original_chart_id": "chart_198_medium_line_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

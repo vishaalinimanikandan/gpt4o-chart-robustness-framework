@@ -1,0 +1,76 @@
+{
+  "chart_title": "Treatment Efficacy Analysis - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 40
+    },
+    {
+      "category": "Category 2",
+      "value": 80
+    },
+    {
+      "category": "Category 3",
+      "value": 90
+    },
+    {
+      "category": "Category 4",
+      "value": 20
+    },
+    {
+      "category": "Category 5",
+      "value": 30
+    },
+    {
+      "category": "Category 6",
+      "value": 70
+    },
+    {
+      "category": "Category 1",
+      "value": 20
+    },
+    {
+      "category": "Category 2",
+      "value": 60
+    },
+    {
+      "category": "Category 3",
+      "value": 60
+    },
+    {
+      "category": "Category 4",
+      "value": 40
+    },
+    {
+      "category": "Category 5",
+      "value": 10
+    },
+    {
+      "category": "Category 6",
+      "value": 60
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clear and distinct. Two series are present: Series A and Series B.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753833163_7642",
+    "image_path": "data\\perturbations\\chart_051_medium_line_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-30T00:52:58.498218",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 14.561410665512085,
+    "chart_metadata": {
+      "original_chart_id": "chart_051_medium_line_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

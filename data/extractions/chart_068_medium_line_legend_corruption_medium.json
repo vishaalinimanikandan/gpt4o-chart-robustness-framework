@@ -1,0 +1,84 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Condition A - Control",
+      "value": 75
+    },
+    {
+      "category": "Condition B - Control",
+      "value": 75
+    },
+    {
+      "category": "Condition C - Control",
+      "value": 73
+    },
+    {
+      "category": "Condition D - Control",
+      "value": 68
+    },
+    {
+      "category": "Condition E - Control",
+      "value": 70
+    },
+    {
+      "category": "Condition F - Control",
+      "value": 65
+    },
+    {
+      "category": "Condition G - Control",
+      "value": 80
+    },
+    {
+      "category": "Condition A - Treatment 1",
+      "value": 75
+    },
+    {
+      "category": "Condition B - Treatment 1",
+      "value": 90
+    },
+    {
+      "category": "Condition C - Treatment 1",
+      "value": 65
+    },
+    {
+      "category": "Condition D - Treatment 1",
+      "value": 80
+    },
+    {
+      "category": "Condition E - Treatment 1",
+      "value": 85
+    },
+    {
+      "category": "Condition F - Treatment 1",
+      "value": 75
+    },
+    {
+      "category": "Condition G - Treatment 1",
+      "value": 85
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points were extracted accurately from the visible chart. The chart is clear and legible.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753823108_8381",
+    "image_path": "data\\perturbations\\chart_068_medium_line_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T22:05:16.455161",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.05569338798523,
+    "chart_metadata": {
+      "original_chart_id": "chart_068_medium_line_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

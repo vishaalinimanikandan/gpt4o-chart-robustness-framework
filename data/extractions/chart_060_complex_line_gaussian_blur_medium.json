@@ -1,0 +1,64 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "area",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 90
+    },
+    {
+      "category": "Condition B",
+      "value": 70
+    },
+    {
+      "category": "Condition C",
+      "value": 75
+    },
+    {
+      "category": "Condition D",
+      "value": 80
+    },
+    {
+      "category": "Condition E",
+      "value": 85
+    },
+    {
+      "category": "Condition F",
+      "value": 95
+    },
+    {
+      "category": "Condition G",
+      "value": 80
+    },
+    {
+      "category": "Condition H",
+      "value": 70
+    },
+    {
+      "category": "Condition I",
+      "value": 85
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The values are estimated based on the visual representation of the chart. Overlapping areas and lack of precise grid lines make exact extraction challenging.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753822378_3754",
+    "image_path": "data\\perturbations\\chart_060_complex_line_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-29T21:53:10.621544",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.254451274871826,
+    "chart_metadata": {
+      "original_chart_id": "chart_060_complex_line_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

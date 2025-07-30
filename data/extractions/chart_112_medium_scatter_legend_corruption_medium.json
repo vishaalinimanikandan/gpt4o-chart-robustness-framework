@@ -1,0 +1,69 @@
+{
+  "chart_title": "Economic Indicators - (Financial Analysis)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point 1",
+      "value": {
+        "Series A": 20,
+        "Series B": 90
+      }
+    },
+    {
+      "category": "Point 2",
+      "value": {
+        "Series A": 20,
+        "Series B": 50
+      }
+    },
+    {
+      "category": "Point 3",
+      "value": {
+        "Series A": 40,
+        "Series B": 30
+      }
+    },
+    {
+      "category": "Point 4",
+      "value": {
+        "Series A": 50,
+        "Series B": 60
+      }
+    },
+    {
+      "category": "Point 5",
+      "value": {
+        "Series A": 60,
+        "Series B": 70
+      }
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly visible and distinct. No overlapping or ambiguous points.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753822699_6179",
+    "image_path": "data\\perturbations\\chart_112_medium_scatter_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T21:58:26.639544",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.750975608825684,
+    "chart_metadata": {
+      "original_chart_id": "chart_112_medium_scatter_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'Series A': 20, 'Series B': 90}",
+      "Data point 1 has invalid value: {'Series A': 20, 'Series B': 50}",
+      "Data point 2 has invalid value: {'Series A': 40, 'Series B': 30}",
+      "Data point 3 has invalid value: {'Series A': 50, 'Series B': 60}",
+      "Data point 4 has invalid value: {'Series A': 60, 'Series B': 70}"
+    ]
+  }
+}

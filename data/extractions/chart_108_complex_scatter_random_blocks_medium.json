@@ -1,0 +1,68 @@
+{
+  "chart_title": "Risk-Return Analysis - (Financial Analysis)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 75
+    },
+    {
+      "category": "Category 2",
+      "value": 85
+    },
+    {
+      "category": "Category 3",
+      "value": 65
+    },
+    {
+      "category": "Category 5",
+      "value": 95
+    },
+    {
+      "category": "Category 6",
+      "value": 35
+    },
+    {
+      "category": "Category 7",
+      "value": 70
+    },
+    {
+      "category": "Category 8",
+      "value": 90
+    },
+    {
+      "category": "Category 9",
+      "value": 60
+    },
+    {
+      "category": "Category 10",
+      "value": 55
+    },
+    {
+      "category": "Category 11",
+      "value": 50
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some data points are partially obscured by noise, affecting precision.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753818881_2124",
+    "image_path": "data\\perturbations\\chart_108_complex_scatter_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T20:54:48.586825",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.608097553253174,
+    "chart_metadata": {
+      "original_chart_id": "chart_108_complex_scatter_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

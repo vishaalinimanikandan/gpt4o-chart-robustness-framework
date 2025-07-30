@@ -1,0 +1,76 @@
+{
+  "chart_title": "Product Line Profitability - (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 80
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 90
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 60
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 100
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 30
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 90
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 70
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 100
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 100
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 60
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 40
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 70
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points were clear and legible.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753827384_1510",
+    "image_path": "data\\perturbations\\chart_006_medium_bar_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-29T23:16:33.298778",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.002567768096924,
+    "chart_metadata": {
+      "original_chart_id": "chart_006_medium_bar_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 40
+    },
+    {
+      "category": "Category 2",
+      "value": 60
+    },
+    {
+      "category": "Category 3",
+      "value": 80
+    },
+    {
+      "category": "Category 4",
+      "value": 100
+    },
+    {
+      "category": "Category 5",
+      "value": 20
+    },
+    {
+      "category": "Category 6",
+      "value": 60
+    },
+    {
+      "category": "Category 7",
+      "value": 40
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the visual representation. Exact values are not labeled.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753822461_4176",
+    "image_path": "data\\perturbations\\chart_081_medium_area_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-29T21:54:29.044068",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.337270259857178,
+    "chart_metadata": {
+      "original_chart_id": "chart_081_medium_area_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

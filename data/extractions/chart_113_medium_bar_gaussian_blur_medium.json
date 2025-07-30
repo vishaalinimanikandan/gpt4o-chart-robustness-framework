@@ -1,0 +1,92 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Nov 2024 - Stocks",
+      "value": 90
+    },
+    {
+      "category": "Nov 2024 - Bonds",
+      "value": 85
+    },
+    {
+      "category": "Dec 2024 - Stocks",
+      "value": 92
+    },
+    {
+      "category": "Dec 2024 - Bonds",
+      "value": 88
+    },
+    {
+      "category": "Jan 2025 - Stocks",
+      "value": 91
+    },
+    {
+      "category": "Jan 2025 - Bonds",
+      "value": 87
+    },
+    {
+      "category": "Mar 2025 - Stocks",
+      "value": 93
+    },
+    {
+      "category": "Mar 2025 - Bonds",
+      "value": 89
+    },
+    {
+      "category": "Apr 2025 - Stocks",
+      "value": 94
+    },
+    {
+      "category": "Apr 2025 - Bonds",
+      "value": 90
+    },
+    {
+      "category": "May 2025 - Stocks",
+      "value": 95
+    },
+    {
+      "category": "May 2025 - Bonds",
+      "value": 91
+    },
+    {
+      "category": "Jun 2025 - Stocks",
+      "value": 96
+    },
+    {
+      "category": "Jun 2025 - Bonds",
+      "value": 92
+    },
+    {
+      "category": "Jul 2025 - Stocks",
+      "value": 97
+    },
+    {
+      "category": "Jul 2025 - Bonds",
+      "value": 93
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clear and distinct. No ambiguities observed.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753829995_7606",
+    "image_path": "data\\perturbations\\chart_113_medium_bar_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-30T00:00:12.586749",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 17.325643301010132,
+    "chart_metadata": {
+      "original_chart_id": "chart_113_medium_bar_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

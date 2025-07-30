@@ -1,0 +1,76 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 95.0
+    },
+    {
+      "category": "Category 2",
+      "value": 87.4
+    },
+    {
+      "category": "Category 3",
+      "value": 73.1
+    },
+    {
+      "category": "Category 4",
+      "value": 99.6
+    },
+    {
+      "category": "Category 5",
+      "value": 73.8
+    },
+    {
+      "category": "Category 6",
+      "value": 76.3
+    },
+    {
+      "category": "Category 7",
+      "value": 67.3
+    },
+    {
+      "category": "Category 8",
+      "value": 77.6
+    },
+    {
+      "category": "Category 9",
+      "value": 66.4
+    },
+    {
+      "category": "Category 10",
+      "value": 77.4
+    },
+    {
+      "category": "Category 11",
+      "value": 53.7
+    },
+    {
+      "category": "Category 12",
+      "value": 62.6
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values extracted accurately from the chart. Multiple series present, but only Series A values extracted as representative.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753832572_4159",
+    "image_path": "data\\perturbations\\chart_185_advanced_bar_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-30T00:43:01.456219",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.187626600265503,
+    "chart_metadata": {
+      "original_chart_id": "chart_185_advanced_bar_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

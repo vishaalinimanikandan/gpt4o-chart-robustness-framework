@@ -1,0 +1,75 @@
+{
+  "chart_title": "Economic Indicators - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 99.2
+    },
+    {
+      "category": "Category 2",
+      "value": 20.9
+    },
+    {
+      "category": "Category 3",
+      "value": 87.4
+    },
+    {
+      "category": "Category 4",
+      "value": 47.7
+    },
+    {
+      "category": "Category 5",
+      "value": 52.6
+    },
+    {
+      "category": "Category 6",
+      "value": 64.5
+    },
+    {
+      "category": "Category 7",
+      "value": 32.6
+    },
+    {
+      "category": "Category 8",
+      "value": 43.3
+    },
+    {
+      "category": "Category 9",
+      "value": 48.7
+    },
+    {
+      "category": "Category 10",
+      "value": 74.1
+    },
+    {
+      "category": "Category 11",
+      "value": 48.1
+    },
+    {
+      "category": "Category 12",
+      "value": 25.3
+    },
+    {
+      "category": "Category 13",
+      "value": 24.5
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points were extracted accurately from the chart. Multiple series were present, but only one series was extracted for simplicity.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753815301_9727",
+    "image_path": "data\\raw_charts\\chart_119_advanced_line.png",
+    "extraction_timestamp": "2025-07-29T19:55:14.330876",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 13.279111623764038,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

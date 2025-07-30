@@ -1,0 +1,29 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [],
+  "extraction_confidence": "low",
+  "extraction_notes": "The chart is obscured by noise, making it impossible to accurately extract data points or labels.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753830691_5911",
+    "image_path": "data\\perturbations\\chart_179_complex_line_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-30T00:11:37.232568",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 5.367825269699097,
+    "chart_metadata": {
+      "original_chart_id": "chart_179_complex_line_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [
+      "Only 0 data points extracted"
+    ],
+    "errors": []
+  }
+}

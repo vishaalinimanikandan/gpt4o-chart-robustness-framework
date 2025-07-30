@@ -1,0 +1,64 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 20
+    },
+    {
+      "category": "Category 2",
+      "value": 40
+    },
+    {
+      "category": "Category 3",
+      "value": 80
+    },
+    {
+      "category": "Category 4",
+      "value": 100
+    },
+    {
+      "category": "Category 5",
+      "value": 60
+    },
+    {
+      "category": "Category 6",
+      "value": 100
+    },
+    {
+      "category": "Category 7",
+      "value": 50
+    },
+    {
+      "category": "Category 9",
+      "value": 80
+    },
+    {
+      "category": "Category 10",
+      "value": 60
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some data points are partially obscured by black squares, making precise extraction challenging.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753824070_3658",
+    "image_path": "data\\perturbations\\chart_183_advanced_scatter_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T22:21:19.022643",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.835484743118286,
+    "chart_metadata": {
+      "original_chart_id": "chart_183_advanced_scatter_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

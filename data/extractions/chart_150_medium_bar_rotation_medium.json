@@ -1,0 +1,112 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Dec 2024 - Stocks",
+      "value": 100
+    },
+    {
+      "category": "Dec 2024 - Bonds",
+      "value": 95
+    },
+    {
+      "category": "Dec 2024 - Real Estate",
+      "value": 90
+    },
+    {
+      "category": "Jan 2025 - Stocks",
+      "value": 98
+    },
+    {
+      "category": "Jan 2025 - Bonds",
+      "value": 93
+    },
+    {
+      "category": "Jan 2025 - Real Estate",
+      "value": 88
+    },
+    {
+      "category": "Mar 2025 - Stocks",
+      "value": 97
+    },
+    {
+      "category": "Mar 2025 - Bonds",
+      "value": 92
+    },
+    {
+      "category": "Mar 2025 - Real Estate",
+      "value": 87
+    },
+    {
+      "category": "Apr 2025 - Stocks",
+      "value": 99
+    },
+    {
+      "category": "Apr 2025 - Bonds",
+      "value": 94
+    },
+    {
+      "category": "Apr 2025 - Real Estate",
+      "value": 89
+    },
+    {
+      "category": "May 2025 - Stocks",
+      "value": 100
+    },
+    {
+      "category": "May 2025 - Bonds",
+      "value": 95
+    },
+    {
+      "category": "May 2025 - Real Estate",
+      "value": 90
+    },
+    {
+      "category": "Jun 2025 - Stocks",
+      "value": 98
+    },
+    {
+      "category": "Jun 2025 - Bonds",
+      "value": 93
+    },
+    {
+      "category": "Jun 2025 - Real Estate",
+      "value": 88
+    },
+    {
+      "category": "Jul 2025 - Stocks",
+      "value": 97
+    },
+    {
+      "category": "Jul 2025 - Bonds",
+      "value": 92
+    },
+    {
+      "category": "Jul 2025 - Real Estate",
+      "value": 87
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points were extracted with clear visibility and precision.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753822739_2118",
+    "image_path": "data\\perturbations\\chart_150_medium_bar_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T21:59:20.775990",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 21.421123266220093,
+    "chart_metadata": {
+      "original_chart_id": "chart_150_medium_bar",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

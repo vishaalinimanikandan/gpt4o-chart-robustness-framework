@@ -1,0 +1,60 @@
+{
+  "chart_title": "Risk Return Analysis - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 40
+    },
+    {
+      "category": "Category 2",
+      "value": 60
+    },
+    {
+      "category": "Category 3",
+      "value": 50
+    },
+    {
+      "category": "Category 4",
+      "value": 70
+    },
+    {
+      "category": "Category 5",
+      "value": 90
+    },
+    {
+      "category": "Category 6",
+      "value": 80
+    },
+    {
+      "category": "Category 7",
+      "value": 60
+    },
+    {
+      "category": "Category 8",
+      "value": 40
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The values are estimated based on the visual representation of the lines and may not be exact. The overlapping shaded areas make it difficult to determine precise values.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753825904_7825",
+    "image_path": "data\\perturbations\\chart_131_complex_line_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T22:51:57.215800",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.514796495437622,
+    "chart_metadata": {
+      "original_chart_id": "chart_131_complex_line",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

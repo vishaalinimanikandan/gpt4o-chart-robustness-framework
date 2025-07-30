@@ -1,0 +1,76 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "area",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 92.3
+    },
+    {
+      "category": "Condition B",
+      "value": 70.3
+    },
+    {
+      "category": "Condition C",
+      "value": 62.6
+    },
+    {
+      "category": "Condition D",
+      "value": 72.7
+    },
+    {
+      "category": "Condition E",
+      "value": 77.1
+    },
+    {
+      "category": "Condition F",
+      "value": 60.0
+    },
+    {
+      "category": "Condition G",
+      "value": 69.8
+    },
+    {
+      "category": "Condition H",
+      "value": 92.5
+    },
+    {
+      "category": "Condition I",
+      "value": 84.3
+    },
+    {
+      "category": "Condition J",
+      "value": 72.0
+    },
+    {
+      "category": "Condition K",
+      "value": 66.7
+    },
+    {
+      "category": "Condition L",
+      "value": 56.0
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points were clear and legible. The chart is an area chart with multiple data series.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753827768_2929",
+    "image_path": "data\\perturbations\\chart_057_advanced_area_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T23:22:59.264520",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.001317739486694,
+    "chart_metadata": {
+      "original_chart_id": "chart_057_advanced_area",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 63.8
+    },
+    {
+      "category": "Category 2",
+      "value": 71.6
+    },
+    {
+      "category": "Category 3",
+      "value": 70.2
+    },
+    {
+      "category": "Category 4",
+      "value": 62.1
+    },
+    {
+      "category": "Category 5",
+      "value": 79.0
+    },
+    {
+      "category": "Category 6",
+      "value": 57.8
+    },
+    {
+      "category": "Category 7",
+      "value": 33.8
+    },
+    {
+      "category": "Category 8",
+      "value": 57.4
+    },
+    {
+      "category": "Category 9",
+      "value": 32.0
+    },
+    {
+      "category": "Category 10",
+      "value": 39.0
+    },
+    {
+      "category": "Category 11",
+      "value": 58.4
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points were extracted with high confidence as the values were clear and legible.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753825222_2623",
+    "image_path": "data\\perturbations\\chart_180_advanced_bar_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-29T22:40:33.032930",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.915106296539307,
+    "chart_metadata": {
+      "original_chart_id": "chart_180_advanced_bar_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

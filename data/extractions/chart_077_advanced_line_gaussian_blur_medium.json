@@ -1,0 +1,128 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "area",
+  "data": [
+    {
+      "category": "Condition A - Control",
+      "value": 90.7
+    },
+    {
+      "category": "Condition A - Treatment 1",
+      "value": 86.4
+    },
+    {
+      "category": "Condition A - Treatment 2",
+      "value": 77.2
+    },
+    {
+      "category": "Condition A - Treatment 3",
+      "value": 72.8
+    },
+    {
+      "category": "Condition A - Treatment 4",
+      "value": 77.2
+    },
+    {
+      "category": "Condition B - Control",
+      "value": 89.3
+    },
+    {
+      "category": "Condition B - Treatment 1",
+      "value": 83.7
+    },
+    {
+      "category": "Condition B - Treatment 2",
+      "value": 74.4
+    },
+    {
+      "category": "Condition B - Treatment 3",
+      "value": 71.0
+    },
+    {
+      "category": "Condition B - Treatment 4",
+      "value": 65.7
+    },
+    {
+      "category": "Condition C - Control",
+      "value": 94.0
+    },
+    {
+      "category": "Condition C - Treatment 1",
+      "value": 81.6
+    },
+    {
+      "category": "Condition C - Treatment 2",
+      "value": 77.2
+    },
+    {
+      "category": "Condition C - Treatment 3",
+      "value": 71.0
+    },
+    {
+      "category": "Condition C - Treatment 4",
+      "value": 80.1
+    },
+    {
+      "category": "Condition D - Control",
+      "value": 90.9
+    },
+    {
+      "category": "Condition D - Treatment 1",
+      "value": 82.0
+    },
+    {
+      "category": "Condition D - Treatment 2",
+      "value": 73.0
+    },
+    {
+      "category": "Condition D - Treatment 3",
+      "value": 65.6
+    },
+    {
+      "category": "Condition D - Treatment 4",
+      "value": 77.2
+    },
+    {
+      "category": "Condition E - Control",
+      "value": 95.1
+    },
+    {
+      "category": "Condition E - Treatment 1",
+      "value": 75.8
+    },
+    {
+      "category": "Condition E - Treatment 2",
+      "value": 71.1
+    },
+    {
+      "category": "Condition E - Treatment 3",
+      "value": 68.5
+    },
+    {
+      "category": "Condition E - Treatment 4",
+      "value": 73.1
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly labeled and distinct. The chart is an area chart with multiple series.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753825848_8032",
+    "image_path": "data\\perturbations\\chart_077_advanced_line_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-29T22:51:06.433579",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 18.25533890724182,
+    "chart_metadata": {
+      "original_chart_id": "chart_077_advanced_line_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

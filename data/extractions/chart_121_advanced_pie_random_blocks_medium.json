@@ -1,0 +1,80 @@
+{
+  "chart_title": "Portfolio Performance Tracking - Financial Analysis",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Jul 2024",
+      "value": 7.6
+    },
+    {
+      "category": "Aug 2024",
+      "value": 7.1
+    },
+    {
+      "category": "Sep 2024",
+      "value": 7.5
+    },
+    {
+      "category": "Oct 2024",
+      "value": 6.9
+    },
+    {
+      "category": "Nov 2024",
+      "value": 7.3
+    },
+    {
+      "category": "Dec 2024",
+      "value": 7.4
+    },
+    {
+      "category": "Jan 2025",
+      "value": 7.3
+    },
+    {
+      "category": "Feb 2025",
+      "value": 6.9
+    },
+    {
+      "category": "Mar 2025",
+      "value": 6.6
+    },
+    {
+      "category": "Apr 2025",
+      "value": 6.9
+    },
+    {
+      "category": "May 2025",
+      "value": 7.0
+    },
+    {
+      "category": "Jun 2025",
+      "value": 6.8
+    },
+    {
+      "category": "Jul 2025",
+      "value": 7.4
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The image has significant obfuscation, making some text difficult to read. Values are estimated based on visible portions.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753818468_8285",
+    "image_path": "data\\perturbations\\chart_121_advanced_pie_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T20:48:01.874267",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 13.501625537872314,
+    "chart_metadata": {
+      "original_chart_id": "chart_121_advanced_pie_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

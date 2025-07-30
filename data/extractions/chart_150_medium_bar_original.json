@@ -1,0 +1,107 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Dec 2024 - Stocks",
+      "value": 102
+    },
+    {
+      "category": "Dec 2024 - Bonds",
+      "value": 100
+    },
+    {
+      "category": "Dec 2024 - Real Estate",
+      "value": 98
+    },
+    {
+      "category": "Jan 2025 - Stocks",
+      "value": 98
+    },
+    {
+      "category": "Jan 2025 - Bonds",
+      "value": 96
+    },
+    {
+      "category": "Jan 2025 - Real Estate",
+      "value": 97
+    },
+    {
+      "category": "Mar 2025 - Stocks",
+      "value": 100
+    },
+    {
+      "category": "Mar 2025 - Bonds",
+      "value": 99
+    },
+    {
+      "category": "Mar 2025 - Real Estate",
+      "value": 101
+    },
+    {
+      "category": "Apr 2025 - Stocks",
+      "value": 97
+    },
+    {
+      "category": "Apr 2025 - Bonds",
+      "value": 100
+    },
+    {
+      "category": "Apr 2025 - Real Estate",
+      "value": 99
+    },
+    {
+      "category": "May 2025 - Stocks",
+      "value": 101
+    },
+    {
+      "category": "May 2025 - Bonds",
+      "value": 98
+    },
+    {
+      "category": "May 2025 - Real Estate",
+      "value": 100
+    },
+    {
+      "category": "Jun 2025 - Stocks",
+      "value": 99
+    },
+    {
+      "category": "Jun 2025 - Bonds",
+      "value": 101
+    },
+    {
+      "category": "Jun 2025 - Real Estate",
+      "value": 102
+    },
+    {
+      "category": "Jul 2025 - Stocks",
+      "value": 100
+    },
+    {
+      "category": "Jul 2025 - Bonds",
+      "value": 99
+    },
+    {
+      "category": "Jul 2025 - Real Estate",
+      "value": 101
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on bar heights; exact values may vary slightly.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753815887_5562",
+    "image_path": "data\\raw_charts\\chart_150_medium_bar.png",
+    "extraction_timestamp": "2025-07-29T20:05:04.406392",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 17.108501434326172,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

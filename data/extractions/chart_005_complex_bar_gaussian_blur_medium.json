@@ -1,0 +1,112 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Q1 '22 Revenue ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q1 '22 Costs ($M)",
+      "value": 0.9
+    },
+    {
+      "category": "Q1 '22 Profit ($M)",
+      "value": 0.1
+    },
+    {
+      "category": "Q1 '22 Revenue ($M)",
+      "value": 1.2
+    },
+    {
+      "category": "Q1 '22 Costs ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q1 '22 Profit ($M)",
+      "value": 0.3
+    },
+    {
+      "category": "Q2 '22 Revenue ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q2 '22 Costs ($M)",
+      "value": 0.8
+    },
+    {
+      "category": "Q2 '22 Profit ($M)",
+      "value": 0.1
+    },
+    {
+      "category": "Q2 '22 Revenue ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q2 '22 Costs ($M)",
+      "value": 0.8
+    },
+    {
+      "category": "Q2 '22 Profit ($M)",
+      "value": 0.1
+    },
+    {
+      "category": "Q3 '22 Revenue ($M)",
+      "value": 1.2
+    },
+    {
+      "category": "Q3 '22 Costs ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q3 '22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q3 '22 Revenue ($M)",
+      "value": 1.2
+    },
+    {
+      "category": "Q3 '22 Costs ($M)",
+      "value": 0.9
+    },
+    {
+      "category": "Q3 '22 Profit ($M)",
+      "value": 0.1
+    },
+    {
+      "category": "Q3 '22 Revenue ($M)",
+      "value": 1.2
+    },
+    {
+      "category": "Q3 '22 Costs ($M)",
+      "value": 0.8
+    },
+    {
+      "category": "Q3 '22 Profit ($M)",
+      "value": 0.1
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly labeled and values are distinct.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753820126_7779",
+    "image_path": "data\\perturbations\\chart_005_complex_bar_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-29T21:15:47.988718",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 21.082611322402954,
+    "chart_metadata": {
+      "original_chart_id": "chart_005_complex_bar_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

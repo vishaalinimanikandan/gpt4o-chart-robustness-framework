@@ -1,0 +1,72 @@
+{
+  "chart_title": "Product Line Profitability - (Business Analytics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point 1",
+      "value": {
+        "Series A": 10,
+        "Series B": 100
+      }
+    },
+    {
+      "category": "Point 2",
+      "value": {
+        "Series A": 10,
+        "Series B": 60
+      }
+    },
+    {
+      "category": "Point 3",
+      "value": {
+        "Series A": 10,
+        "Series B": 40
+      }
+    },
+    {
+      "category": "Point 4",
+      "value": {
+        "Series A": 30,
+        "Series B": 80
+      }
+    },
+    {
+      "category": "Point 5",
+      "value": {
+        "Series A": 50,
+        "Series B": 20
+      }
+    },
+    {
+      "category": "Point 6",
+      "value": {
+        "Series A": 70,
+        "Series B": 40
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Data points are estimated based on visual inspection. Exact values may vary slightly.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753813316_9785",
+    "image_path": "data\\raw_charts\\chart_025_medium_scatter.png",
+    "extraction_timestamp": "2025-07-29T19:22:05.574257",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.170189380645752,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'Series A': 10, 'Series B': 100}",
+      "Data point 1 has invalid value: {'Series A': 10, 'Series B': 60}",
+      "Data point 2 has invalid value: {'Series A': 10, 'Series B': 40}",
+      "Data point 3 has invalid value: {'Series A': 30, 'Series B': 80}",
+      "Data point 4 has invalid value: {'Series A': 50, 'Series B': 20}",
+      "Data point 5 has invalid value: {'Series A': 70, 'Series B': 40}"
+    ]
+  }
+}

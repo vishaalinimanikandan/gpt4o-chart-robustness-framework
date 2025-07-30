@@ -1,0 +1,72 @@
+{
+  "chart_title": "Customer Satisfaction Metrics - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 60
+    },
+    {
+      "category": "Category 2",
+      "value": 40
+    },
+    {
+      "category": "Category 3",
+      "value": 80
+    },
+    {
+      "category": "Category 4",
+      "value": 60
+    },
+    {
+      "category": "Category 5",
+      "value": 70
+    },
+    {
+      "category": "Category 6",
+      "value": 20
+    },
+    {
+      "category": "Category 7",
+      "value": 90
+    },
+    {
+      "category": "Category 8",
+      "value": 50
+    },
+    {
+      "category": "Category 9",
+      "value": 80
+    },
+    {
+      "category": "Category 10",
+      "value": 30
+    },
+    {
+      "category": "Category 11",
+      "value": 70
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The values are estimated based on the visual representation of the chart. Overlapping lines and shading may cause slight inaccuracies.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753831480_5571",
+    "image_path": "data\\perturbations\\chart_023_complex_line_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-30T00:24:50.632840",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.952094078063965,
+    "chart_metadata": {
+      "original_chart_id": "chart_023_complex_line_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

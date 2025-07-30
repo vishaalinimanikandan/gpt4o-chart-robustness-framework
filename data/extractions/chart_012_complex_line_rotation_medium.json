@@ -1,0 +1,68 @@
+{
+  "chart_title": "Product Line Profitability - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 100
+    },
+    {
+      "category": "Category 2",
+      "value": 80
+    },
+    {
+      "category": "Category 3",
+      "value": 60
+    },
+    {
+      "category": "Category 4",
+      "value": 40
+    },
+    {
+      "category": "Category 5",
+      "value": 60
+    },
+    {
+      "category": "Category 6",
+      "value": 80
+    },
+    {
+      "category": "Category 7",
+      "value": 100
+    },
+    {
+      "category": "Category 8",
+      "value": 80
+    },
+    {
+      "category": "Category 9",
+      "value": 60
+    },
+    {
+      "category": "Category 10",
+      "value": 40
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the line positions and grid lines. Overlapping lines and shading may cause slight inaccuracies.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753822369_6456",
+    "image_path": "data\\perturbations\\chart_012_complex_line_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T21:52:57.350756",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.511725425720215,
+    "chart_metadata": {
+      "original_chart_id": "chart_012_complex_line",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "chart_title": "Economic Indicators - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": null
+    },
+    {
+      "category": "Category 2",
+      "value": null
+    },
+    {
+      "category": "Category 3",
+      "value": null
+    },
+    {
+      "category": "Category 4",
+      "value": null
+    },
+    {
+      "category": "Category 5",
+      "value": null
+    },
+    {
+      "category": "Category 6",
+      "value": null
+    },
+    {
+      "category": "Category 7",
+      "value": null
+    },
+    {
+      "category": "Category 8",
+      "value": null
+    },
+    {
+      "category": "Category 9",
+      "value": null
+    },
+    {
+      "category": "Category 10",
+      "value": null
+    }
+  ],
+  "extraction_confidence": "low",
+  "extraction_notes": "Unable to extract precise numerical values from the image. The chart contains multiple series with overlapping data points, making it difficult to discern exact values.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753815842_2160",
+    "image_path": "data\\raw_charts\\chart_147_complex_line.png",
+    "extraction_timestamp": "2025-07-29T20:04:15.910129",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 13.19654369354248,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: None",
+      "Data point 1 has invalid value: None",
+      "Data point 2 has invalid value: None",
+      "Data point 3 has invalid value: None",
+      "Data point 4 has invalid value: None",
+      "Data point 5 has invalid value: None",
+      "Data point 6 has invalid value: None",
+      "Data point 7 has invalid value: None",
+      "Data point 8 has invalid value: None",
+      "Data point 9 has invalid value: None"
+    ]
+  }
+}

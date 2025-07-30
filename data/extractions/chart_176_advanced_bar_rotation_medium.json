@@ -1,0 +1,76 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 88.4
+    },
+    {
+      "category": "Category 2",
+      "value": 94.0
+    },
+    {
+      "category": "Category 3",
+      "value": 86.8
+    },
+    {
+      "category": "Category 4",
+      "value": 100.2
+    },
+    {
+      "category": "Category 5",
+      "value": 80.9
+    },
+    {
+      "category": "Category 6",
+      "value": 91.8
+    },
+    {
+      "category": "Category 7",
+      "value": 88.6
+    },
+    {
+      "category": "Category 8",
+      "value": 96.7
+    },
+    {
+      "category": "Category 9",
+      "value": 87.4
+    },
+    {
+      "category": "Category 10",
+      "value": 89.0
+    },
+    {
+      "category": "Category 11",
+      "value": 86.9
+    },
+    {
+      "category": "Category 12",
+      "value": 104.1
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart is tilted, which may affect the precision of value extraction. Some values are partially obscured by overlapping bars.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753820664_2882",
+    "image_path": "data\\perturbations\\chart_176_advanced_bar_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T21:24:40.172008",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 15.453181982040405,
+    "chart_metadata": {
+      "original_chart_id": "chart_176_advanced_bar",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

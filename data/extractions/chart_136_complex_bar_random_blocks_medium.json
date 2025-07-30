@@ -1,0 +1,64 @@
+{
+  "chart_title": "Sector Comparison - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 70.1
+    },
+    {
+      "category": "Category 2",
+      "value": 85.0
+    },
+    {
+      "category": "Category 3",
+      "value": 83.0
+    },
+    {
+      "category": "Category 4",
+      "value": 74.5
+    },
+    {
+      "category": "Category 5",
+      "value": 9.5
+    },
+    {
+      "category": "Category 6",
+      "value": 26.4
+    },
+    {
+      "category": "Category 7",
+      "value": 25.3
+    },
+    {
+      "category": "Category 8",
+      "value": 40.5
+    },
+    {
+      "category": "Category 9",
+      "value": 62.2
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart is obscured by black squares, making some values difficult to read. Confidence is medium due to potential missing data.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753829169_1981",
+    "image_path": "data\\perturbations\\chart_136_complex_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T23:46:20.685690",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.19345498085022,
+    "chart_metadata": {
+      "original_chart_id": "chart_136_complex_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

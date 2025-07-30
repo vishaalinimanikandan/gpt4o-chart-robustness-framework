@@ -1,0 +1,80 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 79.8
+    },
+    {
+      "category": "Category 2",
+      "value": 75.9
+    },
+    {
+      "category": "Category 3",
+      "value": 87.2
+    },
+    {
+      "category": "Category 4",
+      "value": 82.1
+    },
+    {
+      "category": "Category 5",
+      "value": 62.3
+    },
+    {
+      "category": "Category 6",
+      "value": 54.3
+    },
+    {
+      "category": "Category 7",
+      "value": 60.5
+    },
+    {
+      "category": "Category 8",
+      "value": 52.4
+    },
+    {
+      "category": "Category 9",
+      "value": 46.0
+    },
+    {
+      "category": "Category 10",
+      "value": 43.2
+    },
+    {
+      "category": "Category 11",
+      "value": 37.1
+    },
+    {
+      "category": "Category 12",
+      "value": 31.3
+    },
+    {
+      "category": "Category 13",
+      "value": 27.2
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are extracted from the tallest bars in each category. Some values are close and may overlap, leading to potential inaccuracies.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753832617_5215",
+    "image_path": "data\\perturbations\\chart_071_advanced_bar_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-30T00:44:46.874999",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 69.34643697738647,
+    "chart_metadata": {
+      "original_chart_id": "chart_071_advanced_bar_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

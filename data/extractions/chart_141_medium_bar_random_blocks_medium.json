@@ -1,0 +1,64 @@
+{
+  "chart_title": "Sector Comparison - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category_1",
+      "value": null
+    },
+    {
+      "category": "Category_2",
+      "value": null
+    },
+    {
+      "category": "Category_3",
+      "value": null
+    },
+    {
+      "category": "Category_4",
+      "value": null
+    },
+    {
+      "category": "Category_5",
+      "value": null
+    },
+    {
+      "category": "Category_6",
+      "value": null
+    },
+    {
+      "category": "Category_7",
+      "value": null
+    }
+  ],
+  "extraction_confidence": "low",
+  "extraction_notes": "The image is heavily obfuscated, making it impossible to extract precise data.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753832603_3662",
+    "image_path": "data\\perturbations\\chart_141_medium_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-30T00:43:29.354293",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 5.546420097351074,
+    "chart_metadata": {
+      "original_chart_id": "chart_141_medium_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: None",
+      "Data point 1 has invalid value: None",
+      "Data point 2 has invalid value: None",
+      "Data point 3 has invalid value: None",
+      "Data point 4 has invalid value: None",
+      "Data point 5 has invalid value: None",
+      "Data point 6 has invalid value: None"
+    ]
+  }
+}

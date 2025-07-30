@@ -1,0 +1,71 @@
+{
+  "chart_title": "Service Level Agreement - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 80
+    },
+    {
+      "category": "Category 2",
+      "value": 40
+    },
+    {
+      "category": "Category 3",
+      "value": 60
+    },
+    {
+      "category": "Category 4",
+      "value": 20
+    },
+    {
+      "category": "Category 5",
+      "value": 90
+    },
+    {
+      "category": "Category 6",
+      "value": 70
+    },
+    {
+      "category": "Category 7",
+      "value": 100
+    },
+    {
+      "category": "Category 8",
+      "value": 30
+    },
+    {
+      "category": "Category 9",
+      "value": 50
+    },
+    {
+      "category": "Category 10",
+      "value": 60
+    },
+    {
+      "category": "Category 11",
+      "value": 40
+    },
+    {
+      "category": "Category 12",
+      "value": 80
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the visual representation. Overlapping lines and shaded areas may cause slight inaccuracies.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753816919_7658",
+    "image_path": "data\\raw_charts\\chart_175_complex_line.png",
+    "extraction_timestamp": "2025-07-29T20:22:16.222222",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 17.195768117904663,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 99.0
+    },
+    {
+      "category": "Category 2",
+      "value": 82.2
+    },
+    {
+      "category": "Category 3",
+      "value": 87.2
+    },
+    {
+      "category": "Category 4",
+      "value": 98.2
+    },
+    {
+      "category": "Category 5",
+      "value": 93.2
+    },
+    {
+      "category": "Category 6",
+      "value": 77.6
+    },
+    {
+      "category": "Category 7",
+      "value": 82.6
+    },
+    {
+      "category": "Category 8",
+      "value": 84.6
+    },
+    {
+      "category": "Category 9",
+      "value": 46.0
+    },
+    {
+      "category": "Category 10",
+      "value": 43.2
+    },
+    {
+      "category": "Category 11",
+      "value": 37.1
+    },
+    {
+      "category": "Category 12",
+      "value": 53.3
+    },
+    {
+      "category": "Category 13",
+      "value": 47.7
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some values are partially obscured or close to each other, making precise extraction challenging.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753821438_9633",
+    "image_path": "data\\perturbations\\chart_071_advanced_bar_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T21:37:30.674220",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.442878484725952,
+    "chart_metadata": {
+      "original_chart_id": "chart_071_advanced_bar_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

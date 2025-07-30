@@ -1,0 +1,52 @@
+{
+  "chart_title": "Service Level Agreement - (Operational Metrics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 80.0
+    },
+    {
+      "category": "Category 2",
+      "value": 87.1
+    },
+    {
+      "category": "Category 3",
+      "value": 102.6
+    },
+    {
+      "category": "Category 4",
+      "value": 102.9
+    },
+    {
+      "category": "Category 5",
+      "value": 110.9
+    },
+    {
+      "category": "Category 6",
+      "value": 106.2
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some data points are obscured by black marks, making extraction challenging. Only visible data points were extracted.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753826228_3185",
+    "image_path": "data\\perturbations\\chart_182_complex_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T22:57:15.382244",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.574372291564941,
+    "chart_metadata": {
+      "original_chart_id": "chart_182_complex_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific Research)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 80
+    },
+    {
+      "category": "Category 2",
+      "value": 40
+    },
+    {
+      "category": "Category 3",
+      "value": 20
+    },
+    {
+      "category": "Category 4",
+      "value": 50
+    },
+    {
+      "category": "Category 5",
+      "value": 90
+    },
+    {
+      "category": "Category 6",
+      "value": 30
+    },
+    {
+      "category": "Category 7",
+      "value": 20
+    },
+    {
+      "category": "Category 8",
+      "value": 70
+    },
+    {
+      "category": "Category 9",
+      "value": 60
+    },
+    {
+      "category": "Category 10",
+      "value": 20
+    },
+    {
+      "category": "Category 11",
+      "value": 30
+    },
+    {
+      "category": "Category 12",
+      "value": 90
+    },
+    {
+      "category": "Category 13",
+      "value": 80
+    },
+    {
+      "category": "Category 14",
+      "value": 90
+    },
+    {
+      "category": "Category 15",
+      "value": 90
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly labeled and values are easily readable.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753831433_8932",
+    "image_path": "data\\perturbations\\chart_097_advanced_scatter_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-30T00:24:03.745901",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.161740064620972,
+    "chart_metadata": {
+      "original_chart_id": "chart_097_advanced_scatter_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

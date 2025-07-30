@@ -1,0 +1,71 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 96.4
+    },
+    {
+      "category": "Category 2",
+      "value": 49.5
+    },
+    {
+      "category": "Category 3",
+      "value": 47.1
+    },
+    {
+      "category": "Category 4",
+      "value": 74.4
+    },
+    {
+      "category": "Category 5",
+      "value": 44.1
+    },
+    {
+      "category": "Category 6",
+      "value": 84.7
+    },
+    {
+      "category": "Category 7",
+      "value": 50.7
+    },
+    {
+      "category": "Category 8",
+      "value": 68.1
+    },
+    {
+      "category": "Category 9",
+      "value": 26.6
+    },
+    {
+      "category": "Category 10",
+      "value": 52.0
+    },
+    {
+      "category": "Category 11",
+      "value": 35.2
+    },
+    {
+      "category": "Category 12",
+      "value": 79.9
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points were clearly labeled and extracted with high confidence.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753816968_4502",
+    "image_path": "data\\raw_charts\\chart_178_advanced_line.png",
+    "extraction_timestamp": "2025-07-29T20:23:00.021339",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.016207695007324,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

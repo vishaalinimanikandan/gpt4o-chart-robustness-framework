@@ -1,0 +1,88 @@
+{
+  "chart_title": "Production Efficiency - (Operational Metrics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 50
+    },
+    {
+      "category": "Category 2",
+      "value": 60
+    },
+    {
+      "category": "Category 3",
+      "value": 30
+    },
+    {
+      "category": "Category 4",
+      "value": 70
+    },
+    {
+      "category": "Category 5",
+      "value": 90
+    },
+    {
+      "category": "Category 6",
+      "value": 65
+    },
+    {
+      "category": "Category 7",
+      "value": 85
+    },
+    {
+      "category": "Category 8",
+      "value": 20
+    },
+    {
+      "category": "Category 9",
+      "value": 40
+    },
+    {
+      "category": "Category 10",
+      "value": 100
+    },
+    {
+      "category": "Category 11",
+      "value": 95
+    },
+    {
+      "category": "Category 12",
+      "value": 55
+    },
+    {
+      "category": "Category 13",
+      "value": 75
+    },
+    {
+      "category": "Category 14",
+      "value": 45
+    },
+    {
+      "category": "Category 15",
+      "value": 80
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart is cluttered with black squares, making it difficult to extract precise values. The trend line and color gradient add complexity.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753826857_6554",
+    "image_path": "data\\perturbations\\chart_166_advanced_scatter_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T23:07:47.863943",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.297903537750244,
+    "chart_metadata": {
+      "original_chart_id": "chart_166_advanced_scatter_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Q1 '22",
+      "value": {
+        "revenue": 1.15,
+        "profit": 0.16
+      }
+    },
+    {
+      "category": "Q2 '22",
+      "value": {
+        "revenue": 1.05,
+        "profit": 0.14
+      }
+    },
+    {
+      "category": "Q3 '22",
+      "value": {
+        "revenue": 0.95,
+        "profit": 0.12
+      }
+    },
+    {
+      "category": "Q1 '22",
+      "value": {
+        "revenue": 1.1,
+        "profit": 0.06
+      }
+    },
+    {
+      "category": "Q2 '22",
+      "value": {
+        "revenue": 1.0,
+        "profit": 0.12
+      }
+    },
+    {
+      "category": "Q3 '22",
+      "value": {
+        "revenue": 1.1,
+        "profit": 0.12
+      }
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly labeled and positioned on the chart.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753826005_9312",
+    "image_path": "data\\perturbations\\chart_042_complex_scatter_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T22:53:32.965624",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.671494007110596,
+    "chart_metadata": {
+      "original_chart_id": "chart_042_complex_scatter_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'revenue': 1.15, 'profit': 0.16}",
+      "Data point 1 has invalid value: {'revenue': 1.05, 'profit': 0.14}",
+      "Data point 2 has invalid value: {'revenue': 0.95, 'profit': 0.12}",
+      "Data point 3 has invalid value: {'revenue': 1.1, 'profit': 0.06}",
+      "Data point 4 has invalid value: {'revenue': 1.0, 'profit': 0.12}",
+      "Data point 5 has invalid value: {'revenue': 1.1, 'profit': 0.12}"
+    ]
+  }
+}

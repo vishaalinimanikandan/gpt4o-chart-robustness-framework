@@ -1,0 +1,172 @@
+{
+  "chart_title": "Sector Comparison - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 38.8
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 74.8
+    },
+    {
+      "category": "Category 1 - Series C",
+      "value": 48.8
+    },
+    {
+      "category": "Category 1 - Series D",
+      "value": 28.6
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 40.0
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 88.6
+    },
+    {
+      "category": "Category 2 - Series C",
+      "value": 40.4
+    },
+    {
+      "category": "Category 2 - Series D",
+      "value": 35.8
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 44.9
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 104.9
+    },
+    {
+      "category": "Category 3 - Series C",
+      "value": 97.7
+    },
+    {
+      "category": "Category 3 - Series D",
+      "value": 29.4
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 42.2
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 92.4
+    },
+    {
+      "category": "Category 4 - Series C",
+      "value": 58.1
+    },
+    {
+      "category": "Category 4 - Series D",
+      "value": 57.6
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 43.7
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 104.5
+    },
+    {
+      "category": "Category 5 - Series C",
+      "value": 65.1
+    },
+    {
+      "category": "Category 5 - Series D",
+      "value": 21.3
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 41.8
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 87.9
+    },
+    {
+      "category": "Category 6 - Series C",
+      "value": 65.1
+    },
+    {
+      "category": "Category 6 - Series D",
+      "value": 23.9
+    },
+    {
+      "category": "Category 7 - Series A",
+      "value": 33.1
+    },
+    {
+      "category": "Category 7 - Series B",
+      "value": 81.2
+    },
+    {
+      "category": "Category 7 - Series C",
+      "value": 62.8
+    },
+    {
+      "category": "Category 7 - Series D",
+      "value": 20.6
+    },
+    {
+      "category": "Category 8 - Series A",
+      "value": 14.5
+    },
+    {
+      "category": "Category 8 - Series B",
+      "value": 73.9
+    },
+    {
+      "category": "Category 8 - Series C",
+      "value": 49.2
+    },
+    {
+      "category": "Category 8 - Series D",
+      "value": 33.1
+    },
+    {
+      "category": "Category 9 - Series A",
+      "value": 29.7
+    },
+    {
+      "category": "Category 9 - Series B",
+      "value": 73.9
+    },
+    {
+      "category": "Category 9 - Series C",
+      "value": 48.4
+    },
+    {
+      "category": "Category 9 - Series D",
+      "value": 14.5
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points were clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753824548_5616",
+    "image_path": "data\\perturbations\\chart_133_complex_bar_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T22:29:35.083123",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 26.495646715164185,
+    "chart_metadata": {
+      "original_chart_id": "chart_133_complex_bar_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

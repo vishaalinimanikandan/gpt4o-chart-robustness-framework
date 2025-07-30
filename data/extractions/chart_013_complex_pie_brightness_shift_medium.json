@@ -1,0 +1,76 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Q1 '22",
+      "value": 7.9
+    },
+    {
+      "category": "Q1 '22",
+      "value": 8.3
+    },
+    {
+      "category": "Q1 '22",
+      "value": 7.6
+    },
+    {
+      "category": "Q2 '22",
+      "value": 6.9
+    },
+    {
+      "category": "Q2 '22",
+      "value": 8.7
+    },
+    {
+      "category": "Q2 '22",
+      "value": 8.9
+    },
+    {
+      "category": "Q3 '22",
+      "value": 6.8
+    },
+    {
+      "category": "Q3 '22",
+      "value": 7.3
+    },
+    {
+      "category": "Q3 '22",
+      "value": 10.3
+    },
+    {
+      "category": "Q4 '22",
+      "value": 9.8
+    },
+    {
+      "category": "Q4 '22",
+      "value": 8.8
+    },
+    {
+      "category": "Q4 '22",
+      "value": 8.8
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values and labels are clear and legible.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753824014_6517",
+    "image_path": "data\\perturbations\\chart_013_complex_pie_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-29T22:20:28.329869",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 14.225212097167969,
+    "chart_metadata": {
+      "original_chart_id": "chart_013_complex_pie_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

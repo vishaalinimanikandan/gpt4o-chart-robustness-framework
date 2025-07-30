@@ -1,0 +1,47 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 50
+    },
+    {
+      "category": "Category 2",
+      "value": 40
+    },
+    {
+      "category": "Category 3",
+      "value": 100
+    },
+    {
+      "category": "Category 4",
+      "value": 90
+    },
+    {
+      "category": "Category 5",
+      "value": 70
+    },
+    {
+      "category": "Category 6",
+      "value": 30
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data extracted for Series A. Series B and C not included.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753814427_2040",
+    "image_path": "data\\raw_charts\\chart_080_medium_line.png",
+    "extraction_timestamp": "2025-07-29T19:40:34.996736",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.727696895599365,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

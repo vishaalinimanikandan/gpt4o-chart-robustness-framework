@@ -1,0 +1,47 @@
+{
+  "chart_title": "Sector Comparison - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 50
+    },
+    {
+      "category": "Category 2",
+      "value": 40
+    },
+    {
+      "category": "Category 3",
+      "value": 60
+    },
+    {
+      "category": "Category 4",
+      "value": 70
+    },
+    {
+      "category": "Category 5",
+      "value": 90
+    },
+    {
+      "category": "Category 6",
+      "value": 60
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the position on the y-axis. Series differentiation is not included.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753815337_8787",
+    "image_path": "data\\raw_charts\\chart_122_medium_line.png",
+    "extraction_timestamp": "2025-07-29T19:55:45.293276",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.754725694656372,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 41.6
+    },
+    {
+      "category": "Category 2",
+      "value": 24.4
+    },
+    {
+      "category": "Category 3",
+      "value": 33.7
+    },
+    {
+      "category": "Category 4",
+      "value": 26.5
+    },
+    {
+      "category": "Category 5",
+      "value": 34.8
+    },
+    {
+      "category": "Category 6",
+      "value": 44.5
+    },
+    {
+      "category": "Category 7",
+      "value": 36.7
+    },
+    {
+      "category": "Category 8",
+      "value": 23.8
+    },
+    {
+      "category": "Category 9",
+      "value": 43.4
+    },
+    {
+      "category": "Category 10",
+      "value": 40.6
+    },
+    {
+      "category": "Category 11",
+      "value": 33.0
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points extracted from visible labels on the chart. Series A Trend and Overall Average are not included as they are not individual data points.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753813849_6313",
+    "image_path": "data\\raw_charts\\chart_054_advanced_bar.png",
+    "extraction_timestamp": "2025-07-29T19:31:00.569373",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.478611469268799,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

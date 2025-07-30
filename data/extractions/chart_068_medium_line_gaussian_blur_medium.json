@@ -1,0 +1,92 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Condition A - Control",
+      "value": 75
+    },
+    {
+      "category": "Condition A - Treatment 1",
+      "value": 75
+    },
+    {
+      "category": "Condition B - Control",
+      "value": 76
+    },
+    {
+      "category": "Condition B - Treatment 1",
+      "value": 90
+    },
+    {
+      "category": "Condition C - Control",
+      "value": 74
+    },
+    {
+      "category": "Condition C - Treatment 1",
+      "value": 65
+    },
+    {
+      "category": "Condition D - Control",
+      "value": 72
+    },
+    {
+      "category": "Condition D - Treatment 1",
+      "value": 80
+    },
+    {
+      "category": "Condition E - Control",
+      "value": 70
+    },
+    {
+      "category": "Condition E - Treatment 1",
+      "value": 78
+    },
+    {
+      "category": "Condition F - Control",
+      "value": 68
+    },
+    {
+      "category": "Condition F - Treatment 1",
+      "value": 70
+    },
+    {
+      "category": "Condition G - Control",
+      "value": 85
+    },
+    {
+      "category": "Condition G - Treatment 1",
+      "value": 60
+    },
+    {
+      "category": "Condition H - Control",
+      "value": 60
+    },
+    {
+      "category": "Condition H - Treatment 1",
+      "value": 85
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly visible and distinguishable. No ambiguities in the labels or values.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753831224_4397",
+    "image_path": "data\\perturbations\\chart_068_medium_line_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-30T00:20:39.752353",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 15.481465816497803,
+    "chart_metadata": {
+      "original_chart_id": "chart_068_medium_line_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

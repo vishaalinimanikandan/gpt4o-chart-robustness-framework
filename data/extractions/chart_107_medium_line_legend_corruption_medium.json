@@ -1,0 +1,100 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Dec 2024 - Stocks",
+      "value": 110
+    },
+    {
+      "category": "Dec 2024 - Bonds",
+      "value": 100
+    },
+    {
+      "category": "Dec 2024 - Real Estate",
+      "value": 100
+    },
+    {
+      "category": "Jan 2025 - Stocks",
+      "value": 115
+    },
+    {
+      "category": "Jan 2025 - Bonds",
+      "value": 105
+    },
+    {
+      "category": "Jan 2025 - Real Estate",
+      "value": 102
+    },
+    {
+      "category": "Mar 2025 - Stocks",
+      "value": 112
+    },
+    {
+      "category": "Mar 2025 - Bonds",
+      "value": 98
+    },
+    {
+      "category": "Mar 2025 - Real Estate",
+      "value": 101
+    },
+    {
+      "category": "Apr 2025 - Stocks",
+      "value": 120
+    },
+    {
+      "category": "Apr 2025 - Bonds",
+      "value": 95
+    },
+    {
+      "category": "Apr 2025 - Real Estate",
+      "value": 105
+    },
+    {
+      "category": "May 2025 - Stocks",
+      "value": 125
+    },
+    {
+      "category": "May 2025 - Bonds",
+      "value": 97
+    },
+    {
+      "category": "May 2025 - Real Estate",
+      "value": 107
+    },
+    {
+      "category": "Jun 2025 - Stocks",
+      "value": 130
+    },
+    {
+      "category": "Jun 2025 - Bonds",
+      "value": 99
+    },
+    {
+      "category": "Jun 2025 - Real Estate",
+      "value": 108
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points were clear and legible. The chart is a line chart with three data series.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753830633_9311",
+    "image_path": "data\\perturbations\\chart_107_medium_line_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-30T00:10:44.929089",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.610045194625854,
+    "chart_metadata": {
+      "original_chart_id": "chart_107_medium_line_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

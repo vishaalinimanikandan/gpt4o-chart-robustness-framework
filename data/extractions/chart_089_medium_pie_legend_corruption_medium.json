@@ -1,0 +1,60 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific R...",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 9.5
+    },
+    {
+      "category": "Category 2",
+      "value": 26.4
+    },
+    {
+      "category": "Category 3",
+      "value": 10.7
+    },
+    {
+      "category": "Category 4",
+      "value": 13.5
+    },
+    {
+      "category": "Category 5",
+      "value": 12.3
+    },
+    {
+      "category": "Category 6",
+      "value": 4.0
+    },
+    {
+      "category": "Category 7",
+      "value": 16.7
+    },
+    {
+      "category": "Category 8",
+      "value": 6.8
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The chart title is partially obscured, but data extraction is clear.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753823434_6401",
+    "image_path": "data\\perturbations\\chart_089_medium_pie_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T22:10:40.973741",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.717580318450928,
+    "chart_metadata": {
+      "original_chart_id": "chart_089_medium_pie_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

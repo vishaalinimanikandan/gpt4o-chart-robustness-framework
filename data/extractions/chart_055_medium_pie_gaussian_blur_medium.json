@@ -1,0 +1,64 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 9.0
+    },
+    {
+      "category": "Category 2",
+      "value": 9.4
+    },
+    {
+      "category": "Category 3",
+      "value": 10.0
+    },
+    {
+      "category": "Category 4",
+      "value": 9.3
+    },
+    {
+      "category": "Category 5",
+      "value": 13.4
+    },
+    {
+      "category": "Category 6",
+      "value": 19.8
+    },
+    {
+      "category": "Category 7",
+      "value": 14.4
+    },
+    {
+      "category": "Category 8",
+      "value": 8.9
+    },
+    {
+      "category": "Category 9",
+      "value": 5.8
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All text and values are clear and legible.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753833516_9972",
+    "image_path": "data\\perturbations\\chart_055_medium_pie_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-30T00:58:48.195310",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.281981945037842,
+    "chart_metadata": {
+      "original_chart_id": "chart_055_medium_pie_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

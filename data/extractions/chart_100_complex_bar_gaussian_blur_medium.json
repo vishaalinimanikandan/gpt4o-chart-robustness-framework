@@ -1,0 +1,148 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Condition A - Control",
+      "value": 75.7
+    },
+    {
+      "category": "Condition A - Treatment 1",
+      "value": 71.9
+    },
+    {
+      "category": "Condition A - Treatment 2",
+      "value": 91.7
+    },
+    {
+      "category": "Condition B - Control",
+      "value": 74.0
+    },
+    {
+      "category": "Condition B - Treatment 1",
+      "value": 73.8
+    },
+    {
+      "category": "Condition B - Treatment 2",
+      "value": 102.8
+    },
+    {
+      "category": "Condition C - Control",
+      "value": 85.8
+    },
+    {
+      "category": "Condition C - Treatment 1",
+      "value": 84.0
+    },
+    {
+      "category": "Condition C - Treatment 2",
+      "value": 87.3
+    },
+    {
+      "category": "Condition D - Control",
+      "value": 68.0
+    },
+    {
+      "category": "Condition D - Treatment 1",
+      "value": 66.1
+    },
+    {
+      "category": "Condition D - Treatment 2",
+      "value": 104.8
+    },
+    {
+      "category": "Condition E - Control",
+      "value": 68.6
+    },
+    {
+      "category": "Condition E - Treatment 1",
+      "value": 68.6
+    },
+    {
+      "category": "Condition E - Treatment 2",
+      "value": 82.9
+    },
+    {
+      "category": "Condition F - Control",
+      "value": 83.1
+    },
+    {
+      "category": "Condition F - Treatment 1",
+      "value": 78.7
+    },
+    {
+      "category": "Condition F - Treatment 2",
+      "value": 80.1
+    },
+    {
+      "category": "Condition G - Control",
+      "value": 74.6
+    },
+    {
+      "category": "Condition G - Treatment 1",
+      "value": 76.1
+    },
+    {
+      "category": "Condition G - Treatment 2",
+      "value": 92.1
+    },
+    {
+      "category": "Condition H - Control",
+      "value": 73.6
+    },
+    {
+      "category": "Condition H - Treatment 1",
+      "value": 86.0
+    },
+    {
+      "category": "Condition H - Treatment 2",
+      "value": 88.1
+    },
+    {
+      "category": "Condition I - Control",
+      "value": 69.6
+    },
+    {
+      "category": "Condition I - Treatment 1",
+      "value": 86.4
+    },
+    {
+      "category": "Condition I - Treatment 2",
+      "value": 95.5
+    },
+    {
+      "category": "Condition J - Control",
+      "value": 74.6
+    },
+    {
+      "category": "Condition J - Treatment 1",
+      "value": 81.4
+    },
+    {
+      "category": "Condition J - Treatment 2",
+      "value": 89.3
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points were clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753828914_3804",
+    "image_path": "data\\perturbations\\chart_100_complex_bar_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-29T23:42:11.443523",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 16.60909605026245,
+    "chart_metadata": {
+      "original_chart_id": "chart_100_complex_bar_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

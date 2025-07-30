@@ -1,10 +1,10 @@
 {
   "notebook": "03_Perturbation_Framework",
-  "execution_timestamp": "2025-06-21T14:41:30.064062",
+  "execution_timestamp": "2025-07-29T18:46:06.811941",
   "status": "SUCCESS",
-  "charts_processed": 150,
-  "perturbations_generated": 285,
-  "perturbation_types_applied": 3,
+  "charts_processed": 200,
+  "perturbations_generated": 1200,
+  "perturbation_types_applied": 6,
   "failure_rate": 0.0,
   "ready_for_extraction": true,
   "next_phase_cost_estimate": 30.0

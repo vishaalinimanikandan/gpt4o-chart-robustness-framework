@@ -1,0 +1,63 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Q1'22 Revenue ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q1'22 Profit ($M)",
+      "value": 0.15
+    },
+    {
+      "category": "Q1'22 Revenue ($M)",
+      "value": 1.2
+    },
+    {
+      "category": "Q1'22 Profit ($M)",
+      "value": 0.18
+    },
+    {
+      "category": "Q1'22 Revenue ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q1'22 Profit ($M)",
+      "value": 0.16
+    },
+    {
+      "category": "Q2'22 Revenue ($M)",
+      "value": 0.8
+    },
+    {
+      "category": "Q2'22 Profit ($M)",
+      "value": 0.14
+    },
+    {
+      "category": "Q2'22 Revenue ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q2'22 Profit ($M)",
+      "value": 0.16
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clear and legible. The chart is a line chart with two data series.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753813647_5374",
+    "image_path": "data\\raw_charts\\chart_045_medium_area.png",
+    "extraction_timestamp": "2025-07-29T19:27:40.385564",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.575223922729492,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

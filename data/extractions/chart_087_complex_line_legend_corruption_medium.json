@@ -1,0 +1,29 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "line",
+  "data": [],
+  "extraction_confidence": "low",
+  "extraction_notes": "The image contains overlapping lines and shaded areas, making it difficult to extract precise numerical values for each category. The exact values are not clearly visible.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753824647_3655",
+    "image_path": "data\\perturbations\\chart_087_complex_line_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T22:30:54.622023",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.251023769378662,
+    "chart_metadata": {
+      "original_chart_id": "chart_087_complex_line_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [
+      "Only 0 data points extracted"
+    ],
+    "errors": []
+  }
+}

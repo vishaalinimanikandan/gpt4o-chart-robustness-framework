@@ -1,0 +1,60 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "North America",
+      "value": 100
+    },
+    {
+      "category": "Europe",
+      "value": 250
+    },
+    {
+      "category": "Asia Pacific",
+      "value": 150
+    },
+    {
+      "category": "Latin America",
+      "value": 50
+    },
+    {
+      "category": "Middle East",
+      "value": 75
+    },
+    {
+      "category": "Africa",
+      "value": 25
+    },
+    {
+      "category": "Oceania",
+      "value": 10
+    },
+    {
+      "category": "Nordic Countries",
+      "value": 50
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the visual representation. Exact values are not labeled.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753828657_5982",
+    "image_path": "data\\perturbations\\chart_032_complex_area_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-29T23:37:44.485893",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.291129112243652,
+    "chart_metadata": {
+      "original_chart_id": "chart_032_complex_area_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Condition A - Control",
+      "value": 66.4
+    },
+    {
+      "category": "Condition A - Treatment 1",
+      "value": 84.9
+    },
+    {
+      "category": "Condition A - Treatment 2",
+      "value": 76.0
+    },
+    {
+      "category": "Condition A - Treatment 3",
+      "value": 90.1
+    },
+    {
+      "category": "Condition B - Control",
+      "value": 68.4
+    },
+    {
+      "category": "Condition B - Treatment 1",
+      "value": 86.9
+    },
+    {
+      "category": "Condition B - Treatment 2",
+      "value": 75.6
+    },
+    {
+      "category": "Condition B - Treatment 3",
+      "value": 87.8
+    },
+    {
+      "category": "Condition C - Control",
+      "value": 69.0
+    },
+    {
+      "category": "Condition C - Treatment 1",
+      "value": 87.5
+    },
+    {
+      "category": "Condition C - Treatment 2",
+      "value": 75.2
+    },
+    {
+      "category": "Condition C - Treatment 3",
+      "value": 95.3
+    },
+    {
+      "category": "Condition D - Control",
+      "value": 69.2
+    },
+    {
+      "category": "Condition D - Treatment 1",
+      "value": 89.2
+    },
+    {
+      "category": "Condition D - Treatment 2",
+      "value": 68.2
+    },
+    {
+      "category": "Condition D - Treatment 3",
+      "value": 91.3
+    },
+    {
+      "category": "Condition E - Control",
+      "value": 63.8
+    },
+    {
+      "category": "Condition E - Treatment 1",
+      "value": 89.0
+    },
+    {
+      "category": "Condition E - Treatment 2",
+      "value": 77.9
+    },
+    {
+      "category": "Condition E - Treatment 3",
+      "value": 74.3
+    },
+    {
+      "category": "Condition F - Control",
+      "value": 67.7
+    },
+    {
+      "category": "Condition F - Treatment 1",
+      "value": 89.3
+    },
+    {
+      "category": "Condition F - Treatment 2",
+      "value": 74.7
+    },
+    {
+      "category": "Condition F - Treatment 3",
+      "value": 73.9
+    },
+    {
+      "category": "Condition G - Control",
+      "value": 69.1
+    },
+    {
+      "category": "Condition G - Treatment 1",
+      "value": 84.8
+    },
+    {
+      "category": "Condition G - Treatment 2",
+      "value": 75.8
+    },
+    {
+      "category": "Condition G - Treatment 3",
+      "value": 79.2
+    },
+    {
+      "category": "Condition H - Control",
+      "value": 79.2
+    },
+    {
+      "category": "Condition H - Treatment 1",
+      "value": 89.3
+    },
+    {
+      "category": "Condition H - Treatment 2",
+      "value": 71.2
+    },
+    {
+      "category": "Condition H - Treatment 3",
+      "value": 69.9
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some text is partially obscured by black squares, which may affect accuracy.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753821212_5458",
+    "image_path": "data\\perturbations\\chart_093_complex_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T21:34:00.223018",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 27.756391048431396,
+    "chart_metadata": {
+      "original_chart_id": "chart_093_complex_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

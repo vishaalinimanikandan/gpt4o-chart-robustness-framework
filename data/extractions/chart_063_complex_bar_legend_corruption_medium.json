@@ -1,0 +1,156 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 90.7
+    },
+    {
+      "category": "Condition A",
+      "value": 82.5
+    },
+    {
+      "category": "Condition A",
+      "value": 73.9
+    },
+    {
+      "category": "Condition A",
+      "value": 58.6
+    },
+    {
+      "category": "Condition B",
+      "value": 89.6
+    },
+    {
+      "category": "Condition B",
+      "value": 74.8
+    },
+    {
+      "category": "Condition B",
+      "value": 67.8
+    },
+    {
+      "category": "Condition B",
+      "value": 75.4
+    },
+    {
+      "category": "Condition C",
+      "value": 89.7
+    },
+    {
+      "category": "Condition C",
+      "value": 79.0
+    },
+    {
+      "category": "Condition C",
+      "value": 70.9
+    },
+    {
+      "category": "Condition C",
+      "value": 75.1
+    },
+    {
+      "category": "Condition D",
+      "value": 83.1
+    },
+    {
+      "category": "Condition D",
+      "value": 73.5
+    },
+    {
+      "category": "Condition D",
+      "value": 65.8
+    },
+    {
+      "category": "Condition D",
+      "value": 63.0
+    },
+    {
+      "category": "Condition E",
+      "value": 95.8
+    },
+    {
+      "category": "Condition E",
+      "value": 80.8
+    },
+    {
+      "category": "Condition E",
+      "value": 72.5
+    },
+    {
+      "category": "Condition E",
+      "value": 69.0
+    },
+    {
+      "category": "Condition F",
+      "value": 84.0
+    },
+    {
+      "category": "Condition F",
+      "value": 76.3
+    },
+    {
+      "category": "Condition F",
+      "value": 74.4
+    },
+    {
+      "category": "Condition F",
+      "value": 77.0
+    },
+    {
+      "category": "Condition G",
+      "value": 85.1
+    },
+    {
+      "category": "Condition G",
+      "value": 81.1
+    },
+    {
+      "category": "Condition G",
+      "value": 75.4
+    },
+    {
+      "category": "Condition G",
+      "value": 75.4
+    },
+    {
+      "category": "Condition H",
+      "value": 69.5
+    },
+    {
+      "category": "Condition H",
+      "value": 77.0
+    },
+    {
+      "category": "Condition H",
+      "value": 74.4
+    },
+    {
+      "category": "Condition H",
+      "value": 75.4
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values are clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753831339_9734",
+    "image_path": "data\\perturbations\\chart_063_complex_bar_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-30T00:22:43.862556",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 23.980740785598755,
+    "chart_metadata": {
+      "original_chart_id": "chart_063_complex_bar_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

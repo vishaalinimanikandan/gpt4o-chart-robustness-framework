@@ -1,0 +1,68 @@
+{
+  "chart_title": "Correlation Analysis - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 40
+    },
+    {
+      "category": "Category 2",
+      "value": 70
+    },
+    {
+      "category": "Category 3",
+      "value": 75
+    },
+    {
+      "category": "Category 4",
+      "value": 80
+    },
+    {
+      "category": "Category 5",
+      "value": 60
+    },
+    {
+      "category": "Category 6",
+      "value": 50
+    },
+    {
+      "category": "Category 7",
+      "value": 45
+    },
+    {
+      "category": "Category 8",
+      "value": 80
+    },
+    {
+      "category": "Category 9",
+      "value": 65
+    },
+    {
+      "category": "Category 10",
+      "value": 70
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The values are estimated based on the bar heights as there are no exact numerical labels on the bars.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753832308_7846",
+    "image_path": "data\\perturbations\\chart_091_medium_bar_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-30T00:38:38.437241",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.545401811599731,
+    "chart_metadata": {
+      "original_chart_id": "chart_091_medium_bar_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

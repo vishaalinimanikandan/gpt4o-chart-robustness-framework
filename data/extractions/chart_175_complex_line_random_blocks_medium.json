@@ -1,0 +1,29 @@
+{
+  "chart_title": "Service Level Agreement - Operational Metrics",
+  "chart_type": "line",
+  "data": [],
+  "extraction_confidence": "low",
+  "extraction_notes": "The chart is heavily obscured by black squares, making it impossible to accurately extract numerical values and labels.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753832582_2845",
+    "image_path": "data\\perturbations\\chart_175_complex_line_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-30T00:43:07.648627",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 5.189699411392212,
+    "chart_metadata": {
+      "original_chart_id": "chart_175_complex_line_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [
+      "Only 0 data points extracted"
+    ],
+    "errors": []
+  }
+}

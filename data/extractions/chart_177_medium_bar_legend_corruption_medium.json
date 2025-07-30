@@ -1,0 +1,68 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 85
+    },
+    {
+      "category": "Category 2",
+      "value": 70
+    },
+    {
+      "category": "Category 3",
+      "value": 60
+    },
+    {
+      "category": "Category 4",
+      "value": 75
+    },
+    {
+      "category": "Category 5",
+      "value": 50
+    },
+    {
+      "category": "Category 6",
+      "value": 90
+    },
+    {
+      "category": "Category 7",
+      "value": 65
+    },
+    {
+      "category": "Category 8",
+      "value": 80
+    },
+    {
+      "category": "Category 9",
+      "value": 70
+    },
+    {
+      "category": "Category 10",
+      "value": 55
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on bar heights; exact values may vary slightly.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753834147_9866",
+    "image_path": "data\\perturbations\\chart_177_medium_bar_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-30T01:09:14.274414",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.88862156867981,
+    "chart_metadata": {
+      "original_chart_id": "chart_177_medium_bar_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

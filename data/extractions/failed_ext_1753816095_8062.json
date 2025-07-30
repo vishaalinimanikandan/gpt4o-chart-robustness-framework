@@ -1,0 +1,8 @@
+{
+  "extraction_id": "ext_1753816095_8062",
+  "image_path": "data\\raw_charts\\chart_161_complex_bar.png",
+  "error_timestamp": "2025-07-29T20:12:56.620726",
+  "error_type": "APITimeoutError",
+  "error_message": "Request timed out.",
+  "response_time": 280.89874386787415
+}

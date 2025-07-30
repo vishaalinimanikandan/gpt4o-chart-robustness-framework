@@ -1,0 +1,60 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 23.9
+    },
+    {
+      "category": "Category 2",
+      "value": 15.0
+    },
+    {
+      "category": "Category 3",
+      "value": 5.0
+    },
+    {
+      "category": "Category 4",
+      "value": 11.8
+    },
+    {
+      "category": "Category 5",
+      "value": 4.6
+    },
+    {
+      "category": "Category 8",
+      "value": 12.5
+    },
+    {
+      "category": "Category 6",
+      "value": 16.7
+    },
+    {
+      "category": "Category 7",
+      "value": 10.6
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All percentages are clearly visible and sum to approximately 100%.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753826826_8204",
+    "image_path": "data\\perturbations\\chart_194_medium_pie_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T23:07:15.214788",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.20503282546997,
+    "chart_metadata": {
+      "original_chart_id": "chart_194_medium_pie_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

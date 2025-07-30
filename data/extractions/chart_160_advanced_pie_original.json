@@ -1,0 +1,79 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 9.8
+    },
+    {
+      "category": "Category 2",
+      "value": 6.8
+    },
+    {
+      "category": "Category 3",
+      "value": 7.4
+    },
+    {
+      "category": "Category 4",
+      "value": 8.4
+    },
+    {
+      "category": "Category 5",
+      "value": 9.8
+    },
+    {
+      "category": "Category 6",
+      "value": 3.3
+    },
+    {
+      "category": "Category 7",
+      "value": 8.6
+    },
+    {
+      "category": "Category 8",
+      "value": 5.5
+    },
+    {
+      "category": "Category 9",
+      "value": 5.2
+    },
+    {
+      "category": "Category 10",
+      "value": 4.7
+    },
+    {
+      "category": "Category 11",
+      "value": 6.1
+    },
+    {
+      "category": "Category 12",
+      "value": 9.4
+    },
+    {
+      "category": "Category 13",
+      "value": 5.4
+    },
+    {
+      "category": "Category 14",
+      "value": 9.7
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All percentages are clear and sum to approximately 100%.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753816073_2588",
+    "image_path": "data\\raw_charts\\chart_160_advanced_pie.png",
+    "extraction_timestamp": "2025-07-29T20:08:14.707128",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 21.480062007904053,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

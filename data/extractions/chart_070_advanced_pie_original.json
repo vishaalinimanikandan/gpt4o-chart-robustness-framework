@@ -1,0 +1,67 @@
+{
+  "chart_title": "Treatment Efficacy Analysis - (Scientific Research)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 11.7
+    },
+    {
+      "category": "Category 2",
+      "value": 13.0
+    },
+    {
+      "category": "Category 3",
+      "value": 5.5
+    },
+    {
+      "category": "Category 4",
+      "value": 6.5
+    },
+    {
+      "category": "Category 5",
+      "value": 6.7
+    },
+    {
+      "category": "Category 6",
+      "value": 11.4
+    },
+    {
+      "category": "Category 7",
+      "value": 7.1
+    },
+    {
+      "category": "Category 8",
+      "value": 8.5
+    },
+    {
+      "category": "Category 9",
+      "value": 15.2
+    },
+    {
+      "category": "Category 10",
+      "value": 9.4
+    },
+    {
+      "category": "Category 11",
+      "value": 5.0
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data extracted from pie chart with percentages summing to approximately 100%.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753814226_7543",
+    "image_path": "data\\raw_charts\\chart_070_advanced_pie.png",
+    "extraction_timestamp": "2025-07-29T19:37:15.690258",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.46473741531372,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

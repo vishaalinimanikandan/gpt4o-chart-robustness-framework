@@ -1,0 +1,112 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Dec 2024 - Stocks",
+      "value": 110
+    },
+    {
+      "category": "Dec 2024 - Bonds",
+      "value": 100
+    },
+    {
+      "category": "Dec 2024 - Real Estate",
+      "value": 100
+    },
+    {
+      "category": "Jan 2025 - Stocks",
+      "value": 115
+    },
+    {
+      "category": "Jan 2025 - Bonds",
+      "value": 102
+    },
+    {
+      "category": "Jan 2025 - Real Estate",
+      "value": 105
+    },
+    {
+      "category": "Mar 2025 - Stocks",
+      "value": 112
+    },
+    {
+      "category": "Mar 2025 - Bonds",
+      "value": 98
+    },
+    {
+      "category": "Mar 2025 - Real Estate",
+      "value": 108
+    },
+    {
+      "category": "Apr 2025 - Stocks",
+      "value": 120
+    },
+    {
+      "category": "Apr 2025 - Bonds",
+      "value": 95
+    },
+    {
+      "category": "Apr 2025 - Real Estate",
+      "value": 112
+    },
+    {
+      "category": "May 2025 - Stocks",
+      "value": 125
+    },
+    {
+      "category": "May 2025 - Bonds",
+      "value": 92
+    },
+    {
+      "category": "May 2025 - Real Estate",
+      "value": 115
+    },
+    {
+      "category": "Jun 2025 - Stocks",
+      "value": 130
+    },
+    {
+      "category": "Jun 2025 - Bonds",
+      "value": 90
+    },
+    {
+      "category": "Jun 2025 - Real Estate",
+      "value": 118
+    },
+    {
+      "category": "Jul 2025 - Stocks",
+      "value": 135
+    },
+    {
+      "category": "Jul 2025 - Bonds",
+      "value": 88
+    },
+    {
+      "category": "Jul 2025 - Real Estate",
+      "value": 120
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some data points may be slightly obscured by noise, affecting precision.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753828932_6531",
+    "image_path": "data\\perturbations\\chart_107_medium_line_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T23:42:26.906049",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 14.457499742507935,
+    "chart_metadata": {
+      "original_chart_id": "chart_107_medium_line_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

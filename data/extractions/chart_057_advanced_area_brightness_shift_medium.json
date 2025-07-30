@@ -1,0 +1,84 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 92.3
+    },
+    {
+      "category": "Condition B",
+      "value": 70.3
+    },
+    {
+      "category": "Condition C",
+      "value": 62.6
+    },
+    {
+      "category": "Condition D",
+      "value": 72.7
+    },
+    {
+      "category": "Condition E",
+      "value": 82.7
+    },
+    {
+      "category": "Condition F",
+      "value": 60.0
+    },
+    {
+      "category": "Condition G",
+      "value": 69.8
+    },
+    {
+      "category": "Condition H",
+      "value": 83.3
+    },
+    {
+      "category": "Condition I",
+      "value": 77.1
+    },
+    {
+      "category": "Condition J",
+      "value": 82.1
+    },
+    {
+      "category": "Condition K",
+      "value": 80.6
+    },
+    {
+      "category": "Condition L",
+      "value": 66.7
+    },
+    {
+      "category": "Condition M",
+      "value": 72.2
+    },
+    {
+      "category": "Condition N",
+      "value": 56.0
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points were clearly labeled and extracted with high confidence. Overlapping lines and shaded areas were distinguished accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753818706_5520",
+    "image_path": "data\\perturbations\\chart_057_advanced_area_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-29T20:52:00.071669",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 13.50361967086792,
+    "chart_metadata": {
+      "original_chart_id": "chart_057_advanced_area_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

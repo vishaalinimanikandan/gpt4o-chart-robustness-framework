@@ -1,0 +1,76 @@
+{
+  "chart_title": "Service Level Agreement - (Operational Metrics)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 10.2
+    },
+    {
+      "category": "Category 2",
+      "value": 7.1
+    },
+    {
+      "category": "Category 3",
+      "value": 5.1
+    },
+    {
+      "category": "Category 4",
+      "value": 5.3
+    },
+    {
+      "category": "Category 5",
+      "value": 6.8
+    },
+    {
+      "category": "Category 6",
+      "value": 11.7
+    },
+    {
+      "category": "Category 7",
+      "value": 9.9
+    },
+    {
+      "category": "Category 8",
+      "value": 11.2
+    },
+    {
+      "category": "Category 9",
+      "value": 6.4
+    },
+    {
+      "category": "Category 10",
+      "value": 8.4
+    },
+    {
+      "category": "Category 11",
+      "value": 5.8
+    },
+    {
+      "category": "Category 12",
+      "value": 12.1
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data extracted from pie chart with clear labels and values.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753832361_5742",
+    "image_path": "data\\perturbations\\chart_158_advanced_pie_rotation_medium.png",
+    "extraction_timestamp": "2025-07-30T00:39:34.041546",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.818774938583374,
+    "chart_metadata": {
+      "original_chart_id": "chart_158_advanced_pie",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

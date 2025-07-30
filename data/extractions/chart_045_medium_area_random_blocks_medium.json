@@ -1,0 +1,60 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Q1 '22",
+      "value": 1.0
+    },
+    {
+      "category": "Q2 '22",
+      "value": 1.2
+    },
+    {
+      "category": "Q1 '22",
+      "value": 0.8
+    },
+    {
+      "category": "Q2 '22",
+      "value": 1.0
+    },
+    {
+      "category": "Q1 '22",
+      "value": 0.2
+    },
+    {
+      "category": "Q2 '22",
+      "value": 0.3
+    },
+    {
+      "category": "Q1 '22",
+      "value": 0.2
+    },
+    {
+      "category": "Q2 '22",
+      "value": 0.2
+    }
+  ],
+  "extraction_confidence": "low",
+  "extraction_notes": "The chart is heavily obscured by black squares, making it difficult to extract precise data points. The labels and values are partially visible but not entirely clear.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753827496_7272",
+    "image_path": "data\\perturbations\\chart_045_medium_area_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T23:18:27.129262",
+    "model": "gpt-4o",
+    "attempt_number": 2,
+    "response_time": 11.027672529220581,
+    "chart_metadata": {
+      "original_chart_id": "chart_045_medium_area_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

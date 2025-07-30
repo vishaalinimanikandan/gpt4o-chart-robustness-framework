@@ -1,0 +1,128 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": {
+        "Control": 70,
+        "Treatment 1": 80,
+        "Treatment 2": 90
+      }
+    },
+    {
+      "category": "Condition B",
+      "value": {
+        "Control": 80,
+        "Treatment 1": 90,
+        "Treatment 2": 110
+      }
+    },
+    {
+      "category": "Condition C",
+      "value": {
+        "Control": 75,
+        "Treatment 1": 85,
+        "Treatment 2": 95
+      }
+    },
+    {
+      "category": "Condition D",
+      "value": {
+        "Control": 85,
+        "Treatment 1": 75,
+        "Treatment 2": 85
+      }
+    },
+    {
+      "category": "Condition E",
+      "value": {
+        "Control": 80,
+        "Treatment 1": 80,
+        "Treatment 2": 100
+      }
+    },
+    {
+      "category": "Condition F",
+      "value": {
+        "Control": 90,
+        "Treatment 1": 85,
+        "Treatment 2": 105
+      }
+    },
+    {
+      "category": "Condition G",
+      "value": {
+        "Control": 85,
+        "Treatment 1": 90,
+        "Treatment 2": 95
+      }
+    },
+    {
+      "category": "Condition H",
+      "value": {
+        "Control": 80,
+        "Treatment 1": 85,
+        "Treatment 2": 90
+      }
+    },
+    {
+      "category": "Condition I",
+      "value": {
+        "Control": 75,
+        "Treatment 1": 80,
+        "Treatment 2": 85
+      }
+    },
+    {
+      "category": "Condition J",
+      "value": {
+        "Control": 70,
+        "Treatment 1": 75,
+        "Treatment 2": 80
+      }
+    },
+    {
+      "category": "Condition K",
+      "value": {
+        "Control": 65,
+        "Treatment 1": 70,
+        "Treatment 2": 75
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on visual inspection of the chart. Overlapping lines and shaded areas may cause slight inaccuracies.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753831378_9950",
+    "image_path": "data\\perturbations\\chart_095_complex_area_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-30T00:23:17.551653",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 18.862491846084595,
+    "chart_metadata": {
+      "original_chart_id": "chart_095_complex_area_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'Control': 70, 'Treatment 1': 80, 'Treatment 2': 90}",
+      "Data point 1 has invalid value: {'Control': 80, 'Treatment 1': 90, 'Treatment 2': 110}",
+      "Data point 2 has invalid value: {'Control': 75, 'Treatment 1': 85, 'Treatment 2': 95}",
+      "Data point 3 has invalid value: {'Control': 85, 'Treatment 1': 75, 'Treatment 2': 85}",
+      "Data point 4 has invalid value: {'Control': 80, 'Treatment 1': 80, 'Treatment 2': 100}",
+      "Data point 5 has invalid value: {'Control': 90, 'Treatment 1': 85, 'Treatment 2': 105}",
+      "Data point 6 has invalid value: {'Control': 85, 'Treatment 1': 90, 'Treatment 2': 95}",
+      "Data point 7 has invalid value: {'Control': 80, 'Treatment 1': 85, 'Treatment 2': 90}",
+      "Data point 8 has invalid value: {'Control': 75, 'Treatment 1': 80, 'Treatment 2': 85}",
+      "Data point 9 has invalid value: {'Control': 70, 'Treatment 1': 75, 'Treatment 2': 80}",
+      "Data point 10 has invalid value: {'Control': 65, 'Treatment 1': 70, 'Treatment 2': 75}"
+    ]
+  }
+}

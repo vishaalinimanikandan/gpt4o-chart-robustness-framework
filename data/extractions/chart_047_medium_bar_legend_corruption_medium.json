@@ -1,0 +1,92 @@
+{
+  "chart_title": "Market Share Analysis - (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Blue",
+      "value": 40
+    },
+    {
+      "category": "Category 1 - Orange",
+      "value": 100
+    },
+    {
+      "category": "Category 2 - Blue",
+      "value": 90
+    },
+    {
+      "category": "Category 2 - Orange",
+      "value": 30
+    },
+    {
+      "category": "Category 3 - Blue",
+      "value": 85
+    },
+    {
+      "category": "Category 3 - Orange",
+      "value": 40
+    },
+    {
+      "category": "Category 4 - Blue",
+      "value": 90
+    },
+    {
+      "category": "Category 4 - Orange",
+      "value": 20
+    },
+    {
+      "category": "Category 5 - Blue",
+      "value": 70
+    },
+    {
+      "category": "Category 5 - Orange",
+      "value": 60
+    },
+    {
+      "category": "Category 6 - Blue",
+      "value": 95
+    },
+    {
+      "category": "Category 6 - Orange",
+      "value": 10
+    },
+    {
+      "category": "Category 7 - Blue",
+      "value": 80
+    },
+    {
+      "category": "Category 7 - Orange",
+      "value": 50
+    },
+    {
+      "category": "Category 8 - Blue",
+      "value": 85
+    },
+    {
+      "category": "Category 8 - Orange",
+      "value": 40
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points were clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753825798_1269",
+    "image_path": "data\\perturbations\\chart_047_medium_bar_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T22:50:07.399058",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.770213603973389,
+    "chart_metadata": {
+      "original_chart_id": "chart_047_medium_bar_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

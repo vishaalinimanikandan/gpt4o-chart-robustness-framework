@@ -1,0 +1,68 @@
+{
+  "chart_title": "Resource Utilization (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 94.6
+    },
+    {
+      "category": "Category 2",
+      "value": 86.0
+    },
+    {
+      "category": "Category 3",
+      "value": 74.3
+    },
+    {
+      "category": "Category 4",
+      "value": 58.5
+    },
+    {
+      "category": "Category 5",
+      "value": 26.2
+    },
+    {
+      "category": "Category 6",
+      "value": 62.7
+    },
+    {
+      "category": "Category 7",
+      "value": 52.6
+    },
+    {
+      "category": "Category 8",
+      "value": 36.8
+    },
+    {
+      "category": "Category 9",
+      "value": 34.1
+    },
+    {
+      "category": "Category 10",
+      "value": 43.8
+    }
+  ],
+  "extraction_confidence": "low",
+  "extraction_notes": "The chart is heavily obscured by black boxes, making it difficult to extract all data points accurately. Some values and labels are partially or fully covered.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753829036_7825",
+    "image_path": "data\\perturbations\\chart_172_advanced_area_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T23:44:07.055555",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.566758394241333,
+    "chart_metadata": {
+      "original_chart_id": "chart_172_advanced_area_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

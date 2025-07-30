@@ -1,0 +1,61 @@
+{
+  "chart_title": "Correlation Analysis - (Scientific Research)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point 1",
+      "value": {
+        "Series A": 40,
+        "Series B": 40
+      }
+    },
+    {
+      "category": "Point 2",
+      "value": {
+        "Series A": 60,
+        "Series B": 80
+      }
+    },
+    {
+      "category": "Point 3",
+      "value": {
+        "Series A": 70,
+        "Series B": 70
+      }
+    },
+    {
+      "category": "Point 4",
+      "value": {
+        "Series A": 90,
+        "Series B": 30
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some data points are partially obscured by a gray box, making precise extraction challenging.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753831826_9824",
+    "image_path": "data\\perturbations\\chart_073_medium_scatter_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-30T00:30:34.186334",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.700309753417969,
+    "chart_metadata": {
+      "original_chart_id": "chart_073_medium_scatter_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'Series A': 40, 'Series B': 40}",
+      "Data point 1 has invalid value: {'Series A': 60, 'Series B': 80}",
+      "Data point 2 has invalid value: {'Series A': 70, 'Series B': 70}",
+      "Data point 3 has invalid value: {'Series A': 90, 'Series B': 30}"
+    ]
+  }
+}

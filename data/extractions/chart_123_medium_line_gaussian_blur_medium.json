@@ -1,0 +1,52 @@
+{
+  "chart_title": "Economic Indicators - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 30
+    },
+    {
+      "category": "Category 2",
+      "value": 60
+    },
+    {
+      "category": "Category 3",
+      "value": 80
+    },
+    {
+      "category": "Category 4",
+      "value": 50
+    },
+    {
+      "category": "Category 5",
+      "value": 100
+    },
+    {
+      "category": "Category 6",
+      "value": 90
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The values are estimated based on the position on the y-axis. Series A, B, and C are present but only Series A values are extracted.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753821923_8147",
+    "image_path": "data\\perturbations\\chart_123_medium_line_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-29T21:45:33.101298",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.93156385421753,
+    "chart_metadata": {
+      "original_chart_id": "chart_123_medium_line_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

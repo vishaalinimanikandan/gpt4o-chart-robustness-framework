@@ -1,0 +1,29 @@
+{
+  "chart_title": "Economic Indicators (Financial Analysis)",
+  "chart_type": "line",
+  "data": [],
+  "extraction_confidence": "low",
+  "extraction_notes": "The chart is heavily obscured, making it impossible to extract specific data points or labels.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753817775_7086",
+    "image_path": "data\\perturbations\\chart_123_medium_line_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T20:36:24.288298",
+    "model": "gpt-4o",
+    "attempt_number": 2,
+    "response_time": 8.917514324188232,
+    "chart_metadata": {
+      "original_chart_id": "chart_123_medium_line_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [
+      "Only 0 data points extracted"
+    ],
+    "errors": []
+  }
+}

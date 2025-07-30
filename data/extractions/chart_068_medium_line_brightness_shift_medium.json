@@ -1,0 +1,92 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Condition A - Control",
+      "value": 75
+    },
+    {
+      "category": "Condition B - Control",
+      "value": 76
+    },
+    {
+      "category": "Condition C - Control",
+      "value": 74
+    },
+    {
+      "category": "Condition D - Control",
+      "value": 70
+    },
+    {
+      "category": "Condition E - Control",
+      "value": 68
+    },
+    {
+      "category": "Condition F - Control",
+      "value": 72
+    },
+    {
+      "category": "Condition G - Control",
+      "value": 78
+    },
+    {
+      "category": "Condition H - Control",
+      "value": 65
+    },
+    {
+      "category": "Condition A - Treatment 1",
+      "value": 75
+    },
+    {
+      "category": "Condition B - Treatment 1",
+      "value": 90
+    },
+    {
+      "category": "Condition C - Treatment 1",
+      "value": 75
+    },
+    {
+      "category": "Condition D - Treatment 1",
+      "value": 80
+    },
+    {
+      "category": "Condition E - Treatment 1",
+      "value": 85
+    },
+    {
+      "category": "Condition F - Treatment 1",
+      "value": 75
+    },
+    {
+      "category": "Condition G - Treatment 1",
+      "value": 70
+    },
+    {
+      "category": "Condition H - Treatment 1",
+      "value": 85
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the chart's grid lines. Some points are close to each other, making precise extraction challenging.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753827842_9047",
+    "image_path": "data\\perturbations\\chart_068_medium_line_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-29T23:24:14.885286",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.26577377319336,
+    "chart_metadata": {
+      "original_chart_id": "chart_068_medium_line_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

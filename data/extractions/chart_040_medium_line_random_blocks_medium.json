@@ -1,0 +1,74 @@
+{
+  "chart_title": "Market Share Analysis - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": null
+    },
+    {
+      "category": "Category 2",
+      "value": null
+    },
+    {
+      "category": "Category 3",
+      "value": null
+    },
+    {
+      "category": "Category 4",
+      "value": null
+    },
+    {
+      "category": "Category 5",
+      "value": null
+    },
+    {
+      "category": "Category 6",
+      "value": null
+    },
+    {
+      "category": "Category 7",
+      "value": null
+    },
+    {
+      "category": "Category 8",
+      "value": null
+    },
+    {
+      "category": "Category 9",
+      "value": null
+    }
+  ],
+  "extraction_confidence": "low",
+  "extraction_notes": "The chart is heavily obscured by black boxes, making it impossible to extract precise numerical values.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753820547_9313",
+    "image_path": "data\\perturbations\\chart_040_medium_line_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T21:22:33.970378",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.661387205123901,
+    "chart_metadata": {
+      "original_chart_id": "chart_040_medium_line_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: None",
+      "Data point 1 has invalid value: None",
+      "Data point 2 has invalid value: None",
+      "Data point 3 has invalid value: None",
+      "Data point 4 has invalid value: None",
+      "Data point 5 has invalid value: None",
+      "Data point 6 has invalid value: None",
+      "Data point 7 has invalid value: None",
+      "Data point 8 has invalid value: None"
+    ]
+  }
+}

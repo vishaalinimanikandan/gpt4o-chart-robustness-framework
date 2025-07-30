@@ -1,0 +1,100 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Nov 2024 - Stocks",
+      "value": 110
+    },
+    {
+      "category": "Dec 2024 - Stocks",
+      "value": 110
+    },
+    {
+      "category": "Jan 2025 - Stocks",
+      "value": 115
+    },
+    {
+      "category": "Feb 2025 - Stocks",
+      "value": 120
+    },
+    {
+      "category": "Mar 2025 - Stocks",
+      "value": 125
+    },
+    {
+      "category": "Apr 2025 - Stocks",
+      "value": 120
+    },
+    {
+      "category": "May 2025 - Stocks",
+      "value": 115
+    },
+    {
+      "category": "Jun 2025 - Stocks",
+      "value": 110
+    },
+    {
+      "category": "Jul 2025 - Stocks",
+      "value": 105
+    },
+    {
+      "category": "Nov 2024 - Bonds",
+      "value": 100
+    },
+    {
+      "category": "Dec 2024 - Bonds",
+      "value": 98
+    },
+    {
+      "category": "Jan 2025 - Bonds",
+      "value": 99
+    },
+    {
+      "category": "Feb 2025 - Bonds",
+      "value": 100
+    },
+    {
+      "category": "Mar 2025 - Bonds",
+      "value": 101
+    },
+    {
+      "category": "Apr 2025 - Bonds",
+      "value": 102
+    },
+    {
+      "category": "May 2025 - Bonds",
+      "value": 103
+    },
+    {
+      "category": "Jun 2025 - Bonds",
+      "value": 102
+    },
+    {
+      "category": "Jul 2025 - Bonds",
+      "value": 104
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clear and well-defined. No ambiguities observed.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753819198_6869",
+    "image_path": "data\\perturbations\\chart_116_medium_line_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-29T21:00:13.320582",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 15.19204592704773,
+    "chart_metadata": {
+      "original_chart_id": "chart_116_medium_line_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

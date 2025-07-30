@@ -1,0 +1,60 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 80
+    },
+    {
+      "category": "Category 2",
+      "value": 50
+    },
+    {
+      "category": "Category 3",
+      "value": 70
+    },
+    {
+      "category": "Category 4",
+      "value": 60
+    },
+    {
+      "category": "Category 5",
+      "value": 40
+    },
+    {
+      "category": "Category 6",
+      "value": 50
+    },
+    {
+      "category": "Category 7",
+      "value": 70
+    },
+    {
+      "category": "Category 8",
+      "value": 80
+    }
+  ],
+  "extraction_confidence": "low",
+  "extraction_notes": "The chart is heavily obscured by black squares, making it difficult to extract precise values and labels. The data points are estimated based on visible portions.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753823582_3112",
+    "image_path": "data\\perturbations\\chart_199_medium_line_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T22:13:10.410047",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.466391563415527,
+    "chart_metadata": {
+      "original_chart_id": "chart_199_medium_line_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

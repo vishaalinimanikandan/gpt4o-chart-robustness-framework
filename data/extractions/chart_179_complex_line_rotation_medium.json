@@ -1,0 +1,68 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 40
+    },
+    {
+      "category": "Category 2",
+      "value": 80
+    },
+    {
+      "category": "Category 3",
+      "value": 30
+    },
+    {
+      "category": "Category 4",
+      "value": 60
+    },
+    {
+      "category": "Category 5",
+      "value": 20
+    },
+    {
+      "category": "Category 6",
+      "value": 70
+    },
+    {
+      "category": "Category 7",
+      "value": 50
+    },
+    {
+      "category": "Category 8",
+      "value": 90
+    },
+    {
+      "category": "Category 9",
+      "value": 40
+    },
+    {
+      "category": "Category 10",
+      "value": 30
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the visual representation of the line chart. Exact values may vary slightly.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753828947_1674",
+    "image_path": "data\\perturbations\\chart_179_complex_line_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T23:42:38.579444",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.668464422225952,
+    "chart_metadata": {
+      "original_chart_id": "chart_179_complex_line",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "North America - Product A",
+      "value": 214.2
+    },
+    {
+      "category": "North America - Product B",
+      "value": 115.1
+    },
+    {
+      "category": "North America - Product C",
+      "value": 62.8
+    },
+    {
+      "category": "Europe - Product A",
+      "value": 312.0
+    },
+    {
+      "category": "Europe - Product B",
+      "value": 197.8
+    },
+    {
+      "category": "Europe - Product C",
+      "value": 242.5
+    },
+    {
+      "category": "Asia Pacific - Product A",
+      "value": 282.1
+    },
+    {
+      "category": "Asia Pacific - Product B",
+      "value": 175.5
+    },
+    {
+      "category": "Asia Pacific - Product C",
+      "value": 300.7
+    },
+    {
+      "category": "Latin America - Product A",
+      "value": 116.2
+    },
+    {
+      "category": "Latin America - Product B",
+      "value": 79.1
+    },
+    {
+      "category": "Latin America - Product C",
+      "value": 44.8
+    },
+    {
+      "category": "Middle East - Product A",
+      "value": 69.2
+    },
+    {
+      "category": "Middle East - Product B",
+      "value": 60.7
+    },
+    {
+      "category": "Middle East - Product C",
+      "value": 41.2
+    },
+    {
+      "category": "Africa - Product A",
+      "value": 51.8
+    },
+    {
+      "category": "Africa - Product B",
+      "value": 39.8
+    },
+    {
+      "category": "Africa - Product C",
+      "value": 15.4
+    },
+    {
+      "category": "Oceania - Product A",
+      "value": 7.9
+    },
+    {
+      "category": "Oceania - Product B",
+      "value": 11.5
+    },
+    {
+      "category": "Oceania - Product C",
+      "value": 7.5
+    },
+    {
+      "category": "Nordic Countries - Product A",
+      "value": 10.3
+    },
+    {
+      "category": "Nordic Countries - Product B",
+      "value": 7.0
+    },
+    {
+      "category": "Nordic Countries - Product C",
+      "value": 27.6
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values and labels were clear and legible. The chart is a grouped bar chart with distinct color coding for each product.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753832433_2758",
+    "image_path": "data\\perturbations\\chart_010_complex_bar_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-30T00:40:53.811491",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 20.089816570281982,
+    "chart_metadata": {
+      "original_chart_id": "chart_010_complex_bar_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

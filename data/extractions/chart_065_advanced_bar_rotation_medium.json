@@ -1,0 +1,84 @@
+{
+  "chart_title": "Correlation Analysis - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 90.9
+    },
+    {
+      "category": "Category 2",
+      "value": 93.3
+    },
+    {
+      "category": "Category 3",
+      "value": 91.2
+    },
+    {
+      "category": "Category 4",
+      "value": 104.3
+    },
+    {
+      "category": "Category 5",
+      "value": 102.3
+    },
+    {
+      "category": "Category 6",
+      "value": 99.2
+    },
+    {
+      "category": "Category 7",
+      "value": 88.9
+    },
+    {
+      "category": "Category 8",
+      "value": 85.5
+    },
+    {
+      "category": "Category 9",
+      "value": 82.9
+    },
+    {
+      "category": "Category 10",
+      "value": 70.0
+    },
+    {
+      "category": "Category 11",
+      "value": 67.6
+    },
+    {
+      "category": "Category 12",
+      "value": 64.5
+    },
+    {
+      "category": "Category 13",
+      "value": 63.7
+    },
+    {
+      "category": "Category 14",
+      "value": 86.3
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values were extracted clearly from the chart. The chart is slightly tilted, but values are legible.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753829131_7653",
+    "image_path": "data\\perturbations\\chart_065_advanced_bar_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T23:45:44.538781",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 13.332267761230469,
+    "chart_metadata": {
+      "original_chart_id": "chart_065_advanced_bar",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

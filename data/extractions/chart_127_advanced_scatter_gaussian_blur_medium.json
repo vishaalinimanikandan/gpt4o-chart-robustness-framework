@@ -1,0 +1,68 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Sep 2024",
+      "value": 100.0
+    },
+    {
+      "category": "Oct 2024",
+      "value": 100.0
+    },
+    {
+      "category": "Nov 2024",
+      "value": 100.0
+    },
+    {
+      "category": "Dec 2024",
+      "value": 97.5
+    },
+    {
+      "category": "Jan 2025",
+      "value": 102.5
+    },
+    {
+      "category": "Mar 2025",
+      "value": 107.5
+    },
+    {
+      "category": "Apr 2025",
+      "value": 105.0
+    },
+    {
+      "category": "May 2025",
+      "value": 105.0
+    },
+    {
+      "category": "Jun 2025",
+      "value": 107.5
+    },
+    {
+      "category": "Jul 2025",
+      "value": 112.5
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Data points are estimated based on their position on the grid. Some overlap in labels may cause ambiguity.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753821372_8043",
+    "image_path": "data\\perturbations\\chart_127_advanced_scatter_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-29T21:36:21.867702",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.642122983932495,
+    "chart_metadata": {
+      "original_chart_id": "chart_127_advanced_scatter_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Dec 2024 - Stocks",
+      "value": 102
+    },
+    {
+      "category": "Dec 2024 - Bonds",
+      "value": 98
+    },
+    {
+      "category": "Dec 2024 - Real Estate",
+      "value": 100
+    },
+    {
+      "category": "Jan 2025 - Stocks",
+      "value": 95
+    },
+    {
+      "category": "Jan 2025 - Bonds",
+      "value": 97
+    },
+    {
+      "category": "Jan 2025 - Real Estate",
+      "value": 96
+    },
+    {
+      "category": "Mar 2025 - Stocks",
+      "value": 98
+    },
+    {
+      "category": "Mar 2025 - Bonds",
+      "value": 100
+    },
+    {
+      "category": "Mar 2025 - Real Estate",
+      "value": 97
+    },
+    {
+      "category": "Apr 2025 - Stocks",
+      "value": 96
+    },
+    {
+      "category": "Apr 2025 - Bonds",
+      "value": 99
+    },
+    {
+      "category": "Apr 2025 - Real Estate",
+      "value": 95
+    },
+    {
+      "category": "May 2025 - Stocks",
+      "value": 99
+    },
+    {
+      "category": "May 2025 - Bonds",
+      "value": 101
+    },
+    {
+      "category": "May 2025 - Real Estate",
+      "value": 98
+    },
+    {
+      "category": "Jun 2025 - Stocks",
+      "value": 97
+    },
+    {
+      "category": "Jun 2025 - Bonds",
+      "value": 100
+    },
+    {
+      "category": "Jun 2025 - Real Estate",
+      "value": 99
+    },
+    {
+      "category": "Jul 2025 - Stocks",
+      "value": 101
+    },
+    {
+      "category": "Jul 2025 - Bonds",
+      "value": 102
+    },
+    {
+      "category": "Jul 2025 - Real Estate",
+      "value": 100
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Values are estimated based on bar heights and axis labels. The chart is clear and well-labeled.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753830859_4728",
+    "image_path": "data\\perturbations\\chart_150_medium_bar_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-30T00:14:38.074797",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 18.554898738861084,
+    "chart_metadata": {
+      "original_chart_id": "chart_150_medium_bar_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

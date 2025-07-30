@@ -1,0 +1,83 @@
+{
+  "chart_title": "Quality Control Metrics - (Operational Metrics)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 12.3
+    },
+    {
+      "category": "Category 2",
+      "value": 4.4
+    },
+    {
+      "category": "Category 3",
+      "value": 12.8
+    },
+    {
+      "category": "Category 4",
+      "value": 11.6
+    },
+    {
+      "category": "Category 5",
+      "value": 8.2
+    },
+    {
+      "category": "Category 6",
+      "value": 2.5
+    },
+    {
+      "category": "Category 7",
+      "value": 9.2
+    },
+    {
+      "category": "Category 8",
+      "value": 1.6
+    },
+    {
+      "category": "Category 9",
+      "value": 2.1
+    },
+    {
+      "category": "Category 10",
+      "value": 8.9
+    },
+    {
+      "category": "Category 11",
+      "value": 4.8
+    },
+    {
+      "category": "Category 12",
+      "value": 5.0
+    },
+    {
+      "category": "Category 13",
+      "value": 9.5
+    },
+    {
+      "category": "Category 14",
+      "value": 2.7
+    },
+    {
+      "category": "Category 15",
+      "value": 4.6
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data extracted from pie chart with clear labels and percentages.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753816841_9856",
+    "image_path": "data\\raw_charts\\chart_170_advanced_pie.png",
+    "extraction_timestamp": "2025-07-29T20:20:54.138853",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.594835758209229,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

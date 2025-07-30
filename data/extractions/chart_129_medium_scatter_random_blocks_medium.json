@@ -1,0 +1,77 @@
+{
+  "chart_title": "Risk Return Analysis - (Financial Analysis)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point 1",
+      "value": {
+        "x": 30,
+        "y": 100
+      }
+    },
+    {
+      "category": "Point 2",
+      "value": {
+        "x": 40,
+        "y": 90
+      }
+    },
+    {
+      "category": "Point 3",
+      "value": {
+        "x": 50,
+        "y": 80
+      }
+    },
+    {
+      "category": "Point 4",
+      "value": {
+        "x": 60,
+        "y": 70
+      }
+    },
+    {
+      "category": "Point 5",
+      "value": {
+        "x": 70,
+        "y": 60
+      }
+    },
+    {
+      "category": "Point 6",
+      "value": {
+        "x": 80,
+        "y": 50
+      }
+    }
+  ],
+  "extraction_confidence": "low",
+  "extraction_notes": "The chart is heavily obscured by black squares, making it difficult to accurately extract all data points. The values provided are estimated based on visible portions.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753820490_1842",
+    "image_path": "data\\perturbations\\chart_129_medium_scatter_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T21:21:43.952082",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 13.092746019363403,
+    "chart_metadata": {
+      "original_chart_id": "chart_129_medium_scatter_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'x': 30, 'y': 100}",
+      "Data point 1 has invalid value: {'x': 40, 'y': 90}",
+      "Data point 2 has invalid value: {'x': 50, 'y': 80}",
+      "Data point 3 has invalid value: {'x': 60, 'y': 70}",
+      "Data point 4 has invalid value: {'x': 70, 'y': 60}",
+      "Data point 5 has invalid value: {'x': 80, 'y': 50}"
+    ]
+  }
+}

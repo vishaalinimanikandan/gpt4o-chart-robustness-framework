@@ -1,0 +1,92 @@
+{
+  "chart_title": "Experimental Results Comparison - Scientific Research",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Condition A - Control",
+      "value": 75
+    },
+    {
+      "category": "Condition A - Treatment 1",
+      "value": 75
+    },
+    {
+      "category": "Condition B - Control",
+      "value": 80
+    },
+    {
+      "category": "Condition B - Treatment 1",
+      "value": 90
+    },
+    {
+      "category": "Condition C - Control",
+      "value": 75
+    },
+    {
+      "category": "Condition C - Treatment 1",
+      "value": 85
+    },
+    {
+      "category": "Condition D - Control",
+      "value": 70
+    },
+    {
+      "category": "Condition D - Treatment 1",
+      "value": 80
+    },
+    {
+      "category": "Condition E - Control",
+      "value": 75
+    },
+    {
+      "category": "Condition E - Treatment 1",
+      "value": 85
+    },
+    {
+      "category": "Condition F - Control",
+      "value": 65
+    },
+    {
+      "category": "Condition F - Treatment 1",
+      "value": 80
+    },
+    {
+      "category": "Condition G - Control",
+      "value": 70
+    },
+    {
+      "category": "Condition G - Treatment 1",
+      "value": 85
+    },
+    {
+      "category": "Condition H - Control",
+      "value": 60
+    },
+    {
+      "category": "Condition H - Treatment 1",
+      "value": 90
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart is obscured by black squares, making it difficult to extract data with high precision. Some values are estimated.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753830438_8761",
+    "image_path": "data\\perturbations\\chart_068_medium_line_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-30T00:07:33.216667",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 14.255296230316162,
+    "chart_metadata": {
+      "original_chart_id": "chart_068_medium_line_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

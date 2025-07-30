@@ -1,0 +1,119 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Q1 '22 Revenue ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q1 '22 Profit ($M)",
+      "value": 0.1
+    },
+    {
+      "category": "Q1 '22 Costs ($M)",
+      "value": 0.9
+    },
+    {
+      "category": "Q1 '22 Revenue ($M)",
+      "value": 1.1
+    },
+    {
+      "category": "Q1 '22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q1 '22 Costs ($M)",
+      "value": 0.9
+    },
+    {
+      "category": "Q2 '22 Revenue ($M)",
+      "value": 1.2
+    },
+    {
+      "category": "Q2 '22 Profit ($M)",
+      "value": 0.1
+    },
+    {
+      "category": "Q2 '22 Costs ($M)",
+      "value": 0.9
+    },
+    {
+      "category": "Q2 '22 Revenue ($M)",
+      "value": 1.1
+    },
+    {
+      "category": "Q2 '22 Profit ($M)",
+      "value": 0.1
+    },
+    {
+      "category": "Q2 '22 Costs ($M)",
+      "value": 0.7
+    },
+    {
+      "category": "Q3 '22 Revenue ($M)",
+      "value": 1.3
+    },
+    {
+      "category": "Q3 '22 Profit ($M)",
+      "value": 0.1
+    },
+    {
+      "category": "Q3 '22 Costs ($M)",
+      "value": 1.2
+    },
+    {
+      "category": "Q3 '22 Revenue ($M)",
+      "value": 1.2
+    },
+    {
+      "category": "Q3 '22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q3 '22 Costs ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q4 '22 Revenue ($M)",
+      "value": 1.4
+    },
+    {
+      "category": "Q4 '22 Profit ($M)",
+      "value": 0.1
+    },
+    {
+      "category": "Q4 '22 Costs ($M)",
+      "value": 1.1
+    },
+    {
+      "category": "Q4 '22 Revenue ($M)",
+      "value": 1.3
+    },
+    {
+      "category": "Q4 '22 Profit ($M)",
+      "value": 0.1
+    },
+    {
+      "category": "Q4 '22 Costs ($M)",
+      "value": 1.0
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values are clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753813601_3664",
+    "image_path": "data\\raw_charts\\chart_041_advanced_bar.png",
+    "extraction_timestamp": "2025-07-29T19:26:59.487658",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 17.7645366191864,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

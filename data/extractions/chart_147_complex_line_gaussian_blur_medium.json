@@ -1,0 +1,68 @@
+{
+  "chart_title": "Economic Indicators - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 60
+    },
+    {
+      "category": "Category 2",
+      "value": 80
+    },
+    {
+      "category": "Category 3",
+      "value": 100
+    },
+    {
+      "category": "Category 4",
+      "value": 70
+    },
+    {
+      "category": "Category 5",
+      "value": 90
+    },
+    {
+      "category": "Category 6",
+      "value": 50
+    },
+    {
+      "category": "Category 7",
+      "value": 40
+    },
+    {
+      "category": "Category 8",
+      "value": 60
+    },
+    {
+      "category": "Category 9",
+      "value": 80
+    },
+    {
+      "category": "Category 10",
+      "value": 70
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are approximate due to overlapping lines and shaded areas.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753824733_7081",
+    "image_path": "data\\perturbations\\chart_147_complex_line_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-29T22:32:26.866808",
+    "model": "gpt-4o",
+    "attempt_number": 2,
+    "response_time": 13.278401851654053,
+    "chart_metadata": {
+      "original_chart_id": "chart_147_complex_line_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

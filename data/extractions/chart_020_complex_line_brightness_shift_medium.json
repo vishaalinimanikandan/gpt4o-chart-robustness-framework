@@ -1,0 +1,29 @@
+{
+  "chart_title": "Customer Satisfaction Metrics - (Business Analytics)",
+  "chart_type": "line",
+  "data": [],
+  "extraction_confidence": "low",
+  "extraction_notes": "The image contains multiple overlapping series with shaded areas, making it difficult to extract precise numerical values for each category.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753829644_9433",
+    "image_path": "data\\perturbations\\chart_020_complex_line_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-29T23:54:10.191089",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.061174392700195,
+    "chart_metadata": {
+      "original_chart_id": "chart_020_complex_line_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [
+      "Only 0 data points extracted"
+    ],
+    "errors": []
+  }
+}

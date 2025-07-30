@@ -1,0 +1,76 @@
+{
+  "chart_title": "Product Line Profitability - (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 80
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 90
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 60
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 70
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 30
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 40
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 100
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 90
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 70
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 80
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 40
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 50
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Values were extracted based on the bar heights relative to the y-axis labels.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753828233_4878",
+    "image_path": "data\\perturbations\\chart_006_medium_bar_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T23:30:42.495418",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.442638635635376,
+    "chart_metadata": {
+      "original_chart_id": "chart_006_medium_bar",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

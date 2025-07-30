@@ -1,0 +1,85 @@
+{
+  "chart_title": "Investment Allocation - (Financial Analysis)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point 1",
+      "value": {
+        "Series A": 20,
+        "Series B": 80
+      }
+    },
+    {
+      "category": "Point 2",
+      "value": {
+        "Series A": 30,
+        "Series B": 70
+      }
+    },
+    {
+      "category": "Point 3",
+      "value": {
+        "Series A": 40,
+        "Series B": 60
+      }
+    },
+    {
+      "category": "Point 4",
+      "value": {
+        "Series A": 50,
+        "Series B": 50
+      }
+    },
+    {
+      "category": "Point 5",
+      "value": {
+        "Series A": 60,
+        "Series B": 40
+      }
+    },
+    {
+      "category": "Point 6",
+      "value": {
+        "Series A": 70,
+        "Series B": 30
+      }
+    },
+    {
+      "category": "Point 7",
+      "value": {
+        "Series A": 80,
+        "Series B": 20
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart is heavily obscured by black squares, making it difficult to extract precise data points. The values are estimated based on visible grid lines.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753825020_1436",
+    "image_path": "data\\perturbations\\chart_146_medium_scatter_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T22:37:10.066385",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.755248785018921,
+    "chart_metadata": {
+      "original_chart_id": "chart_146_medium_scatter_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'Series A': 20, 'Series B': 80}",
+      "Data point 1 has invalid value: {'Series A': 30, 'Series B': 70}",
+      "Data point 2 has invalid value: {'Series A': 40, 'Series B': 60}",
+      "Data point 3 has invalid value: {'Series A': 50, 'Series B': 50}",
+      "Data point 4 has invalid value: {'Series A': 60, 'Series B': 40}",
+      "Data point 5 has invalid value: {'Series A': 70, 'Series B': 30}",
+      "Data point 6 has invalid value: {'Series A': 80, 'Series B': 20}"
+    ]
+  }
+}

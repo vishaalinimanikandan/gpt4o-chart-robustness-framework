@@ -1,0 +1,77 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific Research)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point 1",
+      "value": {
+        "Series A": 20,
+        "Series B": 70
+      }
+    },
+    {
+      "category": "Point 2",
+      "value": {
+        "Series A": 30,
+        "Series B": 50
+      }
+    },
+    {
+      "category": "Point 3",
+      "value": {
+        "Series A": 30,
+        "Series B": 10
+      }
+    },
+    {
+      "category": "Point 4",
+      "value": {
+        "Series A": 90,
+        "Series B": 80
+      }
+    },
+    {
+      "category": "Point 5",
+      "value": {
+        "Series A": 70,
+        "Series B": 60
+      }
+    },
+    {
+      "category": "Point 6",
+      "value": {
+        "Series A": 60,
+        "Series B": 70
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The data points were extracted based on visible markers. Some markers may overlap or be obscured by noise, affecting precision.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753833418_8319",
+    "image_path": "data\\perturbations\\chart_094_medium_scatter_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-30T00:57:16.446020",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 17.8425190448761,
+    "chart_metadata": {
+      "original_chart_id": "chart_094_medium_scatter_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'Series A': 20, 'Series B': 70}",
+      "Data point 1 has invalid value: {'Series A': 30, 'Series B': 50}",
+      "Data point 2 has invalid value: {'Series A': 30, 'Series B': 10}",
+      "Data point 3 has invalid value: {'Series A': 90, 'Series B': 80}",
+      "Data point 4 has invalid value: {'Series A': 70, 'Series B': 60}",
+      "Data point 5 has invalid value: {'Series A': 60, 'Series B': 70}"
+    ]
+  }
+}

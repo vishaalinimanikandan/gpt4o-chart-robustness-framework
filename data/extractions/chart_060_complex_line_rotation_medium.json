@@ -1,0 +1,64 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 70
+    },
+    {
+      "category": "Condition B",
+      "value": 90
+    },
+    {
+      "category": "Condition C",
+      "value": 80
+    },
+    {
+      "category": "Condition D",
+      "value": 75
+    },
+    {
+      "category": "Condition E",
+      "value": 85
+    },
+    {
+      "category": "Condition F",
+      "value": 95
+    },
+    {
+      "category": "Condition G",
+      "value": 100
+    },
+    {
+      "category": "Condition H",
+      "value": 90
+    },
+    {
+      "category": "Condition I",
+      "value": 80
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated from the chart as exact numerical values are not labeled. Multiple data series are present, but only one series is extracted for simplicity.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753820029_2624",
+    "image_path": "data\\perturbations\\chart_060_complex_line_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T21:13:57.409648",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.674044370651245,
+    "chart_metadata": {
+      "original_chart_id": "chart_060_complex_line",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

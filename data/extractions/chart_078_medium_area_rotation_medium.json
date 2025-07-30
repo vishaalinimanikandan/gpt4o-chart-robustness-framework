@@ -1,0 +1,76 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 60
+    },
+    {
+      "category": "Category 2",
+      "value": 70
+    },
+    {
+      "category": "Category 3",
+      "value": 20
+    },
+    {
+      "category": "Category 4",
+      "value": 80
+    },
+    {
+      "category": "Category 5",
+      "value": 30
+    },
+    {
+      "category": "Category 6",
+      "value": 10
+    },
+    {
+      "category": "Category 1",
+      "value": 100
+    },
+    {
+      "category": "Category 2",
+      "value": 60
+    },
+    {
+      "category": "Category 3",
+      "value": 50
+    },
+    {
+      "category": "Category 4",
+      "value": 60
+    },
+    {
+      "category": "Category 5",
+      "value": 90
+    },
+    {
+      "category": "Category 6",
+      "value": 20
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly visible and distinguishable. Series A and Series B are represented with different colors.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753828419_2208",
+    "image_path": "data\\perturbations\\chart_078_medium_area_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T23:33:49.272292",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.334113597869873,
+    "chart_metadata": {
+      "original_chart_id": "chart_078_medium_area",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

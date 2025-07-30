@@ -1,0 +1,156 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "North America - Product A",
+      "value": 150
+    },
+    {
+      "category": "North America - Product B",
+      "value": 100
+    },
+    {
+      "category": "North America - Product C",
+      "value": 120
+    },
+    {
+      "category": "North America - Product D",
+      "value": 100
+    },
+    {
+      "category": "Europe - Product A",
+      "value": 200
+    },
+    {
+      "category": "Europe - Product B",
+      "value": 150
+    },
+    {
+      "category": "Europe - Product C",
+      "value": 250
+    },
+    {
+      "category": "Europe - Product D",
+      "value": 180
+    },
+    {
+      "category": "Asia Pacific - Product A",
+      "value": 180
+    },
+    {
+      "category": "Asia Pacific - Product B",
+      "value": 130
+    },
+    {
+      "category": "Asia Pacific - Product C",
+      "value": 160
+    },
+    {
+      "category": "Asia Pacific - Product D",
+      "value": 140
+    },
+    {
+      "category": "Latin America - Product A",
+      "value": 80
+    },
+    {
+      "category": "Latin America - Product B",
+      "value": 60
+    },
+    {
+      "category": "Latin America - Product C",
+      "value": 70
+    },
+    {
+      "category": "Latin America - Product D",
+      "value": 50
+    },
+    {
+      "category": "Middle East - Product A",
+      "value": 60
+    },
+    {
+      "category": "Middle East - Product B",
+      "value": 50
+    },
+    {
+      "category": "Middle East - Product C",
+      "value": 40
+    },
+    {
+      "category": "Middle East - Product D",
+      "value": 30
+    },
+    {
+      "category": "Africa - Product A",
+      "value": 40
+    },
+    {
+      "category": "Africa - Product B",
+      "value": 30
+    },
+    {
+      "category": "Africa - Product C",
+      "value": 20
+    },
+    {
+      "category": "Africa - Product D",
+      "value": 10
+    },
+    {
+      "category": "Oceania - Product A",
+      "value": 30
+    },
+    {
+      "category": "Oceania - Product B",
+      "value": 20
+    },
+    {
+      "category": "Oceania - Product C",
+      "value": 10
+    },
+    {
+      "category": "Oceania - Product D",
+      "value": 5
+    },
+    {
+      "category": "Nordic Countries - Product A",
+      "value": 20
+    },
+    {
+      "category": "Nordic Countries - Product B",
+      "value": 15
+    },
+    {
+      "category": "Nordic Countries - Product C",
+      "value": 10
+    },
+    {
+      "category": "Nordic Countries - Product D",
+      "value": 5
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart is partially obscured on the right side, which may affect the accuracy of the values for the last few categories.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753823117_2695",
+    "image_path": "data\\perturbations\\chart_032_complex_area_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T22:05:34.572867",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 17.11542844772339,
+    "chart_metadata": {
+      "original_chart_id": "chart_032_complex_area_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

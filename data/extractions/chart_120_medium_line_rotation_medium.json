@@ -1,0 +1,52 @@
+{
+  "chart_title": "Risk Return Analysis - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 20
+    },
+    {
+      "category": "Category 2",
+      "value": 40
+    },
+    {
+      "category": "Category 3",
+      "value": 90
+    },
+    {
+      "category": "Category 4",
+      "value": 60
+    },
+    {
+      "category": "Category 5",
+      "value": 70
+    },
+    {
+      "category": "Category 6",
+      "value": 80
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly visible and distinct.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753821630_5938",
+    "image_path": "data\\perturbations\\chart_120_medium_line_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T21:40:38.834626",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.468003749847412,
+    "chart_metadata": {
+      "original_chart_id": "chart_120_medium_line",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

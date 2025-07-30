@@ -1,0 +1,29 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "line",
+  "data": [],
+  "extraction_confidence": "low",
+  "extraction_notes": "The chart is heavily obscured by black squares, making it impossible to extract any numerical values or specific data points.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753826420_5807",
+    "image_path": "data\\perturbations\\chart_029_complex_line_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T23:00:24.543489",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 4.45457911491394,
+    "chart_metadata": {
+      "original_chart_id": "chart_029_complex_line_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [
+      "Only 0 data points extracted"
+    ],
+    "errors": []
+  }
+}

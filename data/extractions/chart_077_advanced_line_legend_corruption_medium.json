@@ -1,0 +1,68 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "area",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 90.7
+    },
+    {
+      "category": "Condition B",
+      "value": 86.4
+    },
+    {
+      "category": "Condition C",
+      "value": 89.3
+    },
+    {
+      "category": "Condition D",
+      "value": 83.7
+    },
+    {
+      "category": "Condition E",
+      "value": 81.6
+    },
+    {
+      "category": "Condition F",
+      "value": 94.0
+    },
+    {
+      "category": "Condition G",
+      "value": 90.9
+    },
+    {
+      "category": "Condition H",
+      "value": 82.0
+    },
+    {
+      "category": "Condition I",
+      "value": 95.1
+    },
+    {
+      "category": "Condition J",
+      "value": 75.8
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The chart is clear and the values are easily readable. The chart type is identified as an area chart with multiple data series.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753820645_6736",
+    "image_path": "data\\perturbations\\chart_077_advanced_line_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T21:24:14.092690",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.513284921646118,
+    "chart_metadata": {
+      "original_chart_id": "chart_077_advanced_line_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

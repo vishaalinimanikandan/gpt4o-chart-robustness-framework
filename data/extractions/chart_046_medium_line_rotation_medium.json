@@ -1,0 +1,77 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "North America",
+      "Product A": 350,
+      "Product B": 150
+    },
+    {
+      "category": "Europe",
+      "Product A": 100,
+      "Product B": 150
+    },
+    {
+      "category": "Asia Pacific",
+      "Product A": 200,
+      "Product B": 100
+    },
+    {
+      "category": "Latin America",
+      "Product A": 150,
+      "Product B": 350
+    },
+    {
+      "category": "Middle East",
+      "Product A": 50,
+      "Product B": 50
+    },
+    {
+      "category": "Africa",
+      "Product A": 50,
+      "Product B": 50
+    },
+    {
+      "category": "Oceania",
+      "Product A": 50,
+      "Product B": 50
+    },
+    {
+      "category": "Nordic Countries",
+      "Product A": 50,
+      "Product B": 50
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Values are clearly marked and distinguishable. The chart is a line chart with two data series.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753827637_6150",
+    "image_path": "data\\perturbations\\chart_046_medium_line_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T23:20:47.442076",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.33916187286377,
+    "chart_metadata": {
+      "original_chart_id": "chart_046_medium_line",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 missing value",
+      "Data point 1 missing value",
+      "Data point 2 missing value",
+      "Data point 3 missing value",
+      "Data point 4 missing value",
+      "Data point 5 missing value",
+      "Data point 6 missing value",
+      "Data point 7 missing value"
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 35.8
+    },
+    {
+      "category": "Category 2",
+      "value": 32.8
+    },
+    {
+      "category": "Category 3",
+      "value": 21.0
+    },
+    {
+      "category": "Category 4",
+      "value": 43.7
+    },
+    {
+      "category": "Category 5",
+      "value": 50.0
+    },
+    {
+      "category": "Category 6",
+      "value": 46.6
+    },
+    {
+      "category": "Category 7",
+      "value": 21.2
+    },
+    {
+      "category": "Category 8",
+      "value": 40.6
+    },
+    {
+      "category": "Category 9",
+      "value": 37.7
+    },
+    {
+      "category": "Category 10",
+      "value": 54.4
+    },
+    {
+      "category": "Category 11",
+      "value": 36.5
+    },
+    {
+      "category": "Category 12",
+      "value": 14.5
+    },
+    {
+      "category": "Category 13",
+      "value": 43.2
+    },
+    {
+      "category": "Category 14",
+      "value": 13.1
+    },
+    {
+      "category": "Category 15",
+      "value": 9.5
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart contains multiple overlapping data series which may cause some values to be obscured or misinterpreted. The values extracted are based on visible data points.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753833234_4618",
+    "image_path": "data\\perturbations\\chart_195_advanced_line_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-30T00:54:07.106682",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.610177755355835,
+    "chart_metadata": {
+      "original_chart_id": "chart_195_advanced_line_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "chart_title": "Quality Control Metrics - (Operational Metrics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 88.9
+    },
+    {
+      "category": "Category 2",
+      "value": 66.8
+    },
+    {
+      "category": "Category 3",
+      "value": 103.5
+    },
+    {
+      "category": "Category 4",
+      "value": 108.9
+    },
+    {
+      "category": "Category 5",
+      "value": 50.5
+    },
+    {
+      "category": "Category 6",
+      "value": 95.3
+    },
+    {
+      "category": "Category 7",
+      "value": 69.9
+    },
+    {
+      "category": "Category 8",
+      "value": 86.5
+    },
+    {
+      "category": "Category 9",
+      "value": 97.4
+    },
+    {
+      "category": "Category 10",
+      "value": 64.9
+    },
+    {
+      "category": "Category 11",
+      "value": 56.8
+    },
+    {
+      "category": "Category 12",
+      "value": 54.2
+    },
+    {
+      "category": "Category 13",
+      "value": 101.3
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart contains multiple series with overlapping bars, making it challenging to extract all values accurately. Some values may be obscured or difficult to read.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753822249_4986",
+    "image_path": "data\\perturbations\\chart_184_advanced_bar_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-29T21:51:02.890608",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 13.334534406661987,
+    "chart_metadata": {
+      "original_chart_id": "chart_184_advanced_bar_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

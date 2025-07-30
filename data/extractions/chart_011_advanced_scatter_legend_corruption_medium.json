@@ -1,0 +1,76 @@
+{
+  "chart_title": "Market Share Analysis - (Business Analytics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 70
+    },
+    {
+      "category": "Category 2",
+      "value": 40
+    },
+    {
+      "category": "Category 3",
+      "value": 60
+    },
+    {
+      "category": "Category 4",
+      "value": 80
+    },
+    {
+      "category": "Category 5",
+      "value": 20
+    },
+    {
+      "category": "Category 6",
+      "value": 100
+    },
+    {
+      "category": "Category 7",
+      "value": 100
+    },
+    {
+      "category": "Category 8",
+      "value": 30
+    },
+    {
+      "category": "Category 9",
+      "value": 90
+    },
+    {
+      "category": "Category 10",
+      "value": 110
+    },
+    {
+      "category": "Category 11",
+      "value": 30
+    },
+    {
+      "category": "Category 12",
+      "value": 60
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points are clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753832514_9092",
+    "image_path": "data\\perturbations\\chart_011_advanced_scatter_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-30T00:42:01.190736",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.3692145347595215,
+    "chart_metadata": {
+      "original_chart_id": "chart_011_advanced_scatter_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "chart_title": "Service Level Agreement - (Operational Metrics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 80.0
+    },
+    {
+      "category": "Category 2",
+      "value": 87.1
+    },
+    {
+      "category": "Category 3",
+      "value": 94.7
+    },
+    {
+      "category": "Category 4",
+      "value": 102.6
+    },
+    {
+      "category": "Category 5",
+      "value": 76.7
+    },
+    {
+      "category": "Category 6",
+      "value": 66.6
+    },
+    {
+      "category": "Category 7",
+      "value": 90.5
+    },
+    {
+      "category": "Category 8",
+      "value": 69.8
+    },
+    {
+      "category": "Category 9",
+      "value": 77.1
+    },
+    {
+      "category": "Category 10",
+      "value": 49.2
+    },
+    {
+      "category": "Category 11",
+      "value": 31.1
+    },
+    {
+      "category": "Category 12",
+      "value": 38.2
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data extracted from the tallest bars in each category. Other series values are present but not extracted.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753817079_5345",
+    "image_path": "data\\raw_charts\\chart_182_complex_bar.png",
+    "extraction_timestamp": "2025-07-29T20:28:58.855327",
+    "model": "gpt-4o",
+    "attempt_number": 3,
+    "response_time": 258.9001157283783,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

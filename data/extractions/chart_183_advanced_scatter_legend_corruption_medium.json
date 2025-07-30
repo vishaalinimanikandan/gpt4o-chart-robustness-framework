@@ -1,0 +1,64 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 90
+    },
+    {
+      "category": "Category 2",
+      "value": 40
+    },
+    {
+      "category": "Category 3",
+      "value": 80
+    },
+    {
+      "category": "Category 4",
+      "value": 95
+    },
+    {
+      "category": "Category 5",
+      "value": 30
+    },
+    {
+      "category": "Category 6",
+      "value": 90
+    },
+    {
+      "category": "Category 7",
+      "value": 50
+    },
+    {
+      "category": "Category 9",
+      "value": 70
+    },
+    {
+      "category": "Category 10",
+      "value": 60
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The exact values for Series A and Series B are estimated based on the grid lines. Some categories may be partially obscured.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753825305_8740",
+    "image_path": "data\\perturbations\\chart_183_advanced_scatter_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T22:41:53.548437",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.871621131896973,
+    "chart_metadata": {
+      "original_chart_id": "chart_183_advanced_scatter_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

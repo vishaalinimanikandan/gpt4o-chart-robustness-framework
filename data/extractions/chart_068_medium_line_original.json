@@ -1,0 +1,87 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Condition A - Control",
+      "value": 75
+    },
+    {
+      "category": "Condition B - Control",
+      "value": 75
+    },
+    {
+      "category": "Condition C - Control",
+      "value": 70
+    },
+    {
+      "category": "Condition D - Control",
+      "value": 65
+    },
+    {
+      "category": "Condition E - Control",
+      "value": 70
+    },
+    {
+      "category": "Condition F - Control",
+      "value": 65
+    },
+    {
+      "category": "Condition G - Control",
+      "value": 85
+    },
+    {
+      "category": "Condition H - Control",
+      "value": 60
+    },
+    {
+      "category": "Condition A - Treatment 1",
+      "value": 75
+    },
+    {
+      "category": "Condition B - Treatment 1",
+      "value": 90
+    },
+    {
+      "category": "Condition C - Treatment 1",
+      "value": 65
+    },
+    {
+      "category": "Condition D - Treatment 1",
+      "value": 80
+    },
+    {
+      "category": "Condition E - Treatment 1",
+      "value": 85
+    },
+    {
+      "category": "Condition F - Treatment 1",
+      "value": 70
+    },
+    {
+      "category": "Condition G - Treatment 1",
+      "value": 75
+    },
+    {
+      "category": "Condition H - Treatment 1",
+      "value": 85
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clear and legible. No ambiguities observed.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753814202_5304",
+    "image_path": "data\\raw_charts\\chart_068_medium_line.png",
+    "extraction_timestamp": "2025-07-29T19:36:53.569408",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.468356847763062,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "chart_title": "Production Efficiency - (Operational Metrics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 50
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 100
+    },
+    {
+      "category": "Category 1 - Series C",
+      "value": 70
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 80
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 60
+    },
+    {
+      "category": "Category 2 - Series C",
+      "value": 90
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 40
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 30
+    },
+    {
+      "category": "Category 3 - Series C",
+      "value": 50
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 90
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 70
+    },
+    {
+      "category": "Category 4 - Series C",
+      "value": 80
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 100
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 60
+    },
+    {
+      "category": "Category 5 - Series C",
+      "value": 90
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 70
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 40
+    },
+    {
+      "category": "Category 6 - Series C",
+      "value": 60
+    },
+    {
+      "category": "Category 7 - Series A",
+      "value": 90
+    },
+    {
+      "category": "Category 7 - Series B",
+      "value": 50
+    },
+    {
+      "category": "Category 7 - Series C",
+      "value": 80
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points were clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753831321_8531",
+    "image_path": "data\\perturbations\\chart_163_medium_bar_rotation_medium.png",
+    "extraction_timestamp": "2025-07-30T00:22:18.876214",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 17.63381600379944,
+    "chart_metadata": {
+      "original_chart_id": "chart_163_medium_bar",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

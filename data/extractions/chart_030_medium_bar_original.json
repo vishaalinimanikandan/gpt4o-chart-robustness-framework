@@ -1,0 +1,71 @@
+{
+  "chart_title": "Customer Satisfaction Metrics - (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 60
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 75
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 90
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 85
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 70
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 30
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 50
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 65
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 40
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 80
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 30
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 70
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Values were clear and distinct. No ambiguities observed.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753813412_4150",
+    "image_path": "data\\raw_charts\\chart_030_medium_bar.png",
+    "extraction_timestamp": "2025-07-29T19:23:43.744944",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.596643447875977,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 70
+    },
+    {
+      "category": "Category 2",
+      "value": 110
+    },
+    {
+      "category": "Category 3",
+      "value": 30
+    },
+    {
+      "category": "Category 4",
+      "value": 60
+    },
+    {
+      "category": "Category 5",
+      "value": 70
+    },
+    {
+      "category": "Category 6",
+      "value": 90
+    },
+    {
+      "category": "Category 7",
+      "value": 60
+    },
+    {
+      "category": "Category 8",
+      "value": 50
+    },
+    {
+      "category": "Category 9",
+      "value": 100
+    },
+    {
+      "category": "Category 10",
+      "value": 40
+    },
+    {
+      "category": "Category 11",
+      "value": 80
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly labeled and values are easily readable.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753830837_8775",
+    "image_path": "data\\perturbations\\chart_090_advanced_scatter_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-30T00:14:05.307452",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.392673015594482,
+    "chart_metadata": {
+      "original_chart_id": "chart_090_advanced_scatter_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

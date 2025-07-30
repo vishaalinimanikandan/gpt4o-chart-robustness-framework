@@ -1,0 +1,68 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 55.5
+    },
+    {
+      "category": "Category 2",
+      "value": 29.8
+    },
+    {
+      "category": "Category 3",
+      "value": 68.7
+    },
+    {
+      "category": "Category 4",
+      "value": 42.9
+    },
+    {
+      "category": "Category 5",
+      "value": 75.7
+    },
+    {
+      "category": "Category 6",
+      "value": 68.0
+    },
+    {
+      "category": "Category 7",
+      "value": 57.4
+    },
+    {
+      "category": "Category 8",
+      "value": 39.9
+    },
+    {
+      "category": "Category 9",
+      "value": 46.9
+    },
+    {
+      "category": "Category 10",
+      "value": 55.0
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points were clear and legible. Multiple series were present, but only one series was extracted for simplicity.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753831539_9011",
+    "image_path": "data\\perturbations\\chart_169_advanced_line_rotation_medium.png",
+    "extraction_timestamp": "2025-07-30T00:25:49.886909",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.142569065093994,
+    "chart_metadata": {
+      "original_chart_id": "chart_169_advanced_line",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

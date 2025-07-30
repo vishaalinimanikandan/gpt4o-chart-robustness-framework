@@ -1,0 +1,52 @@
+{
+  "chart_title": "Treatment Efficacy Analysis - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 20
+    },
+    {
+      "category": "Category 2",
+      "value": 50
+    },
+    {
+      "category": "Category 3",
+      "value": 80
+    },
+    {
+      "category": "Category 4",
+      "value": 30
+    },
+    {
+      "category": "Category 5",
+      "value": 20
+    },
+    {
+      "category": "Category 6",
+      "value": 60
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The values are estimated based on the position of the points on the y-axis. The exact values may vary slightly.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753831528_4396",
+    "image_path": "data\\perturbations\\chart_051_medium_line_rotation_medium.png",
+    "extraction_timestamp": "2025-07-30T00:25:38.739592",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.648291110992432,
+    "chart_metadata": {
+      "original_chart_id": "chart_051_medium_line",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

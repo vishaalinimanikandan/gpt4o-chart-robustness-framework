@@ -1,0 +1,93 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Africa",
+      "value": {
+        "Product A": 10,
+        "Product B": 5
+      }
+    },
+    {
+      "category": "Oceania",
+      "value": {
+        "Product A": 20,
+        "Product B": 10
+      }
+    },
+    {
+      "category": "Nordic Countries",
+      "value": {
+        "Product A": 15,
+        "Product B": 8
+      }
+    },
+    {
+      "category": "Middle East",
+      "value": {
+        "Product A": 25,
+        "Product B": 12
+      }
+    },
+    {
+      "category": "Latin America",
+      "value": {
+        "Product A": 50,
+        "Product B": 30
+      }
+    },
+    {
+      "category": "North America",
+      "value": {
+        "Product A": 60,
+        "Product B": 40
+      }
+    },
+    {
+      "category": "Europe",
+      "value": {
+        "Product A": 150,
+        "Product B": 100
+      }
+    },
+    {
+      "category": "Asia Pacific",
+      "value": {
+        "Product A": 300,
+        "Product B": 350
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the position of the points on the axes. Some labels are small and may be difficult to read accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753832905_6301",
+    "image_path": "data\\perturbations\\chart_022_complex_scatter_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-30T00:48:32.974377",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.740443229675293,
+    "chart_metadata": {
+      "original_chart_id": "chart_022_complex_scatter_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'Product A': 10, 'Product B': 5}",
+      "Data point 1 has invalid value: {'Product A': 20, 'Product B': 10}",
+      "Data point 2 has invalid value: {'Product A': 15, 'Product B': 8}",
+      "Data point 3 has invalid value: {'Product A': 25, 'Product B': 12}",
+      "Data point 4 has invalid value: {'Product A': 50, 'Product B': 30}",
+      "Data point 5 has invalid value: {'Product A': 60, 'Product B': 40}",
+      "Data point 6 has invalid value: {'Product A': 150, 'Product B': 100}",
+      "Data point 7 has invalid value: {'Product A': 300, 'Product B': 350}"
+    ]
+  }
+}

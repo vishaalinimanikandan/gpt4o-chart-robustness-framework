@@ -1,0 +1,64 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Nov 2024",
+      "value": 102.9
+    },
+    {
+      "category": "Dec 2024",
+      "value": 103.5
+    },
+    {
+      "category": "Jan 2025",
+      "value": 105.8
+    },
+    {
+      "category": "Feb 2025",
+      "value": 108.2
+    },
+    {
+      "category": "Mar 2025",
+      "value": 105.3
+    },
+    {
+      "category": "Apr 2025",
+      "value": 108.7
+    },
+    {
+      "category": "May 2025",
+      "value": 113.5
+    },
+    {
+      "category": "Jun 2025",
+      "value": 116.3
+    },
+    {
+      "category": "Jul 2025",
+      "value": 117.7
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The image is obscured by black boxes, making it difficult to extract all data points accurately. Some values and labels may be partially hidden.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753830264_7114",
+    "image_path": "data\\perturbations\\chart_143_complex_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-30T00:04:37.393863",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.922823667526245,
+    "chart_metadata": {
+      "original_chart_id": "chart_143_complex_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

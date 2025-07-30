@@ -1,0 +1,77 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific Research)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point 1",
+      "value": {
+        "Series A": 20,
+        "Series B": 70
+      }
+    },
+    {
+      "category": "Point 2",
+      "value": {
+        "Series A": 30,
+        "Series B": 10
+      }
+    },
+    {
+      "category": "Point 3",
+      "value": {
+        "Series A": 70,
+        "Series B": 80
+      }
+    },
+    {
+      "category": "Point 4",
+      "value": {
+        "Series A": 60,
+        "Series B": 50
+      }
+    },
+    {
+      "category": "Point 5",
+      "value": {
+        "Series A": 90,
+        "Series B": 30
+      }
+    },
+    {
+      "category": "Point 6",
+      "value": {
+        "Series A": 80,
+        "Series B": 90
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The exact numerical values are estimated based on the grid lines. Some points are close to grid intersections, which aids accuracy, but exact values may vary slightly.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753829497_3308",
+    "image_path": "data\\perturbations\\chart_094_medium_scatter_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-29T23:51:45.910125",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.41687297821045,
+    "chart_metadata": {
+      "original_chart_id": "chart_094_medium_scatter_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'Series A': 20, 'Series B': 70}",
+      "Data point 1 has invalid value: {'Series A': 30, 'Series B': 10}",
+      "Data point 2 has invalid value: {'Series A': 70, 'Series B': 80}",
+      "Data point 3 has invalid value: {'Series A': 60, 'Series B': 50}",
+      "Data point 4 has invalid value: {'Series A': 90, 'Series B': 30}",
+      "Data point 5 has invalid value: {'Series A': 80, 'Series B': 90}"
+    ]
+  }
+}

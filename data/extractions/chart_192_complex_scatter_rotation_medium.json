@@ -1,0 +1,101 @@
+{
+  "chart_title": "Quality Control Metrics - (Operational Metrics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": [
+        60,
+        80
+      ]
+    },
+    {
+      "category": "Category 2",
+      "value": [
+        90,
+        80
+      ]
+    },
+    {
+      "category": "Category 3",
+      "value": [
+        70,
+        80
+      ]
+    },
+    {
+      "category": "Category 4",
+      "value": [
+        30,
+        40
+      ]
+    },
+    {
+      "category": "Category 5",
+      "value": [
+        40,
+        60
+      ]
+    },
+    {
+      "category": "Category 6",
+      "value": [
+        60,
+        90
+      ]
+    },
+    {
+      "category": "Category 7",
+      "value": [
+        50,
+        90
+      ]
+    },
+    {
+      "category": "Category 8",
+      "value": [
+        100,
+        60
+      ]
+    },
+    {
+      "category": "Category 9",
+      "value": [
+        30,
+        60
+      ]
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly labeled and positioned on the chart.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753829506_2586",
+    "image_path": "data\\perturbations\\chart_192_complex_scatter_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T23:51:55.739583",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.825369834899902,
+    "chart_metadata": {
+      "original_chart_id": "chart_192_complex_scatter",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: [60, 80]",
+      "Data point 1 has invalid value: [90, 80]",
+      "Data point 2 has invalid value: [70, 80]",
+      "Data point 3 has invalid value: [30, 40]",
+      "Data point 4 has invalid value: [40, 60]",
+      "Data point 5 has invalid value: [60, 90]",
+      "Data point 6 has invalid value: [50, 90]",
+      "Data point 7 has invalid value: [100, 60]",
+      "Data point 8 has invalid value: [30, 60]"
+    ]
+  }
+}

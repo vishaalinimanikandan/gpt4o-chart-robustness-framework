@@ -1,0 +1,63 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 18.6
+    },
+    {
+      "category": "Category 2",
+      "value": 22.1
+    },
+    {
+      "category": "Category 3",
+      "value": 12.5
+    },
+    {
+      "category": "Category 4",
+      "value": 7.9
+    },
+    {
+      "category": "Category 5",
+      "value": 13.9
+    },
+    {
+      "category": "Category 6",
+      "value": 3.7
+    },
+    {
+      "category": "Category 7",
+      "value": 6.1
+    },
+    {
+      "category": "Category 8",
+      "value": 4.1
+    },
+    {
+      "category": "Category 9",
+      "value": 8.6
+    },
+    {
+      "category": "Category 10",
+      "value": 2.5
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data extracted from pie chart with clear labels and percentages.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753817616_2122",
+    "image_path": "data\\raw_charts\\chart_200_advanced_pie.png",
+    "extraction_timestamp": "2025-07-29T20:33:50.055068",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 13.743435144424438,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

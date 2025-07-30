@@ -1,0 +1,136 @@
+{
+  "chart_title": "Product Line Profitability - (Business Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 47.6
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 44.9
+    },
+    {
+      "category": "Category 1 - Series C",
+      "value": 99.8
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 44.4
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 44.7
+    },
+    {
+      "category": "Category 2 - Series C",
+      "value": 62.2
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 78.3
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 50.6
+    },
+    {
+      "category": "Category 3 - Series C",
+      "value": 80.7
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 74.9
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 68.7
+    },
+    {
+      "category": "Category 4 - Series C",
+      "value": 103.7
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 37.5
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 37.9
+    },
+    {
+      "category": "Category 5 - Series C",
+      "value": 91.8
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 38.6
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 28.1
+    },
+    {
+      "category": "Category 6 - Series C",
+      "value": 109.5
+    },
+    {
+      "category": "Category 7 - Series A",
+      "value": 52.8
+    },
+    {
+      "category": "Category 7 - Series B",
+      "value": 12.3
+    },
+    {
+      "category": "Category 7 - Series C",
+      "value": 97.5
+    },
+    {
+      "category": "Category 8 - Series A",
+      "value": 52.2
+    },
+    {
+      "category": "Category 8 - Series B",
+      "value": 16.3
+    },
+    {
+      "category": "Category 8 - Series C",
+      "value": 71.0
+    },
+    {
+      "category": "Category 9 - Series A",
+      "value": 93.8
+    },
+    {
+      "category": "Category 9 - Series B",
+      "value": 49.3
+    },
+    {
+      "category": "Category 9 - Series C",
+      "value": 86.3
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points were clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753832383_1151",
+    "image_path": "data\\perturbations\\chart_001_complex_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-30T00:40:32.717117",
+    "model": "gpt-4o",
+    "attempt_number": 2,
+    "response_time": 48.96639704704285,
+    "chart_metadata": {
+      "original_chart_id": "chart_001_complex_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

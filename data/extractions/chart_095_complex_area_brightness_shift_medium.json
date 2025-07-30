@@ -1,0 +1,72 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 70
+    },
+    {
+      "category": "Condition B",
+      "value": 90
+    },
+    {
+      "category": "Condition C",
+      "value": 80
+    },
+    {
+      "category": "Condition D",
+      "value": 85
+    },
+    {
+      "category": "Condition E",
+      "value": 95
+    },
+    {
+      "category": "Condition F",
+      "value": 75
+    },
+    {
+      "category": "Condition G",
+      "value": 85
+    },
+    {
+      "category": "Condition H",
+      "value": 80
+    },
+    {
+      "category": "Condition I",
+      "value": 70
+    },
+    {
+      "category": "Condition J",
+      "value": 65
+    },
+    {
+      "category": "Condition K",
+      "value": 60
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated from the chart as exact numerical values are not labeled. The chart contains multiple data series with overlapping areas, which may affect precision.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753827046_9937",
+    "image_path": "data\\perturbations\\chart_095_complex_area_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-29T23:10:58.098061",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.954183101654053,
+    "chart_metadata": {
+      "original_chart_id": "chart_095_complex_area_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

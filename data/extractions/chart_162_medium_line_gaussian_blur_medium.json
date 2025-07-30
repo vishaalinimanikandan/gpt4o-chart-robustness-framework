@@ -1,0 +1,100 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 60
+    },
+    {
+      "category": "Category 2",
+      "value": 70
+    },
+    {
+      "category": "Category 3",
+      "value": 50
+    },
+    {
+      "category": "Category 4",
+      "value": 30
+    },
+    {
+      "category": "Category 5",
+      "value": 20
+    },
+    {
+      "category": "Category 6",
+      "value": 30
+    },
+    {
+      "category": "Category 1",
+      "value": 80
+    },
+    {
+      "category": "Category 2",
+      "value": 60
+    },
+    {
+      "category": "Category 3",
+      "value": 90
+    },
+    {
+      "category": "Category 4",
+      "value": 70
+    },
+    {
+      "category": "Category 5",
+      "value": 80
+    },
+    {
+      "category": "Category 6",
+      "value": 90
+    },
+    {
+      "category": "Category 1",
+      "value": 40
+    },
+    {
+      "category": "Category 2",
+      "value": 50
+    },
+    {
+      "category": "Category 3",
+      "value": 30
+    },
+    {
+      "category": "Category 4",
+      "value": 40
+    },
+    {
+      "category": "Category 5",
+      "value": 50
+    },
+    {
+      "category": "Category 6",
+      "value": 70
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the visual position on the y-axis. Series are identified by color.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753831500_4684",
+    "image_path": "data\\perturbations\\chart_162_medium_line_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-30T00:25:11.178941",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.494190454483032,
+    "chart_metadata": {
+      "original_chart_id": "chart_162_medium_line_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

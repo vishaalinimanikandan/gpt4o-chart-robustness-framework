@@ -1,0 +1,84 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Jun 2024",
+      "value": 107.5
+    },
+    {
+      "category": "Jul 2024",
+      "value": 109.3
+    },
+    {
+      "category": "Aug 2024",
+      "value": 107.4
+    },
+    {
+      "category": "Sep 2024",
+      "value": 111.2
+    },
+    {
+      "category": "Oct 2024",
+      "value": 117.0
+    },
+    {
+      "category": "Nov 2024",
+      "value": 126.1
+    },
+    {
+      "category": "Dec 2024",
+      "value": 124.4
+    },
+    {
+      "category": "Jan 2025",
+      "value": 121.7
+    },
+    {
+      "category": "Feb 2025",
+      "value": 111.5
+    },
+    {
+      "category": "Mar 2025",
+      "value": 111.1
+    },
+    {
+      "category": "Apr 2025",
+      "value": 107.0
+    },
+    {
+      "category": "May 2025",
+      "value": 104.9
+    },
+    {
+      "category": "Jun 2025",
+      "value": 105.0
+    },
+    {
+      "category": "Jul 2025",
+      "value": 104.7
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points extracted from visible labels on the chart. The chart is partially obscured, but the visible data points were extracted accurately.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753832942_5272",
+    "image_path": "data\\perturbations\\chart_114_advanced_bar_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-30T00:49:16.188291",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 13.206314325332642,
+    "chart_metadata": {
+      "original_chart_id": "chart_114_advanced_bar_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

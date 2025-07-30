@@ -1,0 +1,62 @@
+{
+  "chart_title": "Customer Satisfaction Metrics - (Business Analytics)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 4.2
+    },
+    {
+      "category": "Category 2",
+      "value": 8.0
+    },
+    {
+      "category": "Category 3",
+      "value": 10.3
+    },
+    {
+      "category": "Category 4",
+      "value": 3.5
+    },
+    {
+      "category": "Category 5",
+      "value": 8.2
+    },
+    {
+      "category": "Category 6",
+      "value": 16.2
+    },
+    {
+      "category": "Category 7",
+      "value": 7.9
+    },
+    {
+      "category": "Category 11",
+      "value": 16.1
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All percentages are clear and sum to approximately 100%.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753821253_7947",
+    "image_path": "data\\perturbations\\chart_004_complex_pie_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T21:34:21.436471",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.142391681671143,
+    "chart_metadata": {
+      "original_chart_id": "chart_004_complex_pie_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [
+      "Pie chart values sum to 74.4%, expected ~100%"
+    ],
+    "errors": []
+  }
+}

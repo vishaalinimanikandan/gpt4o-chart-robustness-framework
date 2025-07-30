@@ -1,0 +1,84 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 94.0
+    },
+    {
+      "category": "Category 2",
+      "value": 82.5
+    },
+    {
+      "category": "Category 3",
+      "value": 46.2
+    },
+    {
+      "category": "Category 4",
+      "value": 36.7
+    },
+    {
+      "category": "Category 5",
+      "value": 29.7
+    },
+    {
+      "category": "Category 6",
+      "value": 14.6
+    },
+    {
+      "category": "Category 7",
+      "value": 17.4
+    },
+    {
+      "category": "Category 8",
+      "value": 29.8
+    },
+    {
+      "category": "Category 9",
+      "value": 22.9
+    },
+    {
+      "category": "Category 10",
+      "value": 28.1
+    },
+    {
+      "category": "Category 11",
+      "value": 45.3
+    },
+    {
+      "category": "Category 12",
+      "value": 38.1
+    },
+    {
+      "category": "Category 13",
+      "value": 12.5
+    },
+    {
+      "category": "Category 14",
+      "value": 46.5
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points were extracted clearly from the chart. The chart is a line chart with multiple data series, but only one series was extracted for simplicity.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753817842_6374",
+    "image_path": "data\\perturbations\\chart_173_advanced_line_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T20:37:55.521632",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 33.18823456764221,
+    "chart_metadata": {
+      "original_chart_id": "chart_173_advanced_line_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

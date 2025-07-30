@@ -1,0 +1,103 @@
+{
+  "chart_title": "Correlation Analysis - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 60
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 40
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 70
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 50
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 75
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 65
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 80
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 60
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 55
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 75
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 35
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 45
+    },
+    {
+      "category": "Category 7 - Series A",
+      "value": 50
+    },
+    {
+      "category": "Category 7 - Series B",
+      "value": 55
+    },
+    {
+      "category": "Category 8 - Series A",
+      "value": 85
+    },
+    {
+      "category": "Category 8 - Series B",
+      "value": 65
+    },
+    {
+      "category": "Category 9 - Series A",
+      "value": 70
+    },
+    {
+      "category": "Category 9 - Series B",
+      "value": 80
+    },
+    {
+      "category": "Category 10 - Series A",
+      "value": 65
+    },
+    {
+      "category": "Category 10 - Series B",
+      "value": 60
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Values were extracted based on visual estimation from the chart. The chart is clear and well-labeled.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753814599_2827",
+    "image_path": "data\\raw_charts\\chart_091_medium_bar.png",
+    "extraction_timestamp": "2025-07-29T19:43:33.204680",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 13.703134298324585,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

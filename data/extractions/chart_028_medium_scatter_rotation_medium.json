@@ -1,0 +1,85 @@
+{
+  "chart_title": "Customer Satisfaction Metrics - (Business Analytics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point 1",
+      "value": {
+        "Series A": 30,
+        "Series B": 90
+      }
+    },
+    {
+      "category": "Point 2",
+      "value": {
+        "Series A": 40,
+        "Series B": 60
+      }
+    },
+    {
+      "category": "Point 3",
+      "value": {
+        "Series A": 50,
+        "Series B": 70
+      }
+    },
+    {
+      "category": "Point 4",
+      "value": {
+        "Series A": 60,
+        "Series B": 40
+      }
+    },
+    {
+      "category": "Point 5",
+      "value": {
+        "Series A": 70,
+        "Series B": 80
+      }
+    },
+    {
+      "category": "Point 6",
+      "value": {
+        "Series A": 80,
+        "Series B": 50
+      }
+    },
+    {
+      "category": "Point 7",
+      "value": {
+        "Series A": 90,
+        "Series B": 30
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The exact numerical values are estimated based on the grid lines. The colors of the points may indicate different categories, but they are not labeled.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753823024_1672",
+    "image_path": "data\\perturbations\\chart_028_medium_scatter_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T22:03:56.835098",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.908438205718994,
+    "chart_metadata": {
+      "original_chart_id": "chart_028_medium_scatter",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'Series A': 30, 'Series B': 90}",
+      "Data point 1 has invalid value: {'Series A': 40, 'Series B': 60}",
+      "Data point 2 has invalid value: {'Series A': 50, 'Series B': 70}",
+      "Data point 3 has invalid value: {'Series A': 60, 'Series B': 40}",
+      "Data point 4 has invalid value: {'Series A': 70, 'Series B': 80}",
+      "Data point 5 has invalid value: {'Series A': 80, 'Series B': 50}",
+      "Data point 6 has invalid value: {'Series A': 90, 'Series B': 30}"
+    ]
+  }
+}

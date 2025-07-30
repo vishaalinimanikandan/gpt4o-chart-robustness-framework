@@ -1,0 +1,72 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 62.8
+    },
+    {
+      "category": "Category 2",
+      "value": 59.2
+    },
+    {
+      "category": "Category 3",
+      "value": 54.6
+    },
+    {
+      "category": "Category 4",
+      "value": 70.5
+    },
+    {
+      "category": "Category 5",
+      "value": 77.6
+    },
+    {
+      "category": "Category 6",
+      "value": 82.5
+    },
+    {
+      "category": "Category 7",
+      "value": 50.9
+    },
+    {
+      "category": "Category 8",
+      "value": 54.6
+    },
+    {
+      "category": "Category 9",
+      "value": 52.0
+    },
+    {
+      "category": "Category 10",
+      "value": 62.6
+    },
+    {
+      "category": "Category 11",
+      "value": 57.8
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points extracted from the most prominent series (Series A). Other series data not extracted due to complexity.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753831936_4814",
+    "image_path": "data\\perturbations\\chart_064_advanced_bar_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-30T00:32:58.161080",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 41.4922513961792,
+    "chart_metadata": {
+      "original_chart_id": "chart_064_advanced_bar_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

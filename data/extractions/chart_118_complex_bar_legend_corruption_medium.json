@@ -1,0 +1,120 @@
+{
+  "chart_title": "Sector Comparison - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Blue",
+      "value": 31.0
+    },
+    {
+      "category": "Category 1 - Orange",
+      "value": 57.0
+    },
+    {
+      "category": "Category 1 - Green",
+      "value": 62.7
+    },
+    {
+      "category": "Category 2 - Blue",
+      "value": 99.3
+    },
+    {
+      "category": "Category 2 - Orange",
+      "value": 94.3
+    },
+    {
+      "category": "Category 2 - Green",
+      "value": 87.9
+    },
+    {
+      "category": "Category 3 - Blue",
+      "value": 83.1
+    },
+    {
+      "category": "Category 3 - Orange",
+      "value": 102.7
+    },
+    {
+      "category": "Category 3 - Green",
+      "value": 104.4
+    },
+    {
+      "category": "Category 4 - Blue",
+      "value": 56.9
+    },
+    {
+      "category": "Category 4 - Orange",
+      "value": 79.6
+    },
+    {
+      "category": "Category 4 - Green",
+      "value": 79.1
+    },
+    {
+      "category": "Category 5 - Blue",
+      "value": 33.1
+    },
+    {
+      "category": "Category 5 - Orange",
+      "value": 40.5
+    },
+    {
+      "category": "Category 5 - Green",
+      "value": 48.9
+    },
+    {
+      "category": "Category 6 - Blue",
+      "value": 29.5
+    },
+    {
+      "category": "Category 6 - Orange",
+      "value": 59.8
+    },
+    {
+      "category": "Category 6 - Green",
+      "value": 48.9
+    },
+    {
+      "category": "Category 7 - Blue",
+      "value": 24.4
+    },
+    {
+      "category": "Category 7 - Orange",
+      "value": 89.6
+    },
+    {
+      "category": "Category 7 - Green",
+      "value": 59.8
+    },
+    {
+      "category": "Category 8 - Blue",
+      "value": 74.4
+    },
+    {
+      "category": "Category 8 - Orange",
+      "value": 68.8
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points were clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753825246_3392",
+    "image_path": "data\\perturbations\\chart_118_complex_bar_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T22:41:06.215905",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 19.72068428993225,
+    "chart_metadata": {
+      "original_chart_id": "chart_118_complex_bar_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

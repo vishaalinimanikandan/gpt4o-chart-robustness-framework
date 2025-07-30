@@ -1,0 +1,79 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 94.0
+    },
+    {
+      "category": "Category 2",
+      "value": 46.2
+    },
+    {
+      "category": "Category 3",
+      "value": 29.7
+    },
+    {
+      "category": "Category 4",
+      "value": 17.4
+    },
+    {
+      "category": "Category 5",
+      "value": 60.1
+    },
+    {
+      "category": "Category 6",
+      "value": 29.8
+    },
+    {
+      "category": "Category 7",
+      "value": 68.8
+    },
+    {
+      "category": "Category 8",
+      "value": 59.6
+    },
+    {
+      "category": "Category 9",
+      "value": 28.1
+    },
+    {
+      "category": "Category 10",
+      "value": 22.9
+    },
+    {
+      "category": "Category 11",
+      "value": 48.7
+    },
+    {
+      "category": "Category 12",
+      "value": 45.3
+    },
+    {
+      "category": "Category 13",
+      "value": 38.1
+    },
+    {
+      "category": "Category 14",
+      "value": 12.5
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart contains overlapping data points and multiple series, which may lead to potential inaccuracies in reading exact values.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753816882_4872",
+    "image_path": "data\\raw_charts\\chart_173_advanced_line.png",
+    "extraction_timestamp": "2025-07-29T20:21:45.825262",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 23.592114448547363,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

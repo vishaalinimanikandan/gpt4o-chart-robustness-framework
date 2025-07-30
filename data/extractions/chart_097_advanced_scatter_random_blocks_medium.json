@@ -1,0 +1,76 @@
+{
+  "chart_title": "Multi Variable Relationship (Scientific Research)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 80
+    },
+    {
+      "category": "Category 2",
+      "value": 40
+    },
+    {
+      "category": "Category 3",
+      "value": 20
+    },
+    {
+      "category": "Category 4",
+      "value": 50
+    },
+    {
+      "category": "Category 5",
+      "value": 90
+    },
+    {
+      "category": "Category 6",
+      "value": 30
+    },
+    {
+      "category": "Category 7",
+      "value": 10
+    },
+    {
+      "category": "Category 8",
+      "value": 70
+    },
+    {
+      "category": "Category 9",
+      "value": 60
+    },
+    {
+      "category": "Category 10",
+      "value": 15
+    },
+    {
+      "category": "Category 11",
+      "value": 25
+    },
+    {
+      "category": "Category 15",
+      "value": 85
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some data points are partially obscured, affecting precision.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753820720_1430",
+    "image_path": "data\\perturbations\\chart_097_advanced_scatter_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T21:25:30.439595",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.250147819519043,
+    "chart_metadata": {
+      "original_chart_id": "chart_097_advanced_scatter_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

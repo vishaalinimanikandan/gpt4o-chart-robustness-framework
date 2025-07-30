@@ -1,0 +1,72 @@
+{
+  "chart_title": "Sector Comparison - (Financial Analysis)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 30
+    },
+    {
+      "category": "Category 2",
+      "value": 50
+    },
+    {
+      "category": "Category 3",
+      "value": 60
+    },
+    {
+      "category": "Category 4",
+      "value": 80
+    },
+    {
+      "category": "Category 5",
+      "value": 90
+    },
+    {
+      "category": "Category 6",
+      "value": 55
+    },
+    {
+      "category": "Category 7",
+      "value": 70
+    },
+    {
+      "category": "Category 8",
+      "value": 95
+    },
+    {
+      "category": "Category 9",
+      "value": 40
+    },
+    {
+      "category": "Category 10",
+      "value": 35
+    },
+    {
+      "category": "Category 11",
+      "value": 100
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Data points are estimated based on their position in the scatter plot. Some overlap and lack of grid lines may affect precision.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753828430_3053",
+    "image_path": "data\\perturbations\\chart_139_advanced_scatter_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T23:33:58.692810",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.416486501693726,
+    "chart_metadata": {
+      "original_chart_id": "chart_139_advanced_scatter_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

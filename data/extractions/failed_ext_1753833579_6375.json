@@ -1,0 +1,8 @@
+{
+  "extraction_id": "ext_1753833579_6375",
+  "image_path": "data\\perturbations\\chart_054_advanced_bar_legend_corruption_medium.png",
+  "error_timestamp": "2025-07-30T01:04:20.755754",
+  "error_type": "APITimeoutError",
+  "error_message": "Request timed out.",
+  "response_time": 281.1749746799469
+}

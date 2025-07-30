@@ -1,0 +1,112 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Dec 2024 - Stocks",
+      "value": 102.3
+    },
+    {
+      "category": "Dec 2024 - Bonds",
+      "value": 100.5
+    },
+    {
+      "category": "Dec 2024 - Real Estate",
+      "value": 99.8
+    },
+    {
+      "category": "Jan 2025 - Stocks",
+      "value": 100.4
+    },
+    {
+      "category": "Jan 2025 - Bonds",
+      "value": 98.6
+    },
+    {
+      "category": "Jan 2025 - Real Estate",
+      "value": 101.4
+    },
+    {
+      "category": "Mar 2025 - Stocks",
+      "value": 102.9
+    },
+    {
+      "category": "Mar 2025 - Bonds",
+      "value": 100.9
+    },
+    {
+      "category": "Mar 2025 - Real Estate",
+      "value": 101.6
+    },
+    {
+      "category": "Apr 2025 - Stocks",
+      "value": 103.5
+    },
+    {
+      "category": "Apr 2025 - Bonds",
+      "value": 100.5
+    },
+    {
+      "category": "Apr 2025 - Real Estate",
+      "value": 99.0
+    },
+    {
+      "category": "May 2025 - Stocks",
+      "value": 105.1
+    },
+    {
+      "category": "May 2025 - Bonds",
+      "value": 101.2
+    },
+    {
+      "category": "May 2025 - Real Estate",
+      "value": 99.9
+    },
+    {
+      "category": "Jun 2025 - Stocks",
+      "value": 101.0
+    },
+    {
+      "category": "Jun 2025 - Bonds",
+      "value": 97.5
+    },
+    {
+      "category": "Jun 2025 - Real Estate",
+      "value": 101.0
+    },
+    {
+      "category": "Jul 2025 - Stocks",
+      "value": 110.1
+    },
+    {
+      "category": "Jul 2025 - Bonds",
+      "value": 104.1
+    },
+    {
+      "category": "Jul 2025 - Real Estate",
+      "value": 103.7
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart is partially obscured by black squares, which may affect the accuracy of some values.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753828475_8632",
+    "image_path": "data\\perturbations\\chart_149_complex_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T23:35:22.869061",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 47.84210705757141,
+    "chart_metadata": {
+      "original_chart_id": "chart_149_complex_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "North America - Product A",
+      "value": 325.8
+    },
+    {
+      "category": "North America - Product B",
+      "value": 297.8
+    },
+    {
+      "category": "North America - Product C",
+      "value": 367.2
+    },
+    {
+      "category": "North America - Product D",
+      "value": 207.3
+    },
+    {
+      "category": "Europe - Product A",
+      "value": 182.6
+    },
+    {
+      "category": "Europe - Product B",
+      "value": 114.0
+    },
+    {
+      "category": "Europe - Product C",
+      "value": 126.4
+    },
+    {
+      "category": "Europe - Product D",
+      "value": 65.2
+    },
+    {
+      "category": "Asia Pacific - Product A",
+      "value": 188.8
+    },
+    {
+      "category": "Asia Pacific - Product B",
+      "value": 180.3
+    },
+    {
+      "category": "Asia Pacific - Product C",
+      "value": 147.7
+    },
+    {
+      "category": "Asia Pacific - Product D",
+      "value": 116.4
+    },
+    {
+      "category": "Latin America - Product A",
+      "value": 71.6
+    },
+    {
+      "category": "Latin America - Product B",
+      "value": 55.7
+    },
+    {
+      "category": "Latin America - Product C",
+      "value": 46.1
+    },
+    {
+      "category": "Latin America - Product D",
+      "value": 35.5
+    },
+    {
+      "category": "Middle East - Product A",
+      "value": 32.1
+    },
+    {
+      "category": "Middle East - Product B",
+      "value": 25.4
+    },
+    {
+      "category": "Middle East - Product C",
+      "value": 24.4
+    },
+    {
+      "category": "Middle East - Product D",
+      "value": 13.6
+    },
+    {
+      "category": "Africa - Product A",
+      "value": 72.6
+    },
+    {
+      "category": "Africa - Product B",
+      "value": 66.6
+    },
+    {
+      "category": "Africa - Product C",
+      "value": 24.0
+    },
+    {
+      "category": "Africa - Product D",
+      "value": 13.9
+    },
+    {
+      "category": "Oceania - Product A",
+      "value": 18.9
+    },
+    {
+      "category": "Oceania - Product B",
+      "value": 18.7
+    },
+    {
+      "category": "Oceania - Product C",
+      "value": 10.8
+    },
+    {
+      "category": "Oceania - Product D",
+      "value": 6.0
+    },
+    {
+      "category": "Arctic - Product A",
+      "value": 29.5
+    },
+    {
+      "category": "Arctic - Product B",
+      "value": 18.9
+    },
+    {
+      "category": "Arctic - Product C",
+      "value": 10.4
+    },
+    {
+      "category": "Arctic - Product D",
+      "value": 4.4
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart is partially obscured by black squares, making some values difficult to read. The trend line and average line are noted but not extracted as data points.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753826632_8756",
+    "image_path": "data\\perturbations\\chart_019_complex_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T23:04:15.806531",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 23.751155376434326,
+    "chart_metadata": {
+      "original_chart_id": "chart_019_complex_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

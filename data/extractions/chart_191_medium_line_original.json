@@ -1,0 +1,51 @@
+{
+  "chart_title": "Quality Control Metrics - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 50
+    },
+    {
+      "category": "Category 2",
+      "value": 60
+    },
+    {
+      "category": "Category 3",
+      "value": 30
+    },
+    {
+      "category": "Category 4",
+      "value": 20
+    },
+    {
+      "category": "Category 5",
+      "value": 40
+    },
+    {
+      "category": "Category 6",
+      "value": 70
+    },
+    {
+      "category": "Category 7",
+      "value": 90
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly visible and distinct. Series A, B, and C are represented with different colors.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753817508_1821",
+    "image_path": "data\\raw_charts\\chart_191_medium_line.png",
+    "extraction_timestamp": "2025-07-29T20:31:57.421726",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.982242822647095,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Dec 2024",
+      "value": {
+        "Stocks": 95,
+        "Bonds": 97.5
+      }
+    },
+    {
+      "category": "Nov 2024",
+      "value": {
+        "Stocks": 97,
+        "Bonds": 100
+      }
+    },
+    {
+      "category": "Oct 2024",
+      "value": {
+        "Stocks": 98,
+        "Bonds": 100.5
+      }
+    },
+    {
+      "category": "Sep 2024",
+      "value": {
+        "Stocks": 99,
+        "Bonds": 101
+      }
+    },
+    {
+      "category": "Jan 2025",
+      "value": {
+        "Stocks": 105,
+        "Bonds": 103
+      }
+    },
+    {
+      "category": "Mar 2025",
+      "value": {
+        "Stocks": 107,
+        "Bonds": 105
+      }
+    },
+    {
+      "category": "Apr 2025",
+      "value": {
+        "Stocks": 104,
+        "Bonds": 105.5
+      }
+    },
+    {
+      "category": "May 2025",
+      "value": {
+        "Stocks": 103,
+        "Bonds": 105
+      }
+    },
+    {
+      "category": "Jun 2025",
+      "value": {
+        "Stocks": 110,
+        "Bonds": 107
+      }
+    },
+    {
+      "category": "Jul 2025",
+      "value": {
+        "Stocks": 115,
+        "Bonds": 110
+      }
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly labeled and positioned. Trend line and shaded area do not affect data extraction.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753815402_4470",
+    "image_path": "data\\raw_charts\\chart_127_advanced_scatter.png",
+    "extraction_timestamp": "2025-07-29T19:56:54.370752",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.357415914535522,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'Stocks': 95, 'Bonds': 97.5}",
+      "Data point 1 has invalid value: {'Stocks': 97, 'Bonds': 100}",
+      "Data point 2 has invalid value: {'Stocks': 98, 'Bonds': 100.5}",
+      "Data point 3 has invalid value: {'Stocks': 99, 'Bonds': 101}",
+      "Data point 4 has invalid value: {'Stocks': 105, 'Bonds': 103}",
+      "Data point 5 has invalid value: {'Stocks': 107, 'Bonds': 105}",
+      "Data point 6 has invalid value: {'Stocks': 104, 'Bonds': 105.5}",
+      "Data point 7 has invalid value: {'Stocks': 103, 'Bonds': 105}",
+      "Data point 8 has invalid value: {'Stocks': 110, 'Bonds': 107}",
+      "Data point 9 has invalid value: {'Stocks': 115, 'Bonds': 110}"
+    ]
+  }
+}

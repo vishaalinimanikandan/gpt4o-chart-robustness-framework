@@ -1,0 +1,60 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "North America",
+      "value": 350
+    },
+    {
+      "category": "Europe",
+      "value": 150
+    },
+    {
+      "category": "Asia Pacific",
+      "value": 200
+    },
+    {
+      "category": "Latin America",
+      "value": 400
+    },
+    {
+      "category": "Middle East",
+      "value": 50
+    },
+    {
+      "category": "Africa",
+      "value": 30
+    },
+    {
+      "category": "Oceania",
+      "value": 40
+    },
+    {
+      "category": "Nordic Countries",
+      "value": 60
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the position of points on the y-axis. Some values may not be precise due to the scale and resolution of the chart.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753828321_3126",
+    "image_path": "data\\perturbations\\chart_046_medium_line_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-29T23:32:09.329276",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.390198230743408,
+    "chart_metadata": {
+      "original_chart_id": "chart_046_medium_line_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 96.5
+    },
+    {
+      "category": "Category 2",
+      "value": 53.2
+    },
+    {
+      "category": "Category 3",
+      "value": 32.8
+    },
+    {
+      "category": "Category 4",
+      "value": 77.6
+    },
+    {
+      "category": "Category 5",
+      "value": 44.8
+    },
+    {
+      "category": "Category 6",
+      "value": 46.8
+    },
+    {
+      "category": "Category 7",
+      "value": 21.2
+    },
+    {
+      "category": "Category 8",
+      "value": 73.1
+    },
+    {
+      "category": "Category 9",
+      "value": 40.6
+    },
+    {
+      "category": "Category 10",
+      "value": 43.7
+    },
+    {
+      "category": "Category 11",
+      "value": 14.5
+    },
+    {
+      "category": "Category 12",
+      "value": 36.5
+    },
+    {
+      "category": "Category 13",
+      "value": 54.4
+    },
+    {
+      "category": "Category 14",
+      "value": 70.2
+    },
+    {
+      "category": "Category 15",
+      "value": 9.5
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart is cluttered with overlapping lines and labels, making it difficult to extract all data points with high precision. Some values may be obscured or misinterpreted due to overlapping elements.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753831557_8861",
+    "image_path": "data\\perturbations\\chart_195_advanced_line_rotation_medium.png",
+    "extraction_timestamp": "2025-07-30T00:26:12.144096",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 14.46207594871521,
+    "chart_metadata": {
+      "original_chart_id": "chart_195_advanced_line",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

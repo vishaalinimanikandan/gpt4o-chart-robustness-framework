@@ -1,0 +1,84 @@
+{
+  "chart_title": "Risk Return Analysis - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 20
+    },
+    {
+      "category": "Category 2",
+      "value": 60
+    },
+    {
+      "category": "Category 3",
+      "value": 40
+    },
+    {
+      "category": "Category 4",
+      "value": 50
+    },
+    {
+      "category": "Category 5",
+      "value": 70
+    },
+    {
+      "category": "Category 6",
+      "value": 80
+    },
+    {
+      "category": "Category 7",
+      "value": 60
+    },
+    {
+      "category": "Category 1",
+      "value": 80
+    },
+    {
+      "category": "Category 2",
+      "value": 100
+    },
+    {
+      "category": "Category 3",
+      "value": 20
+    },
+    {
+      "category": "Category 4",
+      "value": 90
+    },
+    {
+      "category": "Category 5",
+      "value": 30
+    },
+    {
+      "category": "Category 6",
+      "value": 40
+    },
+    {
+      "category": "Category 7",
+      "value": 10
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the position on the y-axis. Series A and Series B are combined in the data list.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753823918_3538",
+    "image_path": "data\\perturbations\\chart_102_medium_line_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-29T22:18:48.031875",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.110988140106201,
+    "chart_metadata": {
+      "original_chart_id": "chart_102_medium_line_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

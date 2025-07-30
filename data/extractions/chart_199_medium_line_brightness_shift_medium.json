@@ -1,0 +1,60 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 75
+    },
+    {
+      "category": "Category 2",
+      "value": 60
+    },
+    {
+      "category": "Category 3",
+      "value": 65
+    },
+    {
+      "category": "Category 4",
+      "value": 45
+    },
+    {
+      "category": "Category 5",
+      "value": 70
+    },
+    {
+      "category": "Category 6",
+      "value": 50
+    },
+    {
+      "category": "Category 7",
+      "value": 80
+    },
+    {
+      "category": "Category 8",
+      "value": 55
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on visual inspection. Exact values may vary slightly.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753819594_1710",
+    "image_path": "data\\perturbations\\chart_199_medium_line_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-29T21:06:44.669302",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.029465675354004,
+    "chart_metadata": {
+      "original_chart_id": "chart_199_medium_line_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

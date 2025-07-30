@@ -1,0 +1,80 @@
+{
+  "chart_title": "Treatment Efficacy Analysis - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 70.3
+    },
+    {
+      "category": "Category 2",
+      "value": 74.3
+    },
+    {
+      "category": "Category 3",
+      "value": 54.1
+    },
+    {
+      "category": "Category 4",
+      "value": 49.3
+    },
+    {
+      "category": "Category 5",
+      "value": 68.5
+    },
+    {
+      "category": "Category 6",
+      "value": 91.9
+    },
+    {
+      "category": "Category 7",
+      "value": 75.9
+    },
+    {
+      "category": "Category 8",
+      "value": 48.1
+    },
+    {
+      "category": "Category 9",
+      "value": 36.4
+    },
+    {
+      "category": "Category 10",
+      "value": 27.9
+    },
+    {
+      "category": "Category 11",
+      "value": 39.5
+    },
+    {
+      "category": "Category 12",
+      "value": 72.5
+    },
+    {
+      "category": "Category 13",
+      "value": 63.1
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some data points are partially obscured by black squares, which may affect accuracy.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753821699_6375",
+    "image_path": "data\\perturbations\\chart_067_advanced_line_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T21:41:51.569060",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.450602769851685,
+    "chart_metadata": {
+      "original_chart_id": "chart_067_advanced_line_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

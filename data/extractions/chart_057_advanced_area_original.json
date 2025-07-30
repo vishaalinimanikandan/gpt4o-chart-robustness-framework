@@ -1,0 +1,135 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Condition A - Control",
+      "value": 62.6
+    },
+    {
+      "category": "Condition A - Treatment 1",
+      "value": 70.3
+    },
+    {
+      "category": "Condition A - Treatment 2",
+      "value": 92.3
+    },
+    {
+      "category": "Condition A - Treatment 3",
+      "value": 56.3
+    },
+    {
+      "category": "Condition B - Control",
+      "value": 72.7
+    },
+    {
+      "category": "Condition B - Treatment 1",
+      "value": 67.9
+    },
+    {
+      "category": "Condition B - Treatment 2",
+      "value": 82.5
+    },
+    {
+      "category": "Condition B - Treatment 3",
+      "value": 81.4
+    },
+    {
+      "category": "Condition C - Control",
+      "value": 69.8
+    },
+    {
+      "category": "Condition C - Treatment 1",
+      "value": 77.1
+    },
+    {
+      "category": "Condition C - Treatment 2",
+      "value": 83.3
+    },
+    {
+      "category": "Condition C - Treatment 3",
+      "value": 78.9
+    },
+    {
+      "category": "Condition D - Control",
+      "value": 73.1
+    },
+    {
+      "category": "Condition D - Treatment 1",
+      "value": 71.4
+    },
+    {
+      "category": "Condition D - Treatment 2",
+      "value": 82.7
+    },
+    {
+      "category": "Condition D - Treatment 3",
+      "value": 60.0
+    },
+    {
+      "category": "Condition E - Control",
+      "value": 66.7
+    },
+    {
+      "category": "Condition E - Treatment 1",
+      "value": 84.8
+    },
+    {
+      "category": "Condition E - Treatment 2",
+      "value": 92.5
+    },
+    {
+      "category": "Condition E - Treatment 3",
+      "value": 80.5
+    },
+    {
+      "category": "Condition F - Control",
+      "value": 66.7
+    },
+    {
+      "category": "Condition F - Treatment 1",
+      "value": 80.6
+    },
+    {
+      "category": "Condition F - Treatment 2",
+      "value": 80.6
+    },
+    {
+      "category": "Condition F - Treatment 3",
+      "value": 72.0
+    },
+    {
+      "category": "Condition G - Control",
+      "value": 72.2
+    },
+    {
+      "category": "Condition G - Treatment 1",
+      "value": 80.1
+    },
+    {
+      "category": "Condition G - Treatment 2",
+      "value": 89.5
+    },
+    {
+      "category": "Condition G - Treatment 3",
+      "value": 56.0
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points were extracted clearly from the chart. The chart is a line chart with multiple data series.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753813919_6168",
+    "image_path": "data\\raw_charts\\chart_057_advanced_area.png",
+    "extraction_timestamp": "2025-07-29T19:33:53.640654",
+    "model": "gpt-4o",
+    "attempt_number": 2,
+    "response_time": 113.712078332901,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

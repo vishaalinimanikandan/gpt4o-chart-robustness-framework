@@ -1,0 +1,52 @@
+{
+  "chart_title": "Treatment Efficacy Analysis - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 40
+    },
+    {
+      "category": "Category 2",
+      "value": 70
+    },
+    {
+      "category": "Category 3",
+      "value": 90
+    },
+    {
+      "category": "Category 4",
+      "value": 30
+    },
+    {
+      "category": "Category 5",
+      "value": 20
+    },
+    {
+      "category": "Category 6",
+      "value": 50
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart is partially obscured, making it difficult to extract precise values. The values are estimated based on visible data points.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753828966_2330",
+    "image_path": "data\\perturbations\\chart_051_medium_line_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T23:42:52.099171",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 5.49632453918457,
+    "chart_metadata": {
+      "original_chart_id": "chart_051_medium_line_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

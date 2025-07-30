@@ -1,0 +1,80 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 95.3
+    },
+    {
+      "category": "Condition B",
+      "value": 87.1
+    },
+    {
+      "category": "Condition C",
+      "value": 83.2
+    },
+    {
+      "category": "Condition D",
+      "value": 75.2
+    },
+    {
+      "category": "Condition E",
+      "value": 70.2
+    },
+    {
+      "category": "Condition F",
+      "value": 97.5
+    },
+    {
+      "category": "Condition G",
+      "value": 87.5
+    },
+    {
+      "category": "Condition H",
+      "value": 80.1
+    },
+    {
+      "category": "Condition I",
+      "value": 72.8
+    },
+    {
+      "category": "Condition J",
+      "value": 69.4
+    },
+    {
+      "category": "Condition K",
+      "value": 95.1
+    },
+    {
+      "category": "Condition L",
+      "value": 92.2
+    },
+    {
+      "category": "Condition M",
+      "value": 89.6
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart is cluttered with overlapping data points and labels, making it difficult to extract all values with high precision. Some values may be obscured.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753828266_6912",
+    "image_path": "data\\perturbations\\chart_056_advanced_area_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T23:31:17.106332",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.260650396347046,
+    "chart_metadata": {
+      "original_chart_id": "chart_056_advanced_area",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

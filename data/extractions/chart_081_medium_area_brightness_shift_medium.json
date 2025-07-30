@@ -1,0 +1,56 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 40
+    },
+    {
+      "category": "Category 2",
+      "value": 60
+    },
+    {
+      "category": "Category 3",
+      "value": 80
+    },
+    {
+      "category": "Category 4",
+      "value": 100
+    },
+    {
+      "category": "Category 5",
+      "value": 60
+    },
+    {
+      "category": "Category 6",
+      "value": 80
+    },
+    {
+      "category": "Category 7",
+      "value": 60
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on visual inspection of the chart. Exact values may vary slightly.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753824498_4178",
+    "image_path": "data\\perturbations\\chart_081_medium_area_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-29T22:28:26.533853",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.656274318695068,
+    "chart_metadata": {
+      "original_chart_id": "chart_081_medium_area_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

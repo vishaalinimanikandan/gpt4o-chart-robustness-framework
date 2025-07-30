@@ -1,0 +1,93 @@
+{
+  "chart_title": "Market Share Analysis - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 60,
+      "series": "Series A"
+    },
+    {
+      "category": "Category 2",
+      "value": 70,
+      "series": "Series A"
+    },
+    {
+      "category": "Category 3",
+      "value": 80,
+      "series": "Series A"
+    },
+    {
+      "category": "Category 4",
+      "value": 60,
+      "series": "Series A"
+    },
+    {
+      "category": "Category 5",
+      "value": 30,
+      "series": "Series A"
+    },
+    {
+      "category": "Category 6",
+      "value": 70,
+      "series": "Series A"
+    },
+    {
+      "category": "Category 7",
+      "value": 50,
+      "series": "Series A"
+    },
+    {
+      "category": "Category 1",
+      "value": 70,
+      "series": "Series B"
+    },
+    {
+      "category": "Category 2",
+      "value": 110,
+      "series": "Series B"
+    },
+    {
+      "category": "Category 3",
+      "value": 100,
+      "series": "Series B"
+    },
+    {
+      "category": "Category 4",
+      "value": 40,
+      "series": "Series B"
+    },
+    {
+      "category": "Category 5",
+      "value": 60,
+      "series": "Series B"
+    },
+    {
+      "category": "Category 6",
+      "value": 20,
+      "series": "Series B"
+    },
+    {
+      "category": "Category 7",
+      "value": 100,
+      "series": "Series B"
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Values were clear and distinct. No ambiguities in the data points.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753813572_8428",
+    "image_path": "data\\raw_charts\\chart_039_medium_line.png",
+    "extraction_timestamp": "2025-07-29T19:26:27.528948",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 15.289037466049194,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

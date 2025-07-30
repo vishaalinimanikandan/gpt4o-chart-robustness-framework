@@ -1,0 +1,84 @@
+{
+  "chart_title": "Economic Indicators - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 80.6
+    },
+    {
+      "category": "Category 2",
+      "value": 61.5
+    },
+    {
+      "category": "Category 3",
+      "value": 50.1
+    },
+    {
+      "category": "Category 4",
+      "value": 38.8
+    },
+    {
+      "category": "Category 5",
+      "value": 32.5
+    },
+    {
+      "category": "Category 6",
+      "value": 21.8
+    },
+    {
+      "category": "Category 7",
+      "value": 88.7
+    },
+    {
+      "category": "Category 8",
+      "value": 49.4
+    },
+    {
+      "category": "Category 9",
+      "value": 37.0
+    },
+    {
+      "category": "Category 10",
+      "value": 22.8
+    },
+    {
+      "category": "Category 11",
+      "value": 13.7
+    },
+    {
+      "category": "Category 12",
+      "value": 90.8
+    },
+    {
+      "category": "Category 13",
+      "value": 81.2
+    },
+    {
+      "category": "Category 14",
+      "value": 40.0
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some data points are obscured by overlapping lines and shaded areas, which may affect precision.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753818180_9807",
+    "image_path": "data\\perturbations\\chart_109_advanced_line_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T20:44:18.064232",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 77.26444292068481,
+    "chart_metadata": {
+      "original_chart_id": "chart_109_advanced_line_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

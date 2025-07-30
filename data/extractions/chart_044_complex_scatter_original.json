@@ -1,0 +1,56 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Q1 '22",
+      "value": {
+        "revenue": 0.85,
+        "profit": 0.08
+      }
+    },
+    {
+      "category": "Q2 '22",
+      "value": {
+        "revenue": 0.9,
+        "profit": 0.12
+      }
+    },
+    {
+      "category": "Q3 '22",
+      "value": {
+        "revenue": 1.0,
+        "profit": 0.1
+      }
+    },
+    {
+      "category": "Q4 '22",
+      "value": {
+        "revenue": 1.2,
+        "profit": 0.2
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Data points are estimated based on the scatter plot grid. Exact values may vary slightly.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753813639_4432",
+    "image_path": "data\\raw_charts\\chart_044_complex_scatter.png",
+    "extraction_timestamp": "2025-07-29T19:27:26.805619",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.24692177772522,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'revenue': 0.85, 'profit': 0.08}",
+      "Data point 1 has invalid value: {'revenue': 0.9, 'profit': 0.12}",
+      "Data point 2 has invalid value: {'revenue': 1.0, 'profit': 0.1}",
+      "Data point 3 has invalid value: {'revenue': 1.2, 'profit': 0.2}"
+    ]
+  }
+}

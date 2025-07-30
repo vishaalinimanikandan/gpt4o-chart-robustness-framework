@@ -1,0 +1,56 @@
+{
+  "chart_title": "Quality Control Metrics - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 50
+    },
+    {
+      "category": "Category 2",
+      "value": 90
+    },
+    {
+      "category": "Category 3",
+      "value": 40
+    },
+    {
+      "category": "Category 4",
+      "value": 20
+    },
+    {
+      "category": "Category 5",
+      "value": 80
+    },
+    {
+      "category": "Category 6",
+      "value": 70
+    },
+    {
+      "category": "Category 7",
+      "value": 60
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the visual position on the y-axis. Exact values are not labeled.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753833404_2341",
+    "image_path": "data\\perturbations\\chart_191_medium_line_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-30T00:56:52.175660",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.108523845672607,
+    "chart_metadata": {
+      "original_chart_id": "chart_191_medium_line_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

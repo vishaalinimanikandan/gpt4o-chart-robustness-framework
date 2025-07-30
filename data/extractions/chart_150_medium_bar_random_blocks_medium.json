@@ -1,0 +1,29 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [],
+  "extraction_confidence": "low",
+  "extraction_notes": "The chart is heavily obscured by black squares, making it impossible to accurately extract any data points or labels.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753822908_1616",
+    "image_path": "data\\perturbations\\chart_150_medium_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T22:01:53.599280",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 5.054380655288696,
+    "chart_metadata": {
+      "original_chart_id": "chart_150_medium_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [
+      "Only 0 data points extracted"
+    ],
+    "errors": []
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 88.8
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 87.0
+    },
+    {
+      "category": "Category 1 - Series C",
+      "value": 82.0
+    },
+    {
+      "category": "Category 1 - Series D",
+      "value": 27.0
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 93.4
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 70.5
+    },
+    {
+      "category": "Category 2 - Series C",
+      "value": 51.6
+    },
+    {
+      "category": "Category 2 - Series D",
+      "value": 39.3
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 98.2
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 72.9
+    },
+    {
+      "category": "Category 3 - Series C",
+      "value": 54.4
+    },
+    {
+      "category": "Category 3 - Series D",
+      "value": 38.3
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 77.2
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 91.9
+    },
+    {
+      "category": "Category 4 - Series C",
+      "value": 54.1
+    },
+    {
+      "category": "Category 4 - Series D",
+      "value": 36.6
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 64.8
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 62.3
+    },
+    {
+      "category": "Category 5 - Series C",
+      "value": 59.2
+    },
+    {
+      "category": "Category 5 - Series D",
+      "value": 32.3
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 63.5
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 44.4
+    },
+    {
+      "category": "Category 6 - Series C",
+      "value": 39.4
+    },
+    {
+      "category": "Category 6 - Series D",
+      "value": 25.9
+    },
+    {
+      "category": "Category 7 - Series A",
+      "value": 104.4
+    },
+    {
+      "category": "Category 7 - Series B",
+      "value": 54.4
+    },
+    {
+      "category": "Category 7 - Series C",
+      "value": 42.7
+    },
+    {
+      "category": "Category 7 - Series D",
+      "value": 13.7
+    },
+    {
+      "category": "Category 8 - Series A",
+      "value": 101.4
+    },
+    {
+      "category": "Category 8 - Series B",
+      "value": 82.2
+    },
+    {
+      "category": "Category 8 - Series C",
+      "value": 58.1
+    },
+    {
+      "category": "Category 8 - Series D",
+      "value": 33.3
+    },
+    {
+      "category": "Category 9 - Series A",
+      "value": 101.5
+    },
+    {
+      "category": "Category 9 - Series B",
+      "value": 85.4
+    },
+    {
+      "category": "Category 9 - Series C",
+      "value": 41.8
+    },
+    {
+      "category": "Category 9 - Series D",
+      "value": 29.2
+    },
+    {
+      "category": "Category 10 - Series A",
+      "value": 101.3
+    },
+    {
+      "category": "Category 10 - Series B",
+      "value": 75.4
+    },
+    {
+      "category": "Category 10 - Series C",
+      "value": 37.6
+    },
+    {
+      "category": "Category 10 - Series D",
+      "value": 30.2
+    },
+    {
+      "category": "Category 11 - Series A",
+      "value": 89.2
+    },
+    {
+      "category": "Category 11 - Series B",
+      "value": 78.0
+    },
+    {
+      "category": "Category 11 - Series C",
+      "value": 37.6
+    },
+    {
+      "category": "Category 11 - Series D",
+      "value": 30.2
+    },
+    {
+      "category": "Category 12 - Series A",
+      "value": 76.6
+    },
+    {
+      "category": "Category 12 - Series B",
+      "value": 78.6
+    },
+    {
+      "category": "Category 12 - Series C",
+      "value": 33.3
+    },
+    {
+      "category": "Category 12 - Series D",
+      "value": 22.0
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values were extracted clearly from the chart. The chart is slightly tilted, but values are legible.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753828088_6922",
+    "image_path": "data\\perturbations\\chart_083_complex_bar_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T23:30:11.160406",
+    "model": "gpt-4o",
+    "attempt_number": 2,
+    "response_time": 122.49211096763611,
+    "chart_metadata": {
+      "original_chart_id": "chart_083_complex_bar",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Q1 '22 Revenue ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q1 '22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q1 '22 Revenue ($M)",
+      "value": 1.2
+    },
+    {
+      "category": "Q1 '22 Profit ($M)",
+      "value": 0.3
+    },
+    {
+      "category": "Q1 '22 Revenue ($M)",
+      "value": 1.1
+    },
+    {
+      "category": "Q1 '22 Profit ($M)",
+      "value": 0.25
+    },
+    {
+      "category": "Q2 '22 Revenue ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q2 '22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q2 '22 Revenue ($M)",
+      "value": 1.2
+    },
+    {
+      "category": "Q2 '22 Profit ($M)",
+      "value": 0.3
+    },
+    {
+      "category": "Q3 '22 Revenue ($M)",
+      "value": 1.1
+    },
+    {
+      "category": "Q3 '22 Profit ($M)",
+      "value": 0.25
+    }
+  ],
+  "extraction_confidence": "low",
+  "extraction_notes": "The image is heavily obscured by black squares, making it difficult to extract data accurately. Some values and labels may be incorrect or missing.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753825706_2029",
+    "image_path": "data\\perturbations\\chart_026_medium_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T22:49:15.003478",
+    "model": "gpt-4o",
+    "attempt_number": 2,
+    "response_time": 48.803369998931885,
+    "chart_metadata": {
+      "original_chart_id": "chart_026_medium_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

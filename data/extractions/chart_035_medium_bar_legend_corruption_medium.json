@@ -1,0 +1,76 @@
+{
+  "chart_title": "Product Line Profitability - (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Blue",
+      "value": 60
+    },
+    {
+      "category": "Category 1 - Orange",
+      "value": 55
+    },
+    {
+      "category": "Category 2 - Blue",
+      "value": 45
+    },
+    {
+      "category": "Category 2 - Orange",
+      "value": 10
+    },
+    {
+      "category": "Category 3 - Blue",
+      "value": 50
+    },
+    {
+      "category": "Category 3 - Orange",
+      "value": 30
+    },
+    {
+      "category": "Category 4 - Blue",
+      "value": 70
+    },
+    {
+      "category": "Category 4 - Orange",
+      "value": 20
+    },
+    {
+      "category": "Category 5 - Blue",
+      "value": 65
+    },
+    {
+      "category": "Category 5 - Orange",
+      "value": 40
+    },
+    {
+      "category": "Category 6 - Blue",
+      "value": 50
+    },
+    {
+      "category": "Category 6 - Orange",
+      "value": 45
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly visible and distinguishable. No ambiguities in the values.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753826696_6848",
+    "image_path": "data\\perturbations\\chart_035_medium_bar_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T23:05:09.498613",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.655987739562988,
+    "chart_metadata": {
+      "original_chart_id": "chart_035_medium_bar_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

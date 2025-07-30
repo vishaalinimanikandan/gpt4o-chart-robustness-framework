@@ -1,0 +1,84 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 10.6
+    },
+    {
+      "category": "Category 2",
+      "value": 4.2
+    },
+    {
+      "category": "Category 3",
+      "value": 5.1
+    },
+    {
+      "category": "Category 4",
+      "value": 7.7
+    },
+    {
+      "category": "Category 5",
+      "value": 5.8
+    },
+    {
+      "category": "Category 6",
+      "value": 7.7
+    },
+    {
+      "category": "Category 7",
+      "value": 9.1
+    },
+    {
+      "category": "Category 8",
+      "value": 7.9
+    },
+    {
+      "category": "Category 9",
+      "value": 5.2
+    },
+    {
+      "category": "Category 10",
+      "value": 3.1
+    },
+    {
+      "category": "Category 11",
+      "value": 3.7
+    },
+    {
+      "category": "Category 12",
+      "value": 10.6
+    },
+    {
+      "category": "Category 13",
+      "value": 11.4
+    },
+    {
+      "category": "Category 14",
+      "value": 4.7
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data extracted from pie chart with clear labels and values.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753827394_3339",
+    "image_path": "data\\perturbations\\chart_187_advanced_pie_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T23:16:42.918925",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.602554321289062,
+    "chart_metadata": {
+      "original_chart_id": "chart_187_advanced_pie_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

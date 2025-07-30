@@ -1,0 +1,59 @@
+{
+  "chart_title": "Customer Satisfaction Metrics - (Business Analytics)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 6.7
+    },
+    {
+      "category": "Category 2",
+      "value": 13.8
+    },
+    {
+      "category": "Category 3",
+      "value": 13.3
+    },
+    {
+      "category": "Category 4",
+      "value": 5.3
+    },
+    {
+      "category": "Category 5",
+      "value": 10.8
+    },
+    {
+      "category": "Category 6",
+      "value": 10.7
+    },
+    {
+      "category": "Category 7",
+      "value": 9.4
+    },
+    {
+      "category": "Category 8",
+      "value": 15.6
+    },
+    {
+      "category": "Category 9",
+      "value": 14.4
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All text and values are clear and legible.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753813691_9751",
+    "image_path": "data\\raw_charts\\chart_048_medium_pie.png",
+    "extraction_timestamp": "2025-07-29T19:28:21.044343",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.00220537185669,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

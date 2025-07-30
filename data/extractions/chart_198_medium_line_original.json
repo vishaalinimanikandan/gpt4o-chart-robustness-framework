@@ -1,0 +1,47 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 30
+    },
+    {
+      "category": "Category 2",
+      "value": 40
+    },
+    {
+      "category": "Category 3",
+      "value": 80
+    },
+    {
+      "category": "Category 4",
+      "value": 70
+    },
+    {
+      "category": "Category 5",
+      "value": 50
+    },
+    {
+      "category": "Category 6",
+      "value": 40
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the visual position on the y-axis. Series A and Series B are not distinguished in this extraction.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753817594_2312",
+    "image_path": "data\\raw_charts\\chart_198_medium_line.png",
+    "extraction_timestamp": "2025-07-29T20:33:25.237233",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.018996953964233,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

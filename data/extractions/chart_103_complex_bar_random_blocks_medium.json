@@ -1,0 +1,148 @@
+{
+  "chart_title": "Economic Indicators - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 44.5
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 50.5
+    },
+    {
+      "category": "Category 1 - Series C",
+      "value": 30.3
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 87.0
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 70.1
+    },
+    {
+      "category": "Category 2 - Series C",
+      "value": 62.8
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 36.1
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 66.6
+    },
+    {
+      "category": "Category 3 - Series C",
+      "value": 22.2
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 38.0
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 50.8
+    },
+    {
+      "category": "Category 4 - Series C",
+      "value": 16.0
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 72.2
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 78.7
+    },
+    {
+      "category": "Category 5 - Series C",
+      "value": 48.0
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 40.8
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 35.8
+    },
+    {
+      "category": "Category 6 - Series C",
+      "value": 40.8
+    },
+    {
+      "category": "Category 7 - Series A",
+      "value": 64.4
+    },
+    {
+      "category": "Category 7 - Series B",
+      "value": 65.9
+    },
+    {
+      "category": "Category 7 - Series C",
+      "value": 67.4
+    },
+    {
+      "category": "Category 8 - Series A",
+      "value": 58.3
+    },
+    {
+      "category": "Category 8 - Series B",
+      "value": 52.3
+    },
+    {
+      "category": "Category 8 - Series C",
+      "value": 13.1
+    },
+    {
+      "category": "Category 9 - Series A",
+      "value": 105.5
+    },
+    {
+      "category": "Category 9 - Series B",
+      "value": 80.9
+    },
+    {
+      "category": "Category 9 - Series C",
+      "value": 96.6
+    },
+    {
+      "category": "Category 10 - Series A",
+      "value": 52.3
+    },
+    {
+      "category": "Category 10 - Series B",
+      "value": 47.9
+    },
+    {
+      "category": "Category 10 - Series C",
+      "value": 40.8
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "The chart is clear and data points are well-labeled. No significant extraction difficulties encountered.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753823990_1618",
+    "image_path": "data\\perturbations\\chart_103_complex_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T22:20:13.091119",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 22.254910230636597,
+    "chart_metadata": {
+      "original_chart_id": "chart_103_complex_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

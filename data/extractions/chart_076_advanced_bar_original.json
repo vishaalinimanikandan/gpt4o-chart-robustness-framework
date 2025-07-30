@@ -1,0 +1,75 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 41.2
+    },
+    {
+      "category": "Category 2",
+      "value": 53.1
+    },
+    {
+      "category": "Category 3",
+      "value": 57.9
+    },
+    {
+      "category": "Category 4",
+      "value": 47.6
+    },
+    {
+      "category": "Category 5",
+      "value": 51.8
+    },
+    {
+      "category": "Category 6",
+      "value": 35.4
+    },
+    {
+      "category": "Category 7",
+      "value": 56.6
+    },
+    {
+      "category": "Category 8",
+      "value": 57.8
+    },
+    {
+      "category": "Category 9",
+      "value": 36.0
+    },
+    {
+      "category": "Category 10",
+      "value": 40.6
+    },
+    {
+      "category": "Category 11",
+      "value": 44.1
+    },
+    {
+      "category": "Category 12",
+      "value": 38.6
+    },
+    {
+      "category": "Category 13",
+      "value": 60.9
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points extracted from visible labels on the chart. Series labels and values are clear.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753814357_2796",
+    "image_path": "data\\raw_charts\\chart_076_advanced_bar.png",
+    "extraction_timestamp": "2025-07-29T19:39:28.782305",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.816740036010742,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

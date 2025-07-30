@@ -1,0 +1,63 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Q2 '22",
+      "value": 0.25
+    },
+    {
+      "category": "Q4 '22",
+      "value": 0.1
+    },
+    {
+      "category": "Q1 '23",
+      "value": 0.15
+    },
+    {
+      "category": "Q3 '22",
+      "value": 0.2
+    },
+    {
+      "category": "Q5 '23",
+      "value": 0.05
+    },
+    {
+      "category": "Q1 '22",
+      "value": 0.1
+    },
+    {
+      "category": "Q4 '22",
+      "value": 0.05
+    },
+    {
+      "category": "Q2 '22",
+      "value": 0.1
+    },
+    {
+      "category": "Q3 '22",
+      "value": 0.15
+    },
+    {
+      "category": "Q5 '23",
+      "value": 0.25
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Data points are overlapping and some labels are unclear. The exact values are estimated based on the chart's scale.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753813301_8527",
+    "image_path": "data\\raw_charts\\chart_024_advanced_scatter.png",
+    "extraction_timestamp": "2025-07-29T19:21:55.402902",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 13.658952713012695,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

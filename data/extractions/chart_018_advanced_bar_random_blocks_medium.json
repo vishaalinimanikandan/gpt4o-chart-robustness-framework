@@ -1,0 +1,80 @@
+{
+  "chart_title": "Market Share Analysis (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 83.6
+    },
+    {
+      "category": "Category 2",
+      "value": 96.2
+    },
+    {
+      "category": "Category 3",
+      "value": 99.2
+    },
+    {
+      "category": "Category 4",
+      "value": 84.4
+    },
+    {
+      "category": "Category 5",
+      "value": 106
+    },
+    {
+      "category": "Category 6",
+      "value": 88.1
+    },
+    {
+      "category": "Category 7",
+      "value": 93.0
+    },
+    {
+      "category": "Category 8",
+      "value": 88.3
+    },
+    {
+      "category": "Category 9",
+      "value": 90.5
+    },
+    {
+      "category": "Category 10",
+      "value": 89.2
+    },
+    {
+      "category": "Category 11",
+      "value": 95.5
+    },
+    {
+      "category": "Category 12",
+      "value": 112.8
+    },
+    {
+      "category": "Category 13",
+      "value": 88.9
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some values and labels are partially obscured by black squares, which may affect accuracy.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753826868_4060",
+    "image_path": "data\\perturbations\\chart_018_advanced_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T23:08:02.453413",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 13.584328651428223,
+    "chart_metadata": {
+      "original_chart_id": "chart_018_advanced_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

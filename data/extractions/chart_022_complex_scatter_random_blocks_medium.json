@@ -1,0 +1,77 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Asia Pacific",
+      "value": {
+        "Product A": 300,
+        "Product B": 350
+      }
+    },
+    {
+      "category": "Europe",
+      "value": {
+        "Product A": 200,
+        "Product B": 200
+      }
+    },
+    {
+      "category": "North America",
+      "value": {
+        "Product A": 100,
+        "Product B": 100
+      }
+    },
+    {
+      "category": "Latin America",
+      "value": {
+        "Product A": 50,
+        "Product B": 50
+      }
+    },
+    {
+      "category": "Middle East",
+      "value": {
+        "Product A": 25,
+        "Product B": 25
+      }
+    },
+    {
+      "category": "Nordic Countries",
+      "value": {
+        "Product A": 10,
+        "Product B": 10
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Data points are estimated based on the scatter plot positions. Some labels are small and may be difficult to read precisely.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753827083_2680",
+    "image_path": "data\\perturbations\\chart_022_complex_scatter_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T23:11:34.539242",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.020426273345947,
+    "chart_metadata": {
+      "original_chart_id": "chart_022_complex_scatter_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'Product A': 300, 'Product B': 350}",
+      "Data point 1 has invalid value: {'Product A': 200, 'Product B': 200}",
+      "Data point 2 has invalid value: {'Product A': 100, 'Product B': 100}",
+      "Data point 3 has invalid value: {'Product A': 50, 'Product B': 50}",
+      "Data point 4 has invalid value: {'Product A': 25, 'Product B': 25}",
+      "Data point 5 has invalid value: {'Product A': 10, 'Product B': 10}"
+    ]
+  }
+}

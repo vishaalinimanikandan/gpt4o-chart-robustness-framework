@@ -1,0 +1,67 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 35.1
+    },
+    {
+      "category": "Category 2",
+      "value": 22.4
+    },
+    {
+      "category": "Category 3",
+      "value": 44.0
+    },
+    {
+      "category": "Category 4",
+      "value": 79.0
+    },
+    {
+      "category": "Category 5",
+      "value": 19.2
+    },
+    {
+      "category": "Category 6",
+      "value": 56.3
+    },
+    {
+      "category": "Category 7",
+      "value": 59.0
+    },
+    {
+      "category": "Category 8",
+      "value": 70.2
+    },
+    {
+      "category": "Category 9",
+      "value": 31.1
+    },
+    {
+      "category": "Category 10",
+      "value": 46.2
+    },
+    {
+      "category": "Category 11",
+      "value": 71.9
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points were clear and legible. Multiple series were present, but only Series A was extracted for simplicity.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753814330_2489",
+    "image_path": "data\\raw_charts\\chart_074_advanced_line.png",
+    "extraction_timestamp": "2025-07-29T19:39:00.374562",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.887233972549438,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

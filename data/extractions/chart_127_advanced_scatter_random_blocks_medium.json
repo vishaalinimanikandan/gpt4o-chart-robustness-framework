@@ -1,0 +1,109 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Sep 2024",
+      "value": {
+        "Stocks": 100,
+        "Bonds": 102.5
+      }
+    },
+    {
+      "category": "Oct 2024",
+      "value": {
+        "Stocks": 101,
+        "Bonds": 100
+      }
+    },
+    {
+      "category": "Nov 2024",
+      "value": {
+        "Stocks": 98,
+        "Bonds": 100
+      }
+    },
+    {
+      "category": "Dec 2024",
+      "value": {
+        "Stocks": 95,
+        "Bonds": 97.5
+      }
+    },
+    {
+      "category": "Jan 2025",
+      "value": {
+        "Stocks": 105,
+        "Bonds": 105
+      }
+    },
+    {
+      "category": "Mar 2025",
+      "value": {
+        "Stocks": 110,
+        "Bonds": 107.5
+      }
+    },
+    {
+      "category": "Apr 2025",
+      "value": {
+        "Stocks": 103,
+        "Bonds": 105
+      }
+    },
+    {
+      "category": "May 2025",
+      "value": {
+        "Stocks": 104,
+        "Bonds": 105
+      }
+    },
+    {
+      "category": "Jun 2025",
+      "value": {
+        "Stocks": 115,
+        "Bonds": 110
+      }
+    },
+    {
+      "category": "Jul 2025",
+      "value": {
+        "Stocks": 117,
+        "Bonds": 112.5
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Data points are estimated based on the scatter plot positions. Some labels are partially obscured.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753818259_9850",
+    "image_path": "data\\perturbations\\chart_127_advanced_scatter_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T20:44:34.587363",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 15.520854473114014,
+    "chart_metadata": {
+      "original_chart_id": "chart_127_advanced_scatter_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'Stocks': 100, 'Bonds': 102.5}",
+      "Data point 1 has invalid value: {'Stocks': 101, 'Bonds': 100}",
+      "Data point 2 has invalid value: {'Stocks': 98, 'Bonds': 100}",
+      "Data point 3 has invalid value: {'Stocks': 95, 'Bonds': 97.5}",
+      "Data point 4 has invalid value: {'Stocks': 105, 'Bonds': 105}",
+      "Data point 5 has invalid value: {'Stocks': 110, 'Bonds': 107.5}",
+      "Data point 6 has invalid value: {'Stocks': 103, 'Bonds': 105}",
+      "Data point 7 has invalid value: {'Stocks': 104, 'Bonds': 105}",
+      "Data point 8 has invalid value: {'Stocks': 115, 'Bonds': 110}",
+      "Data point 9 has invalid value: {'Stocks': 117, 'Bonds': 112.5}"
+    ]
+  }
+}

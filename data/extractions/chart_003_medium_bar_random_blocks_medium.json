@@ -1,0 +1,92 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "North America - Product A",
+      "value": 150
+    },
+    {
+      "category": "North America - Product B",
+      "value": 250
+    },
+    {
+      "category": "Europe - Product A",
+      "value": 200
+    },
+    {
+      "category": "Europe - Product B",
+      "value": 300
+    },
+    {
+      "category": "Asia Pacific - Product A",
+      "value": 100
+    },
+    {
+      "category": "Asia Pacific - Product B",
+      "value": 50
+    },
+    {
+      "category": "Latin America - Product A",
+      "value": 180
+    },
+    {
+      "category": "Latin America - Product B",
+      "value": 220
+    },
+    {
+      "category": "Middle East - Product A",
+      "value": 120
+    },
+    {
+      "category": "Middle East - Product B",
+      "value": 180
+    },
+    {
+      "category": "Africa - Product A",
+      "value": 60
+    },
+    {
+      "category": "Africa - Product B",
+      "value": 40
+    },
+    {
+      "category": "Oceania - Product A",
+      "value": 80
+    },
+    {
+      "category": "Oceania - Product B",
+      "value": 70
+    },
+    {
+      "category": "Nordic Countries - Product A",
+      "value": 130
+    },
+    {
+      "category": "Nordic Countries - Product B",
+      "value": 90
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points were clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753822894_8404",
+    "image_path": "data\\perturbations\\chart_003_medium_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T22:01:47.533622",
+    "model": "gpt-4o",
+    "attempt_number": 2,
+    "response_time": 13.530536651611328,
+    "chart_metadata": {
+      "original_chart_id": "chart_003_medium_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

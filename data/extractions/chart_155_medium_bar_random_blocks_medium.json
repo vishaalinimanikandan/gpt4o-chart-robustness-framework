@@ -1,0 +1,29 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "grouped_bar",
+  "data": [],
+  "extraction_confidence": "low",
+  "extraction_notes": "The image is heavily obscured with black squares, making it impossible to accurately extract any data points or labels.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753823332_5634",
+    "image_path": "data\\perturbations\\chart_155_medium_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T22:08:56.748675",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 3.9043242931365967,
+    "chart_metadata": {
+      "original_chart_id": "chart_155_medium_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [
+      "Only 0 data points extracted"
+    ],
+    "errors": []
+  }
+}

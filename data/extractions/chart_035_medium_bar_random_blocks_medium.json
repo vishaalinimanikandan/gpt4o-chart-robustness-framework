@@ -1,0 +1,29 @@
+{
+  "chart_title": "Product Line Profitability - (Business Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [],
+  "extraction_confidence": "low",
+  "extraction_notes": "The chart is heavily obscured by black squares, making it impossible to accurately extract numerical values and labels.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753829747_8491",
+    "image_path": "data\\perturbations\\chart_035_medium_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T23:55:52.284620",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 4.311083555221558,
+    "chart_metadata": {
+      "original_chart_id": "chart_035_medium_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [
+      "Only 0 data points extracted"
+    ],
+    "errors": []
+  }
+}

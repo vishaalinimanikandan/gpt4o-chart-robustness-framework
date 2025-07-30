@@ -1,0 +1,183 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "North America - Product A",
+      "value": 188.1
+    },
+    {
+      "category": "North America - Product B",
+      "value": 115.5
+    },
+    {
+      "category": "North America - Product C",
+      "value": 90.1
+    },
+    {
+      "category": "North America - Product D",
+      "value": 252.9
+    },
+    {
+      "category": "North America - Product E",
+      "value": 83.5
+    },
+    {
+      "category": "Europe - Product A",
+      "value": 125.5
+    },
+    {
+      "category": "Europe - Product B",
+      "value": 53.4
+    },
+    {
+      "category": "Europe - Product C",
+      "value": 244.3
+    },
+    {
+      "category": "Europe - Product D",
+      "value": 195.5
+    },
+    {
+      "category": "Europe - Product E",
+      "value": 62.1
+    },
+    {
+      "category": "Asia Pacific - Product A",
+      "value": 62.1
+    },
+    {
+      "category": "Asia Pacific - Product B",
+      "value": 54.2
+    },
+    {
+      "category": "Asia Pacific - Product C",
+      "value": 45.0
+    },
+    {
+      "category": "Asia Pacific - Product D",
+      "value": 27.8
+    },
+    {
+      "category": "Asia Pacific - Product E",
+      "value": 19.8
+    },
+    {
+      "category": "Latin America - Product A",
+      "value": 125.5
+    },
+    {
+      "category": "Latin America - Product B",
+      "value": 53.4
+    },
+    {
+      "category": "Latin America - Product C",
+      "value": 244.3
+    },
+    {
+      "category": "Latin America - Product D",
+      "value": 195.5
+    },
+    {
+      "category": "Latin America - Product E",
+      "value": 62.1
+    },
+    {
+      "category": "Middle East - Product A",
+      "value": 62.1
+    },
+    {
+      "category": "Middle East - Product B",
+      "value": 54.2
+    },
+    {
+      "category": "Middle East - Product C",
+      "value": 45.0
+    },
+    {
+      "category": "Middle East - Product D",
+      "value": 27.8
+    },
+    {
+      "category": "Middle East - Product E",
+      "value": 19.8
+    },
+    {
+      "category": "Africa - Product A",
+      "value": 62.1
+    },
+    {
+      "category": "Africa - Product B",
+      "value": 54.2
+    },
+    {
+      "category": "Africa - Product C",
+      "value": 45.0
+    },
+    {
+      "category": "Africa - Product D",
+      "value": 27.8
+    },
+    {
+      "category": "Africa - Product E",
+      "value": 19.8
+    },
+    {
+      "category": "Oceania - Product A",
+      "value": 62.1
+    },
+    {
+      "category": "Oceania - Product B",
+      "value": 54.2
+    },
+    {
+      "category": "Oceania - Product C",
+      "value": 45.0
+    },
+    {
+      "category": "Oceania - Product D",
+      "value": 27.8
+    },
+    {
+      "category": "Oceania - Product E",
+      "value": 19.8
+    },
+    {
+      "category": "Nordic Countries - Product A",
+      "value": 62.1
+    },
+    {
+      "category": "Nordic Countries - Product B",
+      "value": 54.2
+    },
+    {
+      "category": "Nordic Countries - Product C",
+      "value": 45.0
+    },
+    {
+      "category": "Nordic Countries - Product D",
+      "value": 27.8
+    },
+    {
+      "category": "Nordic Countries - Product E",
+      "value": 19.8
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some values are overlapping and may be difficult to distinguish precisely.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753813446_4733",
+    "image_path": "data\\raw_charts\\chart_033_advanced_area.png",
+    "extraction_timestamp": "2025-07-29T19:25:00.039130",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 53.752814292907715,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

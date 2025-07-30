@@ -1,0 +1,64 @@
+{
+  "chart_title": "Investment Allocation - (Financial Analysis)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 13.9
+    },
+    {
+      "category": "Category 2",
+      "value": 17.1
+    },
+    {
+      "category": "Category 3",
+      "value": 4.6
+    },
+    {
+      "category": "Category 4",
+      "value": 4.9
+    },
+    {
+      "category": "Category 5",
+      "value": 17.9
+    },
+    {
+      "category": "Category 6",
+      "value": 4.1
+    },
+    {
+      "category": "Category 9",
+      "value": 14.4
+    },
+    {
+      "category": "Category 7",
+      "value": 9.6
+    },
+    {
+      "category": "Category 8",
+      "value": 13.3
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All percentages are clear and sum to approximately 100%.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753829687_1379",
+    "image_path": "data\\perturbations\\chart_106_complex_pie_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T23:54:55.962251",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.107905864715576,
+    "chart_metadata": {
+      "original_chart_id": "chart_106_complex_pie_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

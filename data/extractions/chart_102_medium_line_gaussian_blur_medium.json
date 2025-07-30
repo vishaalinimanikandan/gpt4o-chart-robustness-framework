@@ -1,0 +1,84 @@
+{
+  "chart_title": "Risk Return Analysis - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 20
+    },
+    {
+      "category": "Category 2",
+      "value": 80
+    },
+    {
+      "category": "Category 3",
+      "value": 40
+    },
+    {
+      "category": "Category 4",
+      "value": 60
+    },
+    {
+      "category": "Category 5",
+      "value": 70
+    },
+    {
+      "category": "Category 6",
+      "value": 90
+    },
+    {
+      "category": "Category 7",
+      "value": 50
+    },
+    {
+      "category": "Category 1",
+      "value": 90
+    },
+    {
+      "category": "Category 2",
+      "value": 100
+    },
+    {
+      "category": "Category 3",
+      "value": 10
+    },
+    {
+      "category": "Category 4",
+      "value": 50
+    },
+    {
+      "category": "Category 5",
+      "value": 30
+    },
+    {
+      "category": "Category 6",
+      "value": 60
+    },
+    {
+      "category": "Category 7",
+      "value": 20
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the visual position on the y-axis. There may be slight inaccuracies due to the lack of exact numerical labels.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753829415_4960",
+    "image_path": "data\\perturbations\\chart_102_medium_line_gaussian_blur_medium.png",
+    "extraction_timestamp": "2025-07-29T23:50:25.219025",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.640370607376099,
+    "chart_metadata": {
+      "original_chart_id": "chart_102_medium_line_gaussian",
+      "perturbation_type": "blur",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

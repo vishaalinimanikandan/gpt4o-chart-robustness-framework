@@ -1,0 +1,131 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Stocks",
+      "value": 110
+    },
+    {
+      "category": "Bonds",
+      "value": 100
+    },
+    {
+      "category": "Real Estate",
+      "value": 100
+    },
+    {
+      "category": "Stocks",
+      "value": 115
+    },
+    {
+      "category": "Bonds",
+      "value": 105
+    },
+    {
+      "category": "Real Estate",
+      "value": 102
+    },
+    {
+      "category": "Stocks",
+      "value": 117
+    },
+    {
+      "category": "Bonds",
+      "value": 103
+    },
+    {
+      "category": "Real Estate",
+      "value": 103
+    },
+    {
+      "category": "Stocks",
+      "value": 112
+    },
+    {
+      "category": "Bonds",
+      "value": 101
+    },
+    {
+      "category": "Real Estate",
+      "value": 104
+    },
+    {
+      "category": "Stocks",
+      "value": 108
+    },
+    {
+      "category": "Bonds",
+      "value": 98
+    },
+    {
+      "category": "Real Estate",
+      "value": 105
+    },
+    {
+      "category": "Stocks",
+      "value": 115
+    },
+    {
+      "category": "Bonds",
+      "value": 99
+    },
+    {
+      "category": "Real Estate",
+      "value": 107
+    },
+    {
+      "category": "Stocks",
+      "value": 120
+    },
+    {
+      "category": "Bonds",
+      "value": 100
+    },
+    {
+      "category": "Real Estate",
+      "value": 110
+    },
+    {
+      "category": "Stocks",
+      "value": 125
+    },
+    {
+      "category": "Bonds",
+      "value": 102
+    },
+    {
+      "category": "Real Estate",
+      "value": 112
+    },
+    {
+      "category": "Stocks",
+      "value": 130
+    },
+    {
+      "category": "Bonds",
+      "value": 104
+    },
+    {
+      "category": "Real Estate",
+      "value": 113
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the chart's scale. Exact values may vary slightly.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753814847_3646",
+    "image_path": "data\\raw_charts\\chart_107_medium_line.png",
+    "extraction_timestamp": "2025-07-29T19:47:40.583549",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 13.274224042892456,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "chart_title": "Correlation Analysis - (Scientific Research)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point 1",
+      "value": {
+        "Series A": 40,
+        "Series B": 40
+      }
+    },
+    {
+      "category": "Point 2",
+      "value": {
+        "Series A": 60,
+        "Series B": 80
+      }
+    },
+    {
+      "category": "Point 3",
+      "value": {
+        "Series A": 70,
+        "Series B": 70
+      }
+    },
+    {
+      "category": "Point 4",
+      "value": {
+        "Series A": 80,
+        "Series B": 60
+      }
+    },
+    {
+      "category": "Point 5",
+      "value": {
+        "Series A": 90,
+        "Series B": 90
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Data points are estimated based on visual inspection of the scatter plot. Exact values may vary slightly.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753814321_9085",
+    "image_path": "data\\raw_charts\\chart_073_medium_scatter.png",
+    "extraction_timestamp": "2025-07-29T19:38:49.484245",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.281789064407349,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: {'Series A': 40, 'Series B': 40}",
+      "Data point 1 has invalid value: {'Series A': 60, 'Series B': 80}",
+      "Data point 2 has invalid value: {'Series A': 70, 'Series B': 70}",
+      "Data point 3 has invalid value: {'Series A': 80, 'Series B': 60}",
+      "Data point 4 has invalid value: {'Series A': 90, 'Series B': 90}"
+    ]
+  }
+}

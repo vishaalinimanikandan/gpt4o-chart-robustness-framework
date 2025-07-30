@@ -1,0 +1,160 @@
+{
+  "chart_title": "Production Efficiency - (Operational Metrics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1 - Series A",
+      "value": 66.0
+    },
+    {
+      "category": "Category 1 - Series B",
+      "value": 48.2
+    },
+    {
+      "category": "Category 1 - Series C",
+      "value": 72.7
+    },
+    {
+      "category": "Category 2 - Series A",
+      "value": 66.7
+    },
+    {
+      "category": "Category 2 - Series B",
+      "value": 53.9
+    },
+    {
+      "category": "Category 2 - Series C",
+      "value": 61.8
+    },
+    {
+      "category": "Category 3 - Series A",
+      "value": 61.8
+    },
+    {
+      "category": "Category 3 - Series B",
+      "value": 26.3
+    },
+    {
+      "category": "Category 3 - Series C",
+      "value": 89.4
+    },
+    {
+      "category": "Category 4 - Series A",
+      "value": 62.9
+    },
+    {
+      "category": "Category 4 - Series B",
+      "value": 29.9
+    },
+    {
+      "category": "Category 4 - Series C",
+      "value": 43.6
+    },
+    {
+      "category": "Category 5 - Series A",
+      "value": 64.6
+    },
+    {
+      "category": "Category 5 - Series B",
+      "value": 25.2
+    },
+    {
+      "category": "Category 5 - Series C",
+      "value": 40.6
+    },
+    {
+      "category": "Category 6 - Series A",
+      "value": 45.6
+    },
+    {
+      "category": "Category 6 - Series B",
+      "value": 32.9
+    },
+    {
+      "category": "Category 6 - Series C",
+      "value": 88.3
+    },
+    {
+      "category": "Category 7 - Series A",
+      "value": 68.4
+    },
+    {
+      "category": "Category 7 - Series B",
+      "value": 49.4
+    },
+    {
+      "category": "Category 7 - Series C",
+      "value": 79.5
+    },
+    {
+      "category": "Category 8 - Series A",
+      "value": 51.6
+    },
+    {
+      "category": "Category 8 - Series B",
+      "value": 29.5
+    },
+    {
+      "category": "Category 8 - Series C",
+      "value": 87.7
+    },
+    {
+      "category": "Category 9 - Series A",
+      "value": 53.2
+    },
+    {
+      "category": "Category 9 - Series B",
+      "value": 63.7
+    },
+    {
+      "category": "Category 9 - Series C",
+      "value": 98.2
+    },
+    {
+      "category": "Category 10 - Series A",
+      "value": 44.1
+    },
+    {
+      "category": "Category 10 - Series B",
+      "value": 36.2
+    },
+    {
+      "category": "Category 10 - Series C",
+      "value": 82.3
+    },
+    {
+      "category": "Category 11 - Series A",
+      "value": 36.2
+    },
+    {
+      "category": "Category 11 - Series B",
+      "value": 4.2
+    },
+    {
+      "category": "Category 11 - Series C",
+      "value": 76.5
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values and labels are clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753830209_3108",
+    "image_path": "data\\perturbations\\chart_189_complex_bar_rotation_medium.png",
+    "extraction_timestamp": "2025-07-30T00:03:57.888517",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 28.302492141723633,
+    "chart_metadata": {
+      "original_chart_id": "chart_189_complex_bar",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

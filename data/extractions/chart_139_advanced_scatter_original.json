@@ -1,0 +1,67 @@
+{
+  "chart_title": "Sector Comparison - (Financial Analysis)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 40
+    },
+    {
+      "category": "Category 2",
+      "value": 50
+    },
+    {
+      "category": "Category 3",
+      "value": 60
+    },
+    {
+      "category": "Category 4",
+      "value": 90
+    },
+    {
+      "category": "Category 5",
+      "value": 100
+    },
+    {
+      "category": "Category 6",
+      "value": 70
+    },
+    {
+      "category": "Category 7",
+      "value": 80
+    },
+    {
+      "category": "Category 8",
+      "value": 100
+    },
+    {
+      "category": "Category 9",
+      "value": 30
+    },
+    {
+      "category": "Category 10",
+      "value": 40
+    },
+    {
+      "category": "Category 11",
+      "value": 110
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the position in the scatter plot. Exact numerical values are not labeled.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753815720_4608",
+    "image_path": "data\\raw_charts\\chart_139_advanced_scatter.png",
+    "extraction_timestamp": "2025-07-29T20:02:08.359045",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.783868789672852,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

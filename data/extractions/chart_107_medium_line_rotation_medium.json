@@ -1,0 +1,112 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Stocks",
+      "value": 110
+    },
+    {
+      "category": "Bonds",
+      "value": 100
+    },
+    {
+      "category": "Real Estate",
+      "value": 101
+    },
+    {
+      "category": "Stocks",
+      "value": 115
+    },
+    {
+      "category": "Bonds",
+      "value": 102
+    },
+    {
+      "category": "Real Estate",
+      "value": 103
+    },
+    {
+      "category": "Stocks",
+      "value": 120
+    },
+    {
+      "category": "Bonds",
+      "value": 104
+    },
+    {
+      "category": "Real Estate",
+      "value": 105
+    },
+    {
+      "category": "Stocks",
+      "value": 112
+    },
+    {
+      "category": "Bonds",
+      "value": 103
+    },
+    {
+      "category": "Real Estate",
+      "value": 106
+    },
+    {
+      "category": "Stocks",
+      "value": 115
+    },
+    {
+      "category": "Bonds",
+      "value": 101
+    },
+    {
+      "category": "Real Estate",
+      "value": 108
+    },
+    {
+      "category": "Stocks",
+      "value": 125
+    },
+    {
+      "category": "Bonds",
+      "value": 100
+    },
+    {
+      "category": "Real Estate",
+      "value": 110
+    },
+    {
+      "category": "Stocks",
+      "value": 130
+    },
+    {
+      "category": "Bonds",
+      "value": 102
+    },
+    {
+      "category": "Real Estate",
+      "value": 112
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points were clear and legible. No ambiguities in the chart.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753821241_8259",
+    "image_path": "data\\perturbations\\chart_107_medium_line_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T21:34:12.290044",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.05285382270813,
+    "chart_metadata": {
+      "original_chart_id": "chart_107_medium_line",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

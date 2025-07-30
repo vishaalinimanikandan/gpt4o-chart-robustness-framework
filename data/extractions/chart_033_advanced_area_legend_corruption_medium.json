@@ -1,0 +1,60 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "North America",
+      "value": 188.1
+    },
+    {
+      "category": "Europe",
+      "value": 115.5
+    },
+    {
+      "category": "Asia Pacific",
+      "value": 125.5
+    },
+    {
+      "category": "Latin America",
+      "value": 252.9
+    },
+    {
+      "category": "Middle East",
+      "value": 54.2
+    },
+    {
+      "category": "Africa",
+      "value": 19.8
+    },
+    {
+      "category": "Oceania",
+      "value": 19.8
+    },
+    {
+      "category": "Nordic Countries",
+      "value": 19.8
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Values were extracted from visible data points on the chart. Some values overlap, but the primary series was prioritized.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753829048_1496",
+    "image_path": "data\\perturbations\\chart_033_advanced_area_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T23:44:17.293787",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.230937719345093,
+    "chart_metadata": {
+      "original_chart_id": "chart_033_advanced_area_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

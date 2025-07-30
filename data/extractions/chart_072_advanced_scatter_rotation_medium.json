@@ -1,0 +1,72 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 100
+    },
+    {
+      "category": "Category 2",
+      "value": 110
+    },
+    {
+      "category": "Category 3",
+      "value": 105
+    },
+    {
+      "category": "Category 4",
+      "value": 70
+    },
+    {
+      "category": "Category 5",
+      "value": 90
+    },
+    {
+      "category": "Category 6",
+      "value": 60
+    },
+    {
+      "category": "Category 7",
+      "value": 40
+    },
+    {
+      "category": "Category 8",
+      "value": 50
+    },
+    {
+      "category": "Category 9",
+      "value": 80
+    },
+    {
+      "category": "Category 10",
+      "value": 45
+    },
+    {
+      "category": "Category 11",
+      "value": 42
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the position of data points on the axes. Exact values are not labeled.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753831159_9221",
+    "image_path": "data\\perturbations\\chart_072_advanced_scatter_rotation_medium.png",
+    "extraction_timestamp": "2025-07-30T00:19:30.427817",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.565643072128296,
+    "chart_metadata": {
+      "original_chart_id": "chart_072_advanced_scatter",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

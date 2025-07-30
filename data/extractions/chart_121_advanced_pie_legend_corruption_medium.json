@@ -1,0 +1,76 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Jul 2024",
+      "value": 7.4
+    },
+    {
+      "category": "Aug 2024",
+      "value": 7.6
+    },
+    {
+      "category": "Sep 2024",
+      "value": 7.1
+    },
+    {
+      "category": "Oct 2024",
+      "value": 7.5
+    },
+    {
+      "category": "Nov 2024",
+      "value": 7.3
+    },
+    {
+      "category": "Dec 2024",
+      "value": 7.3
+    },
+    {
+      "category": "Jan 2025",
+      "value": 7.4
+    },
+    {
+      "category": "Mar 2025",
+      "value": 6.6
+    },
+    {
+      "category": "Apr 2025",
+      "value": 6.9
+    },
+    {
+      "category": "May 2025",
+      "value": 6.9
+    },
+    {
+      "category": "Jun 2025",
+      "value": 7.0
+    },
+    {
+      "category": "Jul 2025",
+      "value": 6.9
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data extracted from pie chart with clear labels and values.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753820977_9691",
+    "image_path": "data\\perturbations\\chart_121_advanced_pie_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T21:29:47.490274",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.406947135925293,
+    "chart_metadata": {
+      "original_chart_id": "chart_121_advanced_pie_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 62.6
+    },
+    {
+      "category": "Condition B",
+      "value": 70.3
+    },
+    {
+      "category": "Condition C",
+      "value": 72.7
+    },
+    {
+      "category": "Condition D",
+      "value": 91.9
+    },
+    {
+      "category": "Condition E",
+      "value": 60.0
+    },
+    {
+      "category": "Condition F",
+      "value": 66.7
+    },
+    {
+      "category": "Condition G",
+      "value": 72.2
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some data points are obscured by visual elements, making extraction challenging.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753832454_6489",
+    "image_path": "data\\perturbations\\chart_057_advanced_area_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-30T00:41:09.481832",
+    "model": "gpt-4o",
+    "attempt_number": 3,
+    "response_time": 14.666256427764893,
+    "chart_metadata": {
+      "original_chart_id": "chart_057_advanced_area_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

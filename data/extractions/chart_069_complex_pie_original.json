@@ -1,0 +1,71 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 7.3
+    },
+    {
+      "category": "Category 2",
+      "value": 7.2
+    },
+    {
+      "category": "Category 3",
+      "value": 5.7
+    },
+    {
+      "category": "Category 4",
+      "value": 3.9
+    },
+    {
+      "category": "Category 5",
+      "value": 12.7
+    },
+    {
+      "category": "Category 6",
+      "value": 11.2
+    },
+    {
+      "category": "Category 7",
+      "value": 10.3
+    },
+    {
+      "category": "Category 8",
+      "value": 8.9
+    },
+    {
+      "category": "Category 9",
+      "value": 15.4
+    },
+    {
+      "category": "Category 10",
+      "value": 4.4
+    },
+    {
+      "category": "Category 11",
+      "value": 8.7
+    },
+    {
+      "category": "Category 12",
+      "value": 7.2
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All percentages are clearly visible and sum to approximately 100%.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753814214_8019",
+    "image_path": "data\\raw_charts\\chart_069_complex_pie.png",
+    "extraction_timestamp": "2025-07-29T19:37:05.220899",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.645840406417847,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

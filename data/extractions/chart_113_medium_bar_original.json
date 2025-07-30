@@ -1,0 +1,87 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Nov 2024 - Stocks",
+      "value": 90
+    },
+    {
+      "category": "Nov 2024 - Bonds",
+      "value": 85
+    },
+    {
+      "category": "Dec 2024 - Stocks",
+      "value": 92
+    },
+    {
+      "category": "Dec 2024 - Bonds",
+      "value": 88
+    },
+    {
+      "category": "Jan 2025 - Stocks",
+      "value": 89
+    },
+    {
+      "category": "Jan 2025 - Bonds",
+      "value": 87
+    },
+    {
+      "category": "Mar 2025 - Stocks",
+      "value": 91
+    },
+    {
+      "category": "Mar 2025 - Bonds",
+      "value": 89
+    },
+    {
+      "category": "Apr 2025 - Stocks",
+      "value": 93
+    },
+    {
+      "category": "Apr 2025 - Bonds",
+      "value": 90
+    },
+    {
+      "category": "May 2025 - Stocks",
+      "value": 88
+    },
+    {
+      "category": "May 2025 - Bonds",
+      "value": 86
+    },
+    {
+      "category": "Jun 2025 - Stocks",
+      "value": 90
+    },
+    {
+      "category": "Jun 2025 - Bonds",
+      "value": 87
+    },
+    {
+      "category": "Jul 2025 - Stocks",
+      "value": 89
+    },
+    {
+      "category": "Jul 2025 - Bonds",
+      "value": 85
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points are clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753814936_1319",
+    "image_path": "data\\raw_charts\\chart_113_medium_bar.png",
+    "extraction_timestamp": "2025-07-29T19:49:07.760874",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.963229417800903,
+    "chart_metadata": {}
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

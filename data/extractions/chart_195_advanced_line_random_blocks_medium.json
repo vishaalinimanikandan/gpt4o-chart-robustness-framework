@@ -1,0 +1,76 @@
+{
+  "chart_title": "Supply Chain Performance (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 101.6
+    },
+    {
+      "category": "Category 2",
+      "value": 96.5
+    },
+    {
+      "category": "Category 3",
+      "value": 87.5
+    },
+    {
+      "category": "Category 4",
+      "value": 58.4
+    },
+    {
+      "category": "Category 5",
+      "value": 38.5
+    },
+    {
+      "category": "Category 6",
+      "value": 21.0
+    },
+    {
+      "category": "Category 7",
+      "value": 44.8
+    },
+    {
+      "category": "Category 8",
+      "value": 46.8
+    },
+    {
+      "category": "Category 9",
+      "value": 37.7
+    },
+    {
+      "category": "Category 10",
+      "value": 54.4
+    },
+    {
+      "category": "Category 11",
+      "value": 43.1
+    },
+    {
+      "category": "Category 12",
+      "value": 9.5
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some data points are obscured by black boxes, making extraction challenging.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753822345_6562",
+    "image_path": "data\\perturbations\\chart_195_advanced_line_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T21:52:35.666559",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.38393783569336,
+    "chart_metadata": {
+      "original_chart_id": "chart_195_advanced_line_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

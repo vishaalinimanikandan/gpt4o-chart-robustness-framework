@@ -1,0 +1,88 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Q1'22 Revenue ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q1'22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q1'22 Revenue ($M)",
+      "value": 1.2
+    },
+    {
+      "category": "Q1'22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q1'22 Revenue ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q1'22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q2'22 Revenue ($M)",
+      "value": 0.8
+    },
+    {
+      "category": "Q2'22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q2'22 Revenue ($M)",
+      "value": 1.2
+    },
+    {
+      "category": "Q2'22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q3'22 Revenue ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q3'22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q3'22 Revenue ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q3'22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q3'22 Revenue ($M)",
+      "value": 1.4
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart is partially obscured, making it difficult to extract all data points accurately. Some values are estimated.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753831745_2294",
+    "image_path": "data\\perturbations\\chart_049_medium_bar_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-30T00:29:17.693425",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.308269262313843,
+    "chart_metadata": {
+      "original_chart_id": "chart_049_medium_bar_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

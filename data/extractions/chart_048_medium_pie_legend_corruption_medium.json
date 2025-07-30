@@ -1,0 +1,64 @@
+{
+  "chart_title": "Customer Satisfaction Metrics - (Business Analytics)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 6.7
+    },
+    {
+      "category": "Category 2",
+      "value": 13.8
+    },
+    {
+      "category": "Category 3",
+      "value": 13.3
+    },
+    {
+      "category": "Category 4",
+      "value": 5.3
+    },
+    {
+      "category": "Category 5",
+      "value": 10.8
+    },
+    {
+      "category": "Category 6",
+      "value": 10.7
+    },
+    {
+      "category": "Category 9",
+      "value": 14.4
+    },
+    {
+      "category": "Category 10",
+      "value": 15.6
+    },
+    {
+      "category": "Category 11",
+      "value": 9.4
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All category labels and values are clear and legible.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753826796_8159",
+    "image_path": "data\\perturbations\\chart_048_medium_pie_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T23:06:48.409283",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.958646774291992,
+    "chart_metadata": {
+      "original_chart_id": "chart_048_medium_pie_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

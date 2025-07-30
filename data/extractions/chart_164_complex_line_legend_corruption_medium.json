@@ -1,0 +1,76 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 80
+    },
+    {
+      "category": "Category 2",
+      "value": 90
+    },
+    {
+      "category": "Category 3",
+      "value": 40
+    },
+    {
+      "category": "Category 4",
+      "value": 70
+    },
+    {
+      "category": "Category 5",
+      "value": 60
+    },
+    {
+      "category": "Category 6",
+      "value": 100
+    },
+    {
+      "category": "Category 7",
+      "value": 50
+    },
+    {
+      "category": "Category 8",
+      "value": 80
+    },
+    {
+      "category": "Category 9",
+      "value": 30
+    },
+    {
+      "category": "Category 10",
+      "value": 110
+    },
+    {
+      "category": "Category 11",
+      "value": 40
+    },
+    {
+      "category": "Category 12",
+      "value": 60
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The right side of the chart is obscured, making it difficult to extract data for some categories. The values are estimated based on visible data points.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753817906_2035",
+    "image_path": "data\\perturbations\\chart_164_complex_line_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T20:38:34.387298",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.267696142196655,
+    "chart_metadata": {
+      "original_chart_id": "chart_164_complex_line_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

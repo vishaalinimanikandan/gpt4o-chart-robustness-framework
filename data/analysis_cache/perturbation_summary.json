@@ -1,0 +1,29 @@
+{
+  "perturbation_generation_complete": true,
+  "total_charts_available": 200,
+  "total_perturbations_available": 1200,
+  "perturbation_types": [
+    "shift",
+    "blur",
+    "conversion",
+    "corruption",
+    "blocks",
+    "rotation"
+  ],
+  "intensity_levels": [
+    "medium"
+  ],
+  "recommended_extraction_strategy": {
+    "phase_1_originals": 200,
+    "phase_2_priority_perturbations": 600,
+    "phase_3_intensity_analysis": 300,
+    "total_planned_extractions": 1100
+  },
+  "budget_planning": {
+    "estimated_total_cost": 30.0,
+    "cost_per_extraction": 0.03,
+    "budget_available": 45.0,
+    "cost_efficiency": true
+  },
+  "next_notebook": "04_GPT4_Extraction_Pipeline.ipynb"
+}

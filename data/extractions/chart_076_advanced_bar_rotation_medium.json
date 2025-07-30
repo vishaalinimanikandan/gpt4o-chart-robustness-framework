@@ -1,0 +1,80 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 97.9
+    },
+    {
+      "category": "Category 2",
+      "value": 88.9
+    },
+    {
+      "category": "Category 3",
+      "value": 98.3
+    },
+    {
+      "category": "Category 4",
+      "value": 87.9
+    },
+    {
+      "category": "Category 5",
+      "value": 95.3
+    },
+    {
+      "category": "Category 6",
+      "value": 91.5
+    },
+    {
+      "category": "Category 7",
+      "value": 88.2
+    },
+    {
+      "category": "Category 8",
+      "value": 97.4
+    },
+    {
+      "category": "Category 9",
+      "value": 99.7
+    },
+    {
+      "category": "Category 10",
+      "value": 90.9
+    },
+    {
+      "category": "Category 11",
+      "value": 86.7
+    },
+    {
+      "category": "Category 12",
+      "value": 82.4
+    },
+    {
+      "category": "Category 13",
+      "value": 108.1
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values were extracted clearly from the chart. The chart is slightly tilted, but values are legible.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753827164_3730",
+    "image_path": "data\\perturbations\\chart_076_advanced_bar_rotation_medium.png",
+    "extraction_timestamp": "2025-07-29T23:12:56.409340",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.32398772239685,
+    "chart_metadata": {
+      "original_chart_id": "chart_076_advanced_bar",
+      "perturbation_type": "rotation",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 83.2
+    },
+    {
+      "category": "Category 1",
+      "value": 96.0
+    },
+    {
+      "category": "Category 1",
+      "value": 82.5
+    },
+    {
+      "category": "Category 2",
+      "value": 82.8
+    },
+    {
+      "category": "Category 2",
+      "value": 66.3
+    },
+    {
+      "category": "Category 2",
+      "value": 47.2
+    },
+    {
+      "category": "Category 3",
+      "value": 84.2
+    },
+    {
+      "category": "Category 3",
+      "value": 99.6
+    },
+    {
+      "category": "Category 3",
+      "value": 40.0
+    },
+    {
+      "category": "Category 4",
+      "value": 81.3
+    },
+    {
+      "category": "Category 4",
+      "value": 74.2
+    },
+    {
+      "category": "Category 4",
+      "value": 19.1
+    },
+    {
+      "category": "Category 5",
+      "value": 79.7
+    },
+    {
+      "category": "Category 5",
+      "value": 50.3
+    },
+    {
+      "category": "Category 5",
+      "value": 42.5
+    },
+    {
+      "category": "Category 6",
+      "value": 82.8
+    },
+    {
+      "category": "Category 6",
+      "value": 68.8
+    },
+    {
+      "category": "Category 6",
+      "value": 43.8
+    },
+    {
+      "category": "Category 7",
+      "value": 92.1
+    },
+    {
+      "category": "Category 7",
+      "value": 42.0
+    },
+    {
+      "category": "Category 7",
+      "value": 22.8
+    },
+    {
+      "category": "Category 8",
+      "value": 91.7
+    },
+    {
+      "category": "Category 8",
+      "value": 88.5
+    },
+    {
+      "category": "Category 8",
+      "value": 31.4
+    },
+    {
+      "category": "Category 9",
+      "value": 92.0
+    },
+    {
+      "category": "Category 9",
+      "value": 79.4
+    },
+    {
+      "category": "Category 9",
+      "value": 14.1
+    },
+    {
+      "category": "Category 10",
+      "value": 57.8
+    },
+    {
+      "category": "Category 10",
+      "value": 31.3
+    },
+    {
+      "category": "Category 10",
+      "value": 35.2
+    },
+    {
+      "category": "Category 11",
+      "value": 47.3
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values and labels were clear and legible.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753825506_9991",
+    "image_path": "data\\perturbations\\chart_079_complex_bar_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-29T22:45:25.798236",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 18.848880529403687,
+    "chart_metadata": {
+      "original_chart_id": "chart_079_complex_bar_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

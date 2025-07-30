@@ -1,0 +1,112 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Stocks",
+      "value": 110
+    },
+    {
+      "category": "Bonds",
+      "value": 100
+    },
+    {
+      "category": "Real Estate",
+      "value": 100
+    },
+    {
+      "category": "Stocks",
+      "value": 120
+    },
+    {
+      "category": "Bonds",
+      "value": 105
+    },
+    {
+      "category": "Real Estate",
+      "value": 102
+    },
+    {
+      "category": "Stocks",
+      "value": 115
+    },
+    {
+      "category": "Bonds",
+      "value": 103
+    },
+    {
+      "category": "Real Estate",
+      "value": 104
+    },
+    {
+      "category": "Stocks",
+      "value": 108
+    },
+    {
+      "category": "Bonds",
+      "value": 101
+    },
+    {
+      "category": "Real Estate",
+      "value": 106
+    },
+    {
+      "category": "Stocks",
+      "value": 112
+    },
+    {
+      "category": "Bonds",
+      "value": 100
+    },
+    {
+      "category": "Real Estate",
+      "value": 108
+    },
+    {
+      "category": "Stocks",
+      "value": 125
+    },
+    {
+      "category": "Bonds",
+      "value": 98
+    },
+    {
+      "category": "Real Estate",
+      "value": 110
+    },
+    {
+      "category": "Stocks",
+      "value": 130
+    },
+    {
+      "category": "Bonds",
+      "value": 99
+    },
+    {
+      "category": "Real Estate",
+      "value": 112
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the visual position on the chart. Exact values may vary slightly.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753829254_3353",
+    "image_path": "data\\perturbations\\chart_107_medium_line_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-29T23:47:44.961206",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.362494945526123,
+    "chart_metadata": {
+      "original_chart_id": "chart_107_medium_line_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "chart_title": "Quality Control Metrics - (Operational Metrics)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 4.4
+    },
+    {
+      "category": "Category 2",
+      "value": 4.8
+    },
+    {
+      "category": "Category 3",
+      "value": 11.6
+    },
+    {
+      "category": "Category 4",
+      "value": 8.2
+    },
+    {
+      "category": "Category 5",
+      "value": 2.5
+    },
+    {
+      "category": "Category 6",
+      "value": 9.2
+    },
+    {
+      "category": "Category 7",
+      "value": 2.1
+    },
+    {
+      "category": "Category 8",
+      "value": 1.6
+    },
+    {
+      "category": "Category 9",
+      "value": 2.1
+    },
+    {
+      "category": "Category 10",
+      "value": 8.9
+    },
+    {
+      "category": "Category 11",
+      "value": 4.8
+    },
+    {
+      "category": "Category 12",
+      "value": 5.0
+    },
+    {
+      "category": "Category 13",
+      "value": 2.7
+    },
+    {
+      "category": "Category 14",
+      "value": 4.6
+    },
+    {
+      "category": "Category 15",
+      "value": 9.5
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Some text is partially obscured, affecting confidence in exact values.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753820057_8046",
+    "image_path": "data\\perturbations\\chart_170_advanced_pie_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-29T21:14:30.469224",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.547121047973633,
+    "chart_metadata": {
+      "original_chart_id": "chart_170_advanced_pie_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [
+      "Pie chart values sum to 82.0%, expected ~100%"
+    ],
+    "errors": []
+  }
+}

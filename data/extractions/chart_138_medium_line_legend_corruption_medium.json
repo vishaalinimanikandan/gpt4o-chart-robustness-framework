@@ -1,0 +1,60 @@
+{
+  "chart_title": "Investment Allocation - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 70
+    },
+    {
+      "category": "Category 2",
+      "value": 60
+    },
+    {
+      "category": "Category 3",
+      "value": 80
+    },
+    {
+      "category": "Category 4",
+      "value": 90
+    },
+    {
+      "category": "Category 5",
+      "value": 50
+    },
+    {
+      "category": "Category 6",
+      "value": 40
+    },
+    {
+      "category": "Category 7",
+      "value": 60
+    },
+    {
+      "category": "Category 8",
+      "value": 70
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the visual position on the y-axis. Some points are close together, making precise extraction challenging.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753833483_2279",
+    "image_path": "data\\perturbations\\chart_138_medium_line_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-30T00:58:12.150244",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.23685908317566,
+    "chart_metadata": {
+      "original_chart_id": "chart_138_medium_line_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

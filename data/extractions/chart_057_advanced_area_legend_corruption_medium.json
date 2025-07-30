@@ -1,0 +1,84 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 92.3
+    },
+    {
+      "category": "Condition B",
+      "value": 70.3
+    },
+    {
+      "category": "Condition C",
+      "value": 62.6
+    },
+    {
+      "category": "Condition D",
+      "value": 67.9
+    },
+    {
+      "category": "Condition E",
+      "value": 60.0
+    },
+    {
+      "category": "Condition F",
+      "value": 69.8
+    },
+    {
+      "category": "Condition G",
+      "value": 66.7
+    },
+    {
+      "category": "Condition H",
+      "value": 56.0
+    },
+    {
+      "category": "Condition I",
+      "value": 72.2
+    },
+    {
+      "category": "Condition J",
+      "value": 80.6
+    },
+    {
+      "category": "Condition K",
+      "value": 72.0
+    },
+    {
+      "category": "Condition L",
+      "value": 66.7
+    },
+    {
+      "category": "Condition M",
+      "value": 56.0
+    },
+    {
+      "category": "Condition N",
+      "value": 56.3
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points were extracted accurately from the chart. The chart contains multiple data series, but only one series was extracted for simplicity.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753823541_6082",
+    "image_path": "data\\perturbations\\chart_057_advanced_area_legend_corruption_medium.png",
+    "extraction_timestamp": "2025-07-29T22:12:37.674693",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 15.69986891746521,
+    "chart_metadata": {
+      "original_chart_id": "chart_057_advanced_area_legend",
+      "perturbation_type": "corruption",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Africa",
+      "value": [
+        10,
+        5
+      ]
+    },
+    {
+      "category": "Oceania",
+      "value": [
+        20,
+        10
+      ]
+    },
+    {
+      "category": "Nordic Countries",
+      "value": [
+        30,
+        15
+      ]
+    },
+    {
+      "category": "Middle East",
+      "value": [
+        40,
+        20
+      ]
+    },
+    {
+      "category": "Latin America",
+      "value": [
+        50,
+        30
+      ]
+    },
+    {
+      "category": "North America",
+      "value": [
+        60,
+        40
+      ]
+    },
+    {
+      "category": "Europe",
+      "value": [
+        150,
+        100
+      ]
+    },
+    {
+      "category": "Asia Pacific",
+      "value": [
+        300,
+        350
+      ]
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the grid lines. Some overlap in labels may cause ambiguity.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753831835_5442",
+    "image_path": "data\\perturbations\\chart_022_complex_scatter_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-30T00:30:41.558724",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.368558168411255,
+    "chart_metadata": {
+      "original_chart_id": "chart_022_complex_scatter_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [
+      "Data point 0 has invalid value: [10, 5]",
+      "Data point 1 has invalid value: [20, 10]",
+      "Data point 2 has invalid value: [30, 15]",
+      "Data point 3 has invalid value: [40, 20]",
+      "Data point 4 has invalid value: [50, 30]",
+      "Data point 5 has invalid value: [60, 40]",
+      "Data point 6 has invalid value: [150, 100]",
+      "Data point 7 has invalid value: [300, 350]"
+    ]
+  }
+}

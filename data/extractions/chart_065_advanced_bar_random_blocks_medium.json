@@ -1,0 +1,29 @@
+{
+  "chart_title": "Correlation Analysis - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [],
+  "extraction_confidence": "low",
+  "extraction_notes": "The chart is heavily obscured by black squares, making it impossible to accurately extract numerical values and labels.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753833875_1911",
+    "image_path": "data\\perturbations\\chart_065_advanced_bar_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-30T01:04:43.834224",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.905345678329468,
+    "chart_metadata": {
+      "original_chart_id": "chart_065_advanced_bar_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [
+      "Only 0 data points extracted"
+    ],
+    "errors": []
+  }
+}

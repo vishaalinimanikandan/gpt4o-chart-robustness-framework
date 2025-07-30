@@ -1,0 +1,8 @@
+{
+  "extraction_id": "ext_1753832687_6523",
+  "image_path": "data\\perturbations\\chart_147_complex_line_rotation_medium.png",
+  "error_timestamp": "2025-07-30T00:45:20.542729",
+  "error_type": "Exception",
+  "error_message": "All retry attempts exhausted",
+  "response_time": 32.66291832923889
+}

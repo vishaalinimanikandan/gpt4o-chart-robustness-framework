@@ -1,0 +1,64 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "area",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 85
+    },
+    {
+      "category": "Condition B",
+      "value": 75
+    },
+    {
+      "category": "Condition C",
+      "value": 80
+    },
+    {
+      "category": "Condition D",
+      "value": 90
+    },
+    {
+      "category": "Condition E",
+      "value": 85
+    },
+    {
+      "category": "Condition F",
+      "value": 70
+    },
+    {
+      "category": "Condition G",
+      "value": 95
+    },
+    {
+      "category": "Condition H",
+      "value": 80
+    },
+    {
+      "category": "Condition I",
+      "value": 85
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated due to overlapping areas and lack of precise grid lines.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753824448_4918",
+    "image_path": "data\\perturbations\\chart_060_complex_line_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-29T22:28:07.083034",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 38.26108741760254,
+    "chart_metadata": {
+      "original_chart_id": "chart_060_complex_line_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

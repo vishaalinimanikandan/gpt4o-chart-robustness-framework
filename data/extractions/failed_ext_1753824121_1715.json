@@ -1,0 +1,8 @@
+{
+  "extraction_id": "ext_1753824121_1715",
+  "image_path": "data\\perturbations\\chart_182_complex_bar_rotation_medium.png",
+  "error_timestamp": "2025-07-29T22:26:42.682871",
+  "error_type": "APITimeoutError",
+  "error_message": "Request timed out.",
+  "response_time": 281.2471396923065
+}

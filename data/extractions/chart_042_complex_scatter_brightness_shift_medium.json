@@ -1,0 +1,52 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Q1 '22",
+      "value": 0.06
+    },
+    {
+      "category": "Q2 '22",
+      "value": 0.12
+    },
+    {
+      "category": "Q3 '22",
+      "value": 0.14
+    },
+    {
+      "category": "Q1 '22",
+      "value": 0.16
+    },
+    {
+      "category": "Q2 '22",
+      "value": 0.14
+    },
+    {
+      "category": "Q3 '22",
+      "value": 0.12
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The values are estimated based on the position of the points on the axes. Some points are close together, making precise extraction challenging.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753824507_7026",
+    "image_path": "data\\perturbations\\chart_042_complex_scatter_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-29T22:28:49.977905",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 22.439080238342285,
+    "chart_metadata": {
+      "original_chart_id": "chart_042_complex_scatter_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

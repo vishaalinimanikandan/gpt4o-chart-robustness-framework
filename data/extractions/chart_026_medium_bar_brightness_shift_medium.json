@@ -1,0 +1,76 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Q1'22 Revenue ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q1'22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q1'22 Revenue ($M)",
+      "value": 1.2
+    },
+    {
+      "category": "Q1'22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q1'22 Revenue ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q1'22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q2'22 Revenue ($M)",
+      "value": 1.2
+    },
+    {
+      "category": "Q2'22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q2'22 Revenue ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q2'22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q3'22 Revenue ($M)",
+      "value": 1.2
+    },
+    {
+      "category": "Q3'22 Profit ($M)",
+      "value": 0.2
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the bar heights. Some bars are closely aligned, making precise extraction challenging.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753821041_6585",
+    "image_path": "data\\perturbations\\chart_026_medium_bar_brightness_shift_medium.png",
+    "extraction_timestamp": "2025-07-29T21:30:52.502667",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.637041091918945,
+    "chart_metadata": {
+      "original_chart_id": "chart_026_medium_bar_brightness",
+      "perturbation_type": "shift",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": []
+  }
+}

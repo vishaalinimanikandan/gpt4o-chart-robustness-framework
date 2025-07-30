@@ -1,0 +1,29 @@
+{
+  "chart_title": "Sensor Measurements Over Time (Scientific Research)",
+  "chart_type": "line",
+  "data": [],
+  "extraction_confidence": "low",
+  "extraction_notes": "The chart is heavily obscured by black squares, making it impossible to extract any numerical values or labels accurately.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753832481_8444",
+    "image_path": "data\\perturbations\\chart_087_complex_line_random_blocks_medium.png",
+    "extraction_timestamp": "2025-07-30T00:41:29.548070",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.661226034164429,
+    "chart_metadata": {
+      "original_chart_id": "chart_087_complex_line_random",
+      "perturbation_type": "blocks",
+      "intensity": "medium",
+      "original_chart_metadata": {}
+    }
+  },
+  "_validation": {
+    "is_valid": true,
+    "warnings": [
+      "Only 0 data points extracted"
+    ],
+    "errors": []
+  }
+}
