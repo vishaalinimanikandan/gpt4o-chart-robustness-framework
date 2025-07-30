@@ -1,0 +1,116 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Q1 '22 Revenue",
+      "value": 1.0
+    },
+    {
+      "category": "Q1 '22 Profit",
+      "value": 0.8
+    },
+    {
+      "category": "Q1 '22 Costs",
+      "value": 0.1
+    },
+    {
+      "category": "Q2 '22 Revenue",
+      "value": 1.2
+    },
+    {
+      "category": "Q2 '22 Profit",
+      "value": 0.8
+    },
+    {
+      "category": "Q2 '22 Costs",
+      "value": 0.1
+    },
+    {
+      "category": "Q3 '22 Revenue",
+      "value": 1.1
+    },
+    {
+      "category": "Q3 '22 Profit",
+      "value": 0.9
+    },
+    {
+      "category": "Q3 '22 Costs",
+      "value": 0.1
+    },
+    {
+      "category": "Q4 '22 Revenue",
+      "value": 0.9
+    },
+    {
+      "category": "Q4 '22 Profit",
+      "value": 0.7
+    },
+    {
+      "category": "Q4 '22 Costs",
+      "value": 0.1
+    },
+    {
+      "category": "Q1 '23 Revenue",
+      "value": 1.2
+    },
+    {
+      "category": "Q1 '23 Profit",
+      "value": 0.8
+    },
+    {
+      "category": "Q1 '23 Costs",
+      "value": 0.1
+    },
+    {
+      "category": "Q2 '23 Revenue",
+      "value": 1.0
+    },
+    {
+      "category": "Q2 '23 Profit",
+      "value": 0.9
+    },
+    {
+      "category": "Q2 '23 Costs",
+      "value": 0.2
+    },
+    {
+      "category": "Q3 '23 Revenue",
+      "value": 1.1
+    },
+    {
+      "category": "Q3 '23 Profit",
+      "value": 0.8
+    },
+    {
+      "category": "Q3 '23 Costs",
+      "value": 0.1
+    },
+    {
+      "category": "Q4 '23 Revenue",
+      "value": 1.0
+    },
+    {
+      "category": "Q4 '23 Profit",
+      "value": 0.9
+    },
+    {
+      "category": "Q4 '23 Costs",
+      "value": 0.2
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values are clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753868919_9265",
+    "image_path": "data\\perturbations\\chart_036_complex_bar_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T10:49:06.960713",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 27.535627126693726,
+    "original_chart_id": "chart_036_complex_bar_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

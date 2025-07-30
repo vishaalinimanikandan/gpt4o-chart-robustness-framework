@@ -1,0 +1,156 @@
+{
+  "chart_title": "Economic Indicators - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 86.8
+    },
+    {
+      "category": "Category 2",
+      "value": 89.3
+    },
+    {
+      "category": "Category 3",
+      "value": 95.2
+    },
+    {
+      "category": "Category 4",
+      "value": 81.4
+    },
+    {
+      "category": "Category 5",
+      "value": 80.9
+    },
+    {
+      "category": "Category 6",
+      "value": 85.7
+    },
+    {
+      "category": "Category 7",
+      "value": 101.8
+    },
+    {
+      "category": "Category 8",
+      "value": 92.0
+    },
+    {
+      "category": "Category 9",
+      "value": 79.7
+    },
+    {
+      "category": "Category 10",
+      "value": 103.9
+    },
+    {
+      "category": "Category 11",
+      "value": 105.2
+    },
+    {
+      "category": "Category 12",
+      "value": 93.2
+    },
+    {
+      "category": "Category 13",
+      "value": 60.7
+    },
+    {
+      "category": "Category 14",
+      "value": 72.8
+    },
+    {
+      "category": "Category 15",
+      "value": 73.8
+    },
+    {
+      "category": "Category 16",
+      "value": 76.5
+    },
+    {
+      "category": "Category 17",
+      "value": 74.7
+    },
+    {
+      "category": "Category 18",
+      "value": 65.3
+    },
+    {
+      "category": "Category 19",
+      "value": 71.8
+    },
+    {
+      "category": "Category 20",
+      "value": 65.5
+    },
+    {
+      "category": "Category 21",
+      "value": 46.3
+    },
+    {
+      "category": "Category 22",
+      "value": 48.8
+    },
+    {
+      "category": "Category 23",
+      "value": 36.1
+    },
+    {
+      "category": "Category 24",
+      "value": 37.1
+    },
+    {
+      "category": "Category 25",
+      "value": 39.4
+    },
+    {
+      "category": "Category 26",
+      "value": 39.9
+    },
+    {
+      "category": "Category 27",
+      "value": 41.4
+    },
+    {
+      "category": "Category 28",
+      "value": 39.1
+    },
+    {
+      "category": "Category 29",
+      "value": 39.7
+    },
+    {
+      "category": "Category 30",
+      "value": 29.4
+    },
+    {
+      "category": "Category 31",
+      "value": 32.0
+    },
+    {
+      "category": "Category 32",
+      "value": 23.1
+    },
+    {
+      "category": "Category 33",
+      "value": 24.7
+    },
+    {
+      "category": "Category 34",
+      "value": 36.7
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values were clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753870424_1578",
+    "image_path": "data\\perturbations\\chart_110_complex_bar_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:14:05.694126",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 21.412542819976807,
+    "original_chart_id": "chart_110_complex_bar_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

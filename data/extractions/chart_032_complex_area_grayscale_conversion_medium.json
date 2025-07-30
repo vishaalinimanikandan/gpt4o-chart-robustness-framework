@@ -1,0 +1,19 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "line",
+  "data": [],
+  "extraction_confidence": "low",
+  "extraction_notes": "Unable to extract exact numerical values due to overlapping lines and lack of visible data points.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753868872_1351",
+    "image_path": "data\\perturbations\\chart_032_complex_area_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T10:47:57.940008",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 5.745013475418091,
+    "original_chart_id": "chart_032_complex_area_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "North America",
+      "value": 188.1
+    },
+    {
+      "category": "North America",
+      "value": 115.5
+    },
+    {
+      "category": "North America",
+      "value": 90.1
+    },
+    {
+      "category": "North America",
+      "value": 83.5
+    },
+    {
+      "category": "North America",
+      "value": 53.4
+    },
+    {
+      "category": "Europe",
+      "value": 244.3
+    },
+    {
+      "category": "Europe",
+      "value": 195.5
+    },
+    {
+      "category": "Europe",
+      "value": 125.5
+    },
+    {
+      "category": "Europe",
+      "value": 62.1
+    },
+    {
+      "category": "Europe",
+      "value": 54.2
+    },
+    {
+      "category": "Asia Pacific",
+      "value": 252.9
+    },
+    {
+      "category": "Asia Pacific",
+      "value": 125.5
+    },
+    {
+      "category": "Asia Pacific",
+      "value": 62.1
+    },
+    {
+      "category": "Asia Pacific",
+      "value": 45.0
+    },
+    {
+      "category": "Asia Pacific",
+      "value": 27.8
+    },
+    {
+      "category": "Latin America",
+      "value": 195.5
+    },
+    {
+      "category": "Latin America",
+      "value": 125.5
+    },
+    {
+      "category": "Latin America",
+      "value": 62.1
+    },
+    {
+      "category": "Latin America",
+      "value": 45.0
+    },
+    {
+      "category": "Latin America",
+      "value": 27.8
+    },
+    {
+      "category": "Middle East",
+      "value": 125.5
+    },
+    {
+      "category": "Middle East",
+      "value": 62.1
+    },
+    {
+      "category": "Middle East",
+      "value": 54.2
+    },
+    {
+      "category": "Middle East",
+      "value": 45.0
+    },
+    {
+      "category": "Middle East",
+      "value": 27.8
+    },
+    {
+      "category": "Africa",
+      "value": 54.2
+    },
+    {
+      "category": "Africa",
+      "value": 45.0
+    },
+    {
+      "category": "Africa",
+      "value": 27.8
+    },
+    {
+      "category": "Africa",
+      "value": 19.8
+    },
+    {
+      "category": "Africa",
+      "value": 10.3
+    },
+    {
+      "category": "Oceania",
+      "value": 45.0
+    },
+    {
+      "category": "Oceania",
+      "value": 27.8
+    },
+    {
+      "category": "Oceania",
+      "value": 19.8
+    },
+    {
+      "category": "Oceania",
+      "value": 10.3
+    },
+    {
+      "category": "Oceania",
+      "value": 10.3
+    },
+    {
+      "category": "Nordic Countries",
+      "value": 27.8
+    },
+    {
+      "category": "Nordic Countries",
+      "value": 19.8
+    },
+    {
+      "category": "Nordic Countries",
+      "value": 10.3
+    },
+    {
+      "category": "Nordic Countries",
+      "value": 10.3
+    },
+    {
+      "category": "Nordic Countries",
+      "value": 10.3
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All data points were extracted accurately from the chart. The chart is clear and well-labeled.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753868878_6559",
+    "image_path": "data\\perturbations\\chart_033_advanced_area_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T10:48:20.163389",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 21.21907329559326,
+    "original_chart_id": "chart_033_advanced_area_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

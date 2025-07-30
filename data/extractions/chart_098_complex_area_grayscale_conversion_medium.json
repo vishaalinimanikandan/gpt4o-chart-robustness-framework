@@ -1,0 +1,19 @@
+{
+  "chart_title": "Correlation Analysis - (Scientific Research)",
+  "chart_type": "line",
+  "data": [],
+  "extraction_confidence": "low",
+  "extraction_notes": "The image contains multiple overlapping line series with shaded areas, making it difficult to extract precise numerical values for each category.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753870188_6473",
+    "image_path": "data\\perturbations\\chart_098_complex_area_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:09:53.688499",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 5.548750877380371,
+    "original_chart_id": "chart_098_complex_area_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

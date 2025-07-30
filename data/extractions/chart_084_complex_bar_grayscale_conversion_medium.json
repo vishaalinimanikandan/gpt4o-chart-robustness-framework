@@ -1,0 +1,148 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 96.0
+    },
+    {
+      "category": "Category 2",
+      "value": 78.7
+    },
+    {
+      "category": "Category 3",
+      "value": 77.9
+    },
+    {
+      "category": "Category 4",
+      "value": 85.2
+    },
+    {
+      "category": "Category 5",
+      "value": 71.5
+    },
+    {
+      "category": "Category 6",
+      "value": 80.7
+    },
+    {
+      "category": "Category 7",
+      "value": 87.3
+    },
+    {
+      "category": "Category 8",
+      "value": 95.4
+    },
+    {
+      "category": "Category 9",
+      "value": 102.0
+    },
+    {
+      "category": "Category 10",
+      "value": 84.1
+    },
+    {
+      "category": "Category 11",
+      "value": 69.9
+    },
+    {
+      "category": "Category 1",
+      "value": 53.7
+    },
+    {
+      "category": "Category 2",
+      "value": 53.1
+    },
+    {
+      "category": "Category 3",
+      "value": 57.2
+    },
+    {
+      "category": "Category 4",
+      "value": 58.1
+    },
+    {
+      "category": "Category 5",
+      "value": 55.9
+    },
+    {
+      "category": "Category 6",
+      "value": 56.8
+    },
+    {
+      "category": "Category 7",
+      "value": 48.3
+    },
+    {
+      "category": "Category 8",
+      "value": 48.5
+    },
+    {
+      "category": "Category 9",
+      "value": 47.7
+    },
+    {
+      "category": "Category 10",
+      "value": 46.5
+    },
+    {
+      "category": "Category 11",
+      "value": 53.7
+    },
+    {
+      "category": "Category 12",
+      "value": 59.2
+    },
+    {
+      "category": "Category 1",
+      "value": 19.1
+    },
+    {
+      "category": "Category 2",
+      "value": 67.1
+    },
+    {
+      "category": "Category 3",
+      "value": 56.8
+    },
+    {
+      "category": "Category 4",
+      "value": 60.4
+    },
+    {
+      "category": "Category 5",
+      "value": 56.5
+    },
+    {
+      "category": "Category 6",
+      "value": 45.3
+    },
+    {
+      "category": "Category 7",
+      "value": 33.5
+    },
+    {
+      "category": "Category 8",
+      "value": 32.8
+    },
+    {
+      "category": "Category 9",
+      "value": 26.7
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values were clearly visible and extracted accurately. The chart is a grouped bar chart with three series.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753869966_9903",
+    "image_path": "data\\perturbations\\chart_084_complex_bar_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:06:34.727228",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 27.873751401901245,
+    "original_chart_id": "chart_084_complex_bar_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

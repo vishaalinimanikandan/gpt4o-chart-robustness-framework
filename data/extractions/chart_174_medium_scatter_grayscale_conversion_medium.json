@@ -1,0 +1,62 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point 1",
+      "value": {
+        "Series A": 30,
+        "Series B": 110
+      }
+    },
+    {
+      "category": "Point 2",
+      "value": {
+        "Series A": 35,
+        "Series B": 80
+      }
+    },
+    {
+      "category": "Point 3",
+      "value": {
+        "Series A": 40,
+        "Series B": 40
+      }
+    },
+    {
+      "category": "Point 4",
+      "value": {
+        "Series A": 50,
+        "Series B": 70
+      }
+    },
+    {
+      "category": "Point 5",
+      "value": {
+        "Series A": 55,
+        "Series B": 75
+      }
+    },
+    {
+      "category": "Point 6",
+      "value": {
+        "Series A": 70,
+        "Series B": 90
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The exact positions of the points were estimated based on the grid lines. Some points are close to grid intersections, which aids accuracy, but others are between lines, reducing precision.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753871426_4998",
+    "image_path": "data\\perturbations\\chart_174_medium_scatter_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:30:36.112327",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.129452228546143,
+    "original_chart_id": "chart_174_medium_scatter_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

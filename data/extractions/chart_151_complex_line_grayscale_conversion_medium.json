@@ -1,0 +1,56 @@
+{
+  "chart_title": "Production Efficiency - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 80
+    },
+    {
+      "category": "Category 2",
+      "value": 100
+    },
+    {
+      "category": "Category 3",
+      "value": 40
+    },
+    {
+      "category": "Category 4",
+      "value": 60
+    },
+    {
+      "category": "Category 5",
+      "value": 90
+    },
+    {
+      "category": "Category 6",
+      "value": 30
+    },
+    {
+      "category": "Category 7",
+      "value": 70
+    },
+    {
+      "category": "Category 8",
+      "value": 50
+    },
+    {
+      "category": "Category 9",
+      "value": 110
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated due to overlapping lines and shading. Exact values may vary slightly.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753871113_2102",
+    "image_path": "data\\perturbations\\chart_151_complex_line_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:25:23.380495",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.843761682510376,
+    "original_chart_id": "chart_151_complex_line_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

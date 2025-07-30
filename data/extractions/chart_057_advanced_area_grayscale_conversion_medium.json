@@ -1,0 +1,76 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 92.3
+    },
+    {
+      "category": "Condition B",
+      "value": 70.3
+    },
+    {
+      "category": "Condition C",
+      "value": 62.6
+    },
+    {
+      "category": "Condition D",
+      "value": 56.3
+    },
+    {
+      "category": "Condition E",
+      "value": 72.7
+    },
+    {
+      "category": "Condition F",
+      "value": 67.9
+    },
+    {
+      "category": "Condition G",
+      "value": 82.5
+    },
+    {
+      "category": "Condition H",
+      "value": 81.4
+    },
+    {
+      "category": "Condition I",
+      "value": 83.3
+    },
+    {
+      "category": "Condition J",
+      "value": 77.1
+    },
+    {
+      "category": "Condition K",
+      "value": 73.1
+    },
+    {
+      "category": "Condition L",
+      "value": 71.4
+    },
+    {
+      "category": "Condition M",
+      "value": 60.0
+    },
+    {
+      "category": "Condition N",
+      "value": 92.5
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly labeled and extracted with high confidence. Multiple series are present, but only one series is extracted for simplicity.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753869529_1675",
+    "image_path": "data\\perturbations\\chart_057_advanced_area_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T10:59:03.340590",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 13.914421319961548,
+    "original_chart_id": "chart_057_advanced_area_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

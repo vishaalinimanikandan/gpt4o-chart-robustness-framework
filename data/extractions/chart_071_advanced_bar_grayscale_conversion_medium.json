@@ -1,0 +1,72 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 99.0
+    },
+    {
+      "category": "Category 2",
+      "value": 82.2
+    },
+    {
+      "category": "Category 3",
+      "value": 87.2
+    },
+    {
+      "category": "Category 4",
+      "value": 98.2
+    },
+    {
+      "category": "Category 5",
+      "value": 93.2
+    },
+    {
+      "category": "Category 6",
+      "value": 77.6
+    },
+    {
+      "category": "Category 7",
+      "value": 68.2
+    },
+    {
+      "category": "Category 8",
+      "value": 96.7
+    },
+    {
+      "category": "Category 9",
+      "value": 84.6
+    },
+    {
+      "category": "Category 10",
+      "value": 66.2
+    },
+    {
+      "category": "Category 11",
+      "value": 63.1
+    },
+    {
+      "category": "Category 12",
+      "value": 53.3
+    },
+    {
+      "category": "Category 13",
+      "value": 47.7
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values were clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753869767_1215",
+    "image_path": "data\\perturbations\\chart_071_advanced_bar_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:03:02.957990",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 15.376267194747925,
+    "original_chart_id": "chart_071_advanced_bar_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

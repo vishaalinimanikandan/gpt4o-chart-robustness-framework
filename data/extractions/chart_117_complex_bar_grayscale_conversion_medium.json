@@ -1,0 +1,56 @@
+{
+  "chart_title": "Sector Comparison - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 56.9
+    },
+    {
+      "category": "Category 2",
+      "value": 87.2
+    },
+    {
+      "category": "Category 3",
+      "value": 72.2
+    },
+    {
+      "category": "Category 4",
+      "value": 94.1
+    },
+    {
+      "category": "Category 5",
+      "value": 55.5
+    },
+    {
+      "category": "Category 6",
+      "value": 58.1
+    },
+    {
+      "category": "Category 7",
+      "value": 79.7
+    },
+    {
+      "category": "Category 8",
+      "value": 67.9
+    },
+    {
+      "category": "Category 9",
+      "value": 53.9
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Values extracted from the tallest bars in each category. Other series not extracted.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753870535_8019",
+    "image_path": "data\\perturbations\\chart_117_complex_bar_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:15:45.327046",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.138692140579224,
+    "original_chart_id": "chart_117_complex_bar_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

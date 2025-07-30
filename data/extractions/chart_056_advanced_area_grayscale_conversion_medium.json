@@ -1,0 +1,152 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "area",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 95.3
+    },
+    {
+      "category": "Condition B",
+      "value": 87.1
+    },
+    {
+      "category": "Condition C",
+      "value": 83.2
+    },
+    {
+      "category": "Condition D",
+      "value": 76.2
+    },
+    {
+      "category": "Condition E",
+      "value": 70.2
+    },
+    {
+      "category": "Condition F",
+      "value": 97.5
+    },
+    {
+      "category": "Condition G",
+      "value": 87.5
+    },
+    {
+      "category": "Condition H",
+      "value": 85.8
+    },
+    {
+      "category": "Condition I",
+      "value": 80.1
+    },
+    {
+      "category": "Condition J",
+      "value": 72.8
+    },
+    {
+      "category": "Condition K",
+      "value": 69.4
+    },
+    {
+      "category": "Condition L",
+      "value": 92.1
+    },
+    {
+      "category": "Condition M",
+      "value": 89.6
+    },
+    {
+      "category": "Condition N",
+      "value": 95.1
+    },
+    {
+      "category": "Condition O",
+      "value": 89.7
+    },
+    {
+      "category": "Condition P",
+      "value": 83.8
+    },
+    {
+      "category": "Condition Q",
+      "value": 80.5
+    },
+    {
+      "category": "Condition R",
+      "value": 77.4
+    },
+    {
+      "category": "Condition S",
+      "value": 75.2
+    },
+    {
+      "category": "Condition T",
+      "value": 72.3
+    },
+    {
+      "category": "Condition U",
+      "value": 93.5
+    },
+    {
+      "category": "Condition V",
+      "value": 91.2
+    },
+    {
+      "category": "Condition W",
+      "value": 85.7
+    },
+    {
+      "category": "Condition X",
+      "value": 84.3
+    },
+    {
+      "category": "Condition Y",
+      "value": 79.3
+    },
+    {
+      "category": "Condition Z",
+      "value": 77.6
+    },
+    {
+      "category": "Condition AA",
+      "value": 74.8
+    },
+    {
+      "category": "Condition AB",
+      "value": 52.7
+    },
+    {
+      "category": "Condition AC",
+      "value": 97.1
+    },
+    {
+      "category": "Condition AD",
+      "value": 89.8
+    },
+    {
+      "category": "Condition AE",
+      "value": 88.5
+    },
+    {
+      "category": "Condition AF",
+      "value": 81.0
+    },
+    {
+      "category": "Condition AG",
+      "value": 73.8
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The overlapping lines and labels make it difficult to ensure all values are extracted accurately. Some values may be obscured.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753869504_8989",
+    "image_path": "data\\perturbations\\chart_056_advanced_area_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T10:58:48.418495",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 23.594691514968872,
+    "original_chart_id": "chart_056_advanced_area_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

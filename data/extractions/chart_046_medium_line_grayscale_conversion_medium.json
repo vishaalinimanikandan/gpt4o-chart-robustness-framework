@@ -1,0 +1,52 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "North America",
+      "value": 350
+    },
+    {
+      "category": "Europe",
+      "value": 150
+    },
+    {
+      "category": "Asia Pacific",
+      "value": 400
+    },
+    {
+      "category": "Latin America",
+      "value": 100
+    },
+    {
+      "category": "Middle East",
+      "value": 50
+    },
+    {
+      "category": "Africa",
+      "value": 50
+    },
+    {
+      "category": "Oceania",
+      "value": 75
+    },
+    {
+      "category": "Nordic Countries",
+      "value": 100
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the graph's scale. Exact values may vary slightly.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753869049_6108",
+    "image_path": "data\\perturbations\\chart_046_medium_line_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T10:50:58.372739",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.898242235183716,
+    "original_chart_id": "chart_046_medium_line_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

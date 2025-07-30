@@ -1,0 +1,152 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "North America - Product A",
+      "value": 337.3
+    },
+    {
+      "category": "North America - Product B",
+      "value": 125.8
+    },
+    {
+      "category": "Europe - Product A",
+      "value": 297.8
+    },
+    {
+      "category": "Europe - Product B",
+      "value": 114.0
+    },
+    {
+      "category": "Asia Pacific - Product A",
+      "value": 367.2
+    },
+    {
+      "category": "Asia Pacific - Product B",
+      "value": 126.4
+    },
+    {
+      "category": "Latin America - Product A",
+      "value": 182.6
+    },
+    {
+      "category": "Latin America - Product B",
+      "value": 65.2
+    },
+    {
+      "category": "Middle East - Product A",
+      "value": 180.3
+    },
+    {
+      "category": "Middle East - Product B",
+      "value": 116.4
+    },
+    {
+      "category": "Africa - Product A",
+      "value": 188.8
+    },
+    {
+      "category": "Africa - Product B",
+      "value": 71.6
+    },
+    {
+      "category": "Oceania - Product A",
+      "value": 147.7
+    },
+    {
+      "category": "Oceania - Product B",
+      "value": 55.7
+    },
+    {
+      "category": "Nordic Countries - Product A",
+      "value": 71.6
+    },
+    {
+      "category": "Nordic Countries - Product B",
+      "value": 35.5
+    },
+    {
+      "category": "Nordic Countries - Product C",
+      "value": 46.1
+    },
+    {
+      "category": "Nordic Countries - Product D",
+      "value": 32.1
+    },
+    {
+      "category": "Nordic Countries - Product E",
+      "value": 31.3
+    },
+    {
+      "category": "Nordic Countries - Product F",
+      "value": 25.4
+    },
+    {
+      "category": "Nordic Countries - Product G",
+      "value": 72.6
+    },
+    {
+      "category": "Nordic Countries - Product H",
+      "value": 66.6
+    },
+    {
+      "category": "Nordic Countries - Product I",
+      "value": 24.0
+    },
+    {
+      "category": "Nordic Countries - Product J",
+      "value": 11.2
+    },
+    {
+      "category": "Nordic Countries - Product K",
+      "value": 13.6
+    },
+    {
+      "category": "Nordic Countries - Product L",
+      "value": 10.1
+    },
+    {
+      "category": "Nordic Countries - Product M",
+      "value": 13.9
+    },
+    {
+      "category": "Nordic Countries - Product N",
+      "value": 4.4
+    },
+    {
+      "category": "Nordic Countries - Product O",
+      "value": 18.9
+    },
+    {
+      "category": "Nordic Countries - Product P",
+      "value": 18.7
+    },
+    {
+      "category": "Nordic Countries - Product Q",
+      "value": 29.5
+    },
+    {
+      "category": "Nordic Countries - Product R",
+      "value": 10.8
+    },
+    {
+      "category": "Nordic Countries - Product S",
+      "value": 6.0
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values were clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753868715_6695",
+    "image_path": "data\\perturbations\\chart_019_complex_bar_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T10:45:37.347360",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 21.726975917816162,
+    "original_chart_id": "chart_019_complex_bar_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

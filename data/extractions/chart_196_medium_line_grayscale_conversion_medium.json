@@ -1,0 +1,60 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 70
+    },
+    {
+      "category": "Category 2",
+      "value": 40
+    },
+    {
+      "category": "Category 3",
+      "value": 60
+    },
+    {
+      "category": "Category 4",
+      "value": 30
+    },
+    {
+      "category": "Category 5",
+      "value": 80
+    },
+    {
+      "category": "Category 6",
+      "value": 20
+    },
+    {
+      "category": "Category 7",
+      "value": 50
+    },
+    {
+      "category": "Category 8",
+      "value": 90
+    },
+    {
+      "category": "Category 9",
+      "value": 10
+    },
+    {
+      "category": "Category 10",
+      "value": 60
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on visual inspection. Overlapping lines may cause inaccuracies.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753871744_1011",
+    "image_path": "data\\perturbations\\chart_196_medium_line_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:35:53.458223",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.523602724075317,
+    "original_chart_id": "chart_196_medium_line_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 59.6
+    },
+    {
+      "category": "Condition B",
+      "value": 74.4
+    },
+    {
+      "category": "Condition C",
+      "value": 73.3
+    },
+    {
+      "category": "Condition D",
+      "value": 74.9
+    },
+    {
+      "category": "Condition E",
+      "value": 73.2
+    },
+    {
+      "category": "Condition F",
+      "value": 71.9
+    },
+    {
+      "category": "Condition G",
+      "value": 69.5
+    },
+    {
+      "category": "Condition H",
+      "value": 59.4
+    },
+    {
+      "category": "Condition I",
+      "value": 71.0
+    },
+    {
+      "category": "Condition J",
+      "value": 71.1
+    },
+    {
+      "category": "Condition K",
+      "value": 68.2
+    },
+    {
+      "category": "Condition L",
+      "value": 63.7
+    },
+    {
+      "category": "Condition M",
+      "value": 64.9
+    },
+    {
+      "category": "Condition N",
+      "value": 66.6
+    },
+    {
+      "category": "Condition O",
+      "value": 62.7
+    },
+    {
+      "category": "Condition P",
+      "value": 64.6
+    },
+    {
+      "category": "Condition Q",
+      "value": 72.8
+    },
+    {
+      "category": "Condition R",
+      "value": 76.0
+    },
+    {
+      "category": "Condition S",
+      "value": 72.8
+    },
+    {
+      "category": "Condition T",
+      "value": 64.2
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values and labels were clear and legible.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753869178_8071",
+    "image_path": "data\\perturbations\\chart_053_complex_bar_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T10:53:18.753913",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 20.268208980560303,
+    "original_chart_id": "chart_053_complex_bar_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

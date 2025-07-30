@@ -1,0 +1,19 @@
+{
+  "chart_title": "Economic Indicators - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [],
+  "extraction_confidence": "low",
+  "extraction_notes": "The chart contains multiple overlapping lines with shaded areas, making it difficult to extract precise numerical values for each series and category.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753871021_9678",
+    "image_path": "data\\perturbations\\chart_147_complex_line_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:23:48.253261",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.7770466804504395,
+    "original_chart_id": "chart_147_complex_line_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

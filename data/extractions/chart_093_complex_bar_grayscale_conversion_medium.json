@@ -1,0 +1,116 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Condition A - Control",
+      "value": 66.4
+    },
+    {
+      "category": "Condition A - Treatment 1",
+      "value": 84.9
+    },
+    {
+      "category": "Condition A - Treatment 2",
+      "value": 85.6
+    },
+    {
+      "category": "Condition B - Control",
+      "value": 68.9
+    },
+    {
+      "category": "Condition B - Treatment 1",
+      "value": 76.0
+    },
+    {
+      "category": "Condition B - Treatment 2",
+      "value": 75.6
+    },
+    {
+      "category": "Condition C - Control",
+      "value": 71.2
+    },
+    {
+      "category": "Condition C - Treatment 1",
+      "value": 86.9
+    },
+    {
+      "category": "Condition C - Treatment 2",
+      "value": 87.8
+    },
+    {
+      "category": "Condition D - Control",
+      "value": 69.0
+    },
+    {
+      "category": "Condition D - Treatment 1",
+      "value": 95.3
+    },
+    {
+      "category": "Condition D - Treatment 2",
+      "value": 87.5
+    },
+    {
+      "category": "Condition E - Control",
+      "value": 69.2
+    },
+    {
+      "category": "Condition E - Treatment 1",
+      "value": 89.2
+    },
+    {
+      "category": "Condition E - Treatment 2",
+      "value": 91.3
+    },
+    {
+      "category": "Condition F - Control",
+      "value": 63.8
+    },
+    {
+      "category": "Condition F - Treatment 1",
+      "value": 74.7
+    },
+    {
+      "category": "Condition F - Treatment 2",
+      "value": 76.3
+    },
+    {
+      "category": "Condition G - Control",
+      "value": 67.7
+    },
+    {
+      "category": "Condition G - Treatment 1",
+      "value": 73.9
+    },
+    {
+      "category": "Condition G - Treatment 2",
+      "value": 75.8
+    },
+    {
+      "category": "Condition H - Control",
+      "value": 69.1
+    },
+    {
+      "category": "Condition H - Treatment 1",
+      "value": 84.0
+    },
+    {
+      "category": "Condition H - Treatment 2",
+      "value": 89.3
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values and labels were clear and legible.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753870112_3747",
+    "image_path": "data\\perturbations\\chart_093_complex_bar_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:08:52.960234",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 20.699541568756104,
+    "original_chart_id": "chart_093_complex_bar_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "line",
+  "data": [],
+  "extraction_confidence": "low",
+  "extraction_notes": "The image contains overlapping lines and shaded areas, making it difficult to extract precise numerical values for each category.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753869575_2443",
+    "image_path": "data\\perturbations\\chart_060_complex_line_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T10:59:41.660380",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 5.731568098068237,
+    "original_chart_id": "chart_060_complex_line_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

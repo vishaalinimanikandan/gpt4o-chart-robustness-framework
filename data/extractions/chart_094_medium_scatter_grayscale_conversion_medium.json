@@ -1,0 +1,69 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific Research)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point 1",
+      "value": {
+        "Series A": 20,
+        "Series B": 70
+      }
+    },
+    {
+      "category": "Point 2",
+      "value": {
+        "Series A": 30,
+        "Series B": 10
+      }
+    },
+    {
+      "category": "Point 3",
+      "value": {
+        "Series A": 40,
+        "Series B": 50
+      }
+    },
+    {
+      "category": "Point 4",
+      "value": {
+        "Series A": 60,
+        "Series B": 30
+      }
+    },
+    {
+      "category": "Point 5",
+      "value": {
+        "Series A": 70,
+        "Series B": 60
+      }
+    },
+    {
+      "category": "Point 6",
+      "value": {
+        "Series A": 80,
+        "Series B": 90
+      }
+    },
+    {
+      "category": "Point 7",
+      "value": {
+        "Series A": 90,
+        "Series B": 20
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Data points are estimated based on their position in the scatter plot. Exact values may vary slightly.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753870133_4918",
+    "image_path": "data\\perturbations\\chart_094_medium_scatter_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:09:06.913263",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.94440221786499,
+    "original_chart_id": "chart_094_medium_scatter_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 80
+    },
+    {
+      "category": "Category 2",
+      "value": 60
+    },
+    {
+      "category": "Category 3",
+      "value": 100
+    },
+    {
+      "category": "Category 4",
+      "value": 70
+    },
+    {
+      "category": "Category 5",
+      "value": 90
+    },
+    {
+      "category": "Category 6",
+      "value": 50
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The values are estimated based on the visual position on the y-axis. Multiple series exist, but only one series is extracted for simplicity.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753869896_9709",
+    "image_path": "data\\perturbations\\chart_080_medium_line_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:05:04.918183",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.311851978302002,
+    "original_chart_id": "chart_080_medium_line_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

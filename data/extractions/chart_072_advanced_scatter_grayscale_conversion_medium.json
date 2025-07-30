@@ -1,0 +1,64 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 100
+    },
+    {
+      "category": "Category 2",
+      "value": 90
+    },
+    {
+      "category": "Category 3",
+      "value": 95
+    },
+    {
+      "category": "Category 4",
+      "value": 60
+    },
+    {
+      "category": "Category 5",
+      "value": 85
+    },
+    {
+      "category": "Category 6",
+      "value": 30
+    },
+    {
+      "category": "Category 7",
+      "value": 40
+    },
+    {
+      "category": "Category 8",
+      "value": 50
+    },
+    {
+      "category": "Category 9",
+      "value": 80
+    },
+    {
+      "category": "Category 10",
+      "value": 35
+    },
+    {
+      "category": "Category 11",
+      "value": 45
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the position of points on the axes. The exact values might slightly differ.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753869783_6598",
+    "image_path": "data\\perturbations\\chart_072_advanced_scatter_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:03:13.505122",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.538485765457153,
+    "original_chart_id": "chart_072_advanced_scatter_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

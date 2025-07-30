@@ -1,0 +1,80 @@
+{
+  "chart_title": "Service Level Agreement - (Operational Metrics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 40
+    },
+    {
+      "category": "Category 2",
+      "value": 100
+    },
+    {
+      "category": "Category 3",
+      "value": 60
+    },
+    {
+      "category": "Category 4",
+      "value": 90
+    },
+    {
+      "category": "Category 5",
+      "value": 50
+    },
+    {
+      "category": "Category 6",
+      "value": 80
+    },
+    {
+      "category": "Category 7",
+      "value": 70
+    },
+    {
+      "category": "Category 8",
+      "value": 60
+    },
+    {
+      "category": "Category 9",
+      "value": 40
+    },
+    {
+      "category": "Category 10",
+      "value": 110
+    },
+    {
+      "category": "Category 11",
+      "value": 60
+    },
+    {
+      "category": "Category 12",
+      "value": 20
+    },
+    {
+      "category": "Category 13",
+      "value": 90
+    },
+    {
+      "category": "Category 14",
+      "value": 30
+    },
+    {
+      "category": "Category 15",
+      "value": 120
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the position of the points on the axes. Some values may not be precise due to the scale and overlap of data points.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753871135_8161",
+    "image_path": "data\\perturbations\\chart_153_advanced_scatter_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:25:47.752884",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.997294902801514,
+    "original_chart_id": "chart_153_advanced_scatter_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

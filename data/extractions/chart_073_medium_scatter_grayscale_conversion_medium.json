@@ -1,0 +1,55 @@
+{
+  "chart_title": "Correlation Analysis - (Scientific Research)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point 1",
+      "value": {
+        "Series A": 40,
+        "Series B": 40
+      }
+    },
+    {
+      "category": "Point 2",
+      "value": {
+        "Series A": 60,
+        "Series B": 70
+      }
+    },
+    {
+      "category": "Point 3",
+      "value": {
+        "Series A": 70,
+        "Series B": 80
+      }
+    },
+    {
+      "category": "Point 4",
+      "value": {
+        "Series A": 80,
+        "Series B": 60
+      }
+    },
+    {
+      "category": "Point 5",
+      "value": {
+        "Series A": 90,
+        "Series B": 90
+      }
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly visible and distinct.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753869794_2601",
+    "image_path": "data\\perturbations\\chart_073_medium_scatter_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:03:22.313411",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.802301645278931,
+    "original_chart_id": "chart_073_medium_scatter_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

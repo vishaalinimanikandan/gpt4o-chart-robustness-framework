@@ -1,0 +1,76 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Africa",
+      "value": [
+        10,
+        20
+      ]
+    },
+    {
+      "category": "Oceania",
+      "value": [
+        20,
+        30
+      ]
+    },
+    {
+      "category": "Nordic Countries",
+      "value": [
+        30,
+        40
+      ]
+    },
+    {
+      "category": "Middle East",
+      "value": [
+        40,
+        50
+      ]
+    },
+    {
+      "category": "Latin America",
+      "value": [
+        50,
+        60
+      ]
+    },
+    {
+      "category": "North America",
+      "value": [
+        100,
+        110
+      ]
+    },
+    {
+      "category": "Europe",
+      "value": [
+        150,
+        160
+      ]
+    },
+    {
+      "category": "Asia Pacific",
+      "value": [
+        300,
+        310
+      ]
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the position of points on the grid. Exact values are not labeled.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753868755_3958",
+    "image_path": "data\\perturbations\\chart_022_complex_scatter_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T10:46:02.126578",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.571333646774292,
+    "original_chart_id": "chart_022_complex_scatter_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

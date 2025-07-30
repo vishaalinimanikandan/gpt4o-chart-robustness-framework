@@ -1,0 +1,60 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Dec 2024",
+      "value": 97.5
+    },
+    {
+      "category": "Nov 2024",
+      "value": 100.0
+    },
+    {
+      "category": "Oct 2024",
+      "value": 100.0
+    },
+    {
+      "category": "Sep 2024",
+      "value": 102.5
+    },
+    {
+      "category": "Jan 2025",
+      "value": 105.0
+    },
+    {
+      "category": "Mar 2025",
+      "value": 107.5
+    },
+    {
+      "category": "Apr 2025",
+      "value": 105.0
+    },
+    {
+      "category": "May 2025",
+      "value": 105.0
+    },
+    {
+      "category": "Jun 2025",
+      "value": 110.0
+    },
+    {
+      "category": "Jul 2025",
+      "value": 112.5
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly labeled and positioned on the chart. The trend line and shaded area do not obscure the data points.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753870668_4495",
+    "image_path": "data\\perturbations\\chart_127_advanced_scatter_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:17:58.964009",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.155171632766724,
+    "original_chart_id": "chart_127_advanced_scatter_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

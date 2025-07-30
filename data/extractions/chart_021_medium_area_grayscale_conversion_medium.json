@@ -1,0 +1,56 @@
+{
+  "chart_title": "Customer Satisfaction Metrics - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 70
+    },
+    {
+      "category": "Category 2",
+      "value": 75
+    },
+    {
+      "category": "Category 3",
+      "value": 90
+    },
+    {
+      "category": "Category 4",
+      "value": 40
+    },
+    {
+      "category": "Category 5",
+      "value": 60
+    },
+    {
+      "category": "Category 6",
+      "value": 50
+    },
+    {
+      "category": "Category 7",
+      "value": 80
+    },
+    {
+      "category": "Category 8",
+      "value": 45
+    },
+    {
+      "category": "Category 9",
+      "value": 85
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the visual position on the y-axis. Some overlap between series may cause slight inaccuracies.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753868746_6387",
+    "image_path": "data\\perturbations\\chart_021_medium_area_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T10:45:54.549992",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.8005051612854,
+    "original_chart_id": "chart_021_medium_area_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

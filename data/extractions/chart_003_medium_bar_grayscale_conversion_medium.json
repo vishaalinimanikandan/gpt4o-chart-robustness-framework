@@ -1,0 +1,84 @@
+{
+  "chart_title": "Regional Sales Comparison - (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "North America - Product A",
+      "value": 300
+    },
+    {
+      "category": "North America - Product B",
+      "value": 250
+    },
+    {
+      "category": "Europe - Product A",
+      "value": 150
+    },
+    {
+      "category": "Europe - Product B",
+      "value": 100
+    },
+    {
+      "category": "Asia Pacific - Product A",
+      "value": 200
+    },
+    {
+      "category": "Asia Pacific - Product B",
+      "value": 50
+    },
+    {
+      "category": "Latin America - Product A",
+      "value": 300
+    },
+    {
+      "category": "Latin America - Product B",
+      "value": 150
+    },
+    {
+      "category": "Middle East - Product A",
+      "value": 100
+    },
+    {
+      "category": "Middle East - Product B",
+      "value": 50
+    },
+    {
+      "category": "Africa - Product A",
+      "value": 50
+    },
+    {
+      "category": "Africa - Product B",
+      "value": 25
+    },
+    {
+      "category": "Oceania - Product A",
+      "value": 50
+    },
+    {
+      "category": "Oceania - Product B",
+      "value": 25
+    },
+    {
+      "category": "Nordic Countries - Product A",
+      "value": 100
+    },
+    {
+      "category": "Nordic Countries - Product B",
+      "value": 75
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Values were extracted based on visual estimation from the chart. The chart is clear and well-labeled.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753868522_1353",
+    "image_path": "data\\perturbations\\chart_003_medium_bar_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T10:42:16.643655",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 14.558260917663574,
+    "original_chart_id": "chart_003_medium_bar_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

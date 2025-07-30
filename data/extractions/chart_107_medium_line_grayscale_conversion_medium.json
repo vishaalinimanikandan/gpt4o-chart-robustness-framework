@@ -1,0 +1,32 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Stocks",
+      "value": 110
+    },
+    {
+      "category": "Bonds",
+      "value": 100
+    },
+    {
+      "category": "Real Estate",
+      "value": 105
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Exact numerical values are estimated due to lack of precise data points on the chart.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753870309_5087",
+    "image_path": "data\\perturbations\\chart_107_medium_line_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:11:55.543917",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.160590648651123,
+    "original_chart_id": "chart_107_medium_line_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

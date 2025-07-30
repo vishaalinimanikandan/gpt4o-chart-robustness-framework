@@ -1,0 +1,92 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Nov 2024 - Stocks",
+      "value": 105
+    },
+    {
+      "category": "Dec 2024 - Stocks",
+      "value": 106
+    },
+    {
+      "category": "Jan 2025 - Stocks",
+      "value": 110
+    },
+    {
+      "category": "Feb 2025 - Stocks",
+      "value": 115
+    },
+    {
+      "category": "Mar 2025 - Stocks",
+      "value": 120
+    },
+    {
+      "category": "Apr 2025 - Stocks",
+      "value": 118
+    },
+    {
+      "category": "May 2025 - Stocks",
+      "value": 115
+    },
+    {
+      "category": "Jun 2025 - Stocks",
+      "value": 112
+    },
+    {
+      "category": "Jul 2025 - Stocks",
+      "value": 110
+    },
+    {
+      "category": "Nov 2024 - Bonds",
+      "value": 100
+    },
+    {
+      "category": "Dec 2024 - Bonds",
+      "value": 98
+    },
+    {
+      "category": "Jan 2025 - Bonds",
+      "value": 99
+    },
+    {
+      "category": "Feb 2025 - Bonds",
+      "value": 100
+    },
+    {
+      "category": "Mar 2025 - Bonds",
+      "value": 101
+    },
+    {
+      "category": "Apr 2025 - Bonds",
+      "value": 100
+    },
+    {
+      "category": "May 2025 - Bonds",
+      "value": 102
+    },
+    {
+      "category": "Jun 2025 - Bonds",
+      "value": 101
+    },
+    {
+      "category": "Jul 2025 - Bonds",
+      "value": 103
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly visible and distinct. No ambiguities in the labels or values.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753870516_7284",
+    "image_path": "data\\perturbations\\chart_116_medium_line_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:15:34.181306",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 17.846413373947144,
+    "original_chart_id": "chart_116_medium_line_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

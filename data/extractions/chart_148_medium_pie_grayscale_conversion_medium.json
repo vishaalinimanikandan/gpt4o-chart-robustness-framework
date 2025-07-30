@@ -1,0 +1,44 @@
+{
+  "chart_title": "Investment Allocation - (Financial Analysis)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 10.3
+    },
+    {
+      "category": "Category 2",
+      "value": 23.4
+    },
+    {
+      "category": "Category 3",
+      "value": 14.8
+    },
+    {
+      "category": "Category 4",
+      "value": 20.3
+    },
+    {
+      "category": "Category 5",
+      "value": 20.1
+    },
+    {
+      "category": "Category 6",
+      "value": 11.0
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All text and values are clear and legible.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753871038_8375",
+    "image_path": "data\\perturbations\\chart_148_medium_pie_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:24:04.737604",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 6.059886455535889,
+    "original_chart_id": "chart_148_medium_pie_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 13.3
+    },
+    {
+      "category": "Category 2",
+      "value": 10.7
+    },
+    {
+      "category": "Category 3",
+      "value": 15.7
+    },
+    {
+      "category": "Category 4",
+      "value": 12.1
+    },
+    {
+      "category": "Category 5",
+      "value": 15.4
+    },
+    {
+      "category": "Category 6",
+      "value": 7.7
+    },
+    {
+      "category": "Category 7",
+      "value": 6.9
+    },
+    {
+      "category": "Category 8",
+      "value": 18.3
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All percentages are clearly visible and sum to approximately 100%.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753871124_8544",
+    "image_path": "data\\perturbations\\chart_152_complex_pie_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:25:34.749956",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.362858057022095,
+    "original_chart_id": "chart_152_complex_pie_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

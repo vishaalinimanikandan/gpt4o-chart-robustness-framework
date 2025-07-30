@@ -1,0 +1,48 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Q1 '22",
+      "value": {
+        "revenue": 0.9,
+        "profit": 0.08
+      }
+    },
+    {
+      "category": "Q2 '22",
+      "value": {
+        "revenue": 0.85,
+        "profit": 0.12
+      }
+    },
+    {
+      "category": "Q3 '22",
+      "value": {
+        "revenue": 1.0,
+        "profit": 0.1
+      }
+    },
+    {
+      "category": "Q4 '22",
+      "value": {
+        "revenue": 1.2,
+        "profit": 0.2
+      }
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the grid lines. Exact values may vary slightly.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753869029_7529",
+    "image_path": "data\\perturbations\\chart_044_complex_scatter_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T10:50:37.894850",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.07894253730774,
+    "original_chart_id": "chart_044_complex_scatter_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

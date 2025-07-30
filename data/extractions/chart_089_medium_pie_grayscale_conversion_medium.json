@@ -1,0 +1,52 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific Research)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 9.5
+    },
+    {
+      "category": "Category 2",
+      "value": 26.4
+    },
+    {
+      "category": "Category 3",
+      "value": 10.7
+    },
+    {
+      "category": "Category 4",
+      "value": 13.5
+    },
+    {
+      "category": "Category 5",
+      "value": 12.3
+    },
+    {
+      "category": "Category 6",
+      "value": 4.0
+    },
+    {
+      "category": "Category 7",
+      "value": 16.7
+    },
+    {
+      "category": "Category 8",
+      "value": 6.8
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All text and numbers are clear and legible.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753870057_3806",
+    "image_path": "data\\perturbations\\chart_089_medium_pie_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:07:45.685921",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.128828048706055,
+    "original_chart_id": "chart_089_medium_pie_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

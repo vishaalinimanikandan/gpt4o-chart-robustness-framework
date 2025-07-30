@@ -1,0 +1,128 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 89.4
+    },
+    {
+      "category": "Condition B",
+      "value": 81.4
+    },
+    {
+      "category": "Condition C",
+      "value": 82.6
+    },
+    {
+      "category": "Condition D",
+      "value": 80.6
+    },
+    {
+      "category": "Condition E",
+      "value": 75.5
+    },
+    {
+      "category": "Condition F",
+      "value": 73.7
+    },
+    {
+      "category": "Condition G",
+      "value": 73.1
+    },
+    {
+      "category": "Condition H",
+      "value": 79.4
+    },
+    {
+      "category": "Condition I",
+      "value": 78.3
+    },
+    {
+      "category": "Condition J",
+      "value": 82.2
+    },
+    {
+      "category": "Condition K",
+      "value": 82.5
+    },
+    {
+      "category": "Condition L",
+      "value": 66.8
+    },
+    {
+      "category": "Condition M",
+      "value": 99.5
+    },
+    {
+      "category": "Condition N",
+      "value": 84.8
+    },
+    {
+      "category": "Condition O",
+      "value": 78.8
+    },
+    {
+      "category": "Condition P",
+      "value": 76.8
+    },
+    {
+      "category": "Condition Q",
+      "value": 83.6
+    },
+    {
+      "category": "Condition R",
+      "value": 67.3
+    },
+    {
+      "category": "Condition S",
+      "value": 88.0
+    },
+    {
+      "category": "Condition T",
+      "value": 88.1
+    },
+    {
+      "category": "Condition U",
+      "value": 71.9
+    },
+    {
+      "category": "Condition V",
+      "value": 80.1
+    },
+    {
+      "category": "Condition W",
+      "value": 89.6
+    },
+    {
+      "category": "Condition X",
+      "value": 72.7
+    },
+    {
+      "category": "Condition Y",
+      "value": 87.7
+    },
+    {
+      "category": "Condition Z",
+      "value": 87.8
+    },
+    {
+      "category": "Condition AA",
+      "value": 66.7
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values were clearly visible and extracted accurately.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753869672_4481",
+    "image_path": "data\\perturbations\\chart_066_complex_bar_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:01:36.431860",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 24.396190404891968,
+    "original_chart_id": "chart_066_complex_bar_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

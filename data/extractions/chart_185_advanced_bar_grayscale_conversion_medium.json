@@ -1,0 +1,68 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 95.0
+    },
+    {
+      "category": "Category 2",
+      "value": 87.4
+    },
+    {
+      "category": "Category 3",
+      "value": 73.1
+    },
+    {
+      "category": "Category 4",
+      "value": 95.6
+    },
+    {
+      "category": "Category 5",
+      "value": 47.8
+    },
+    {
+      "category": "Category 6",
+      "value": 34.9
+    },
+    {
+      "category": "Category 7",
+      "value": 44.4
+    },
+    {
+      "category": "Category 8",
+      "value": 69.1
+    },
+    {
+      "category": "Category 9",
+      "value": 66.4
+    },
+    {
+      "category": "Category 10",
+      "value": 41.5
+    },
+    {
+      "category": "Category 11",
+      "value": 5.0
+    },
+    {
+      "category": "Category 12",
+      "value": 48.9
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points were clear and legible. Multiple series were present, but only the highest values per category were extracted.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753871599_1915",
+    "image_path": "data\\perturbations\\chart_185_advanced_bar_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:33:29.579310",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.047253370285034,
+    "original_chart_id": "chart_185_advanced_bar_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

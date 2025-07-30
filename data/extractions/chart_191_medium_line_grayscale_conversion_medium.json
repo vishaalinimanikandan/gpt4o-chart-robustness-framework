@@ -1,0 +1,48 @@
+{
+  "chart_title": "Quality Control Metrics - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 80
+    },
+    {
+      "category": "Category 2",
+      "value": 90
+    },
+    {
+      "category": "Category 3",
+      "value": 70
+    },
+    {
+      "category": "Category 4",
+      "value": 20
+    },
+    {
+      "category": "Category 5",
+      "value": 30
+    },
+    {
+      "category": "Category 6",
+      "value": 85
+    },
+    {
+      "category": "Category 7",
+      "value": 95
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the position of the points on the y-axis. Exact values are not labeled.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753871692_9492",
+    "image_path": "data\\perturbations\\chart_191_medium_line_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:35:00.612475",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.207887172698975,
+    "original_chart_id": "chart_191_medium_line_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

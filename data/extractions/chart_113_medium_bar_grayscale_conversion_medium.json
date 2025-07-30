@@ -1,0 +1,84 @@
+{
+  "chart_title": "Portfolio Performance Tracking - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Nov 2024 - Stocks",
+      "value": 95
+    },
+    {
+      "category": "Nov 2024 - Bonds",
+      "value": 90
+    },
+    {
+      "category": "Dec 2024 - Stocks",
+      "value": 92
+    },
+    {
+      "category": "Dec 2024 - Bonds",
+      "value": 88
+    },
+    {
+      "category": "Jan 2025 - Stocks",
+      "value": 94
+    },
+    {
+      "category": "Jan 2025 - Bonds",
+      "value": 89
+    },
+    {
+      "category": "Mar 2025 - Stocks",
+      "value": 93
+    },
+    {
+      "category": "Mar 2025 - Bonds",
+      "value": 87
+    },
+    {
+      "category": "Apr 2025 - Stocks",
+      "value": 96
+    },
+    {
+      "category": "Apr 2025 - Bonds",
+      "value": 91
+    },
+    {
+      "category": "May 2025 - Stocks",
+      "value": 95
+    },
+    {
+      "category": "May 2025 - Bonds",
+      "value": 90
+    },
+    {
+      "category": "Jun 2025 - Stocks",
+      "value": 94
+    },
+    {
+      "category": "Jun 2025 - Bonds",
+      "value": 89
+    },
+    {
+      "category": "Jul 2025 - Stocks",
+      "value": 92
+    },
+    {
+      "category": "Jul 2025 - Bonds",
+      "value": 88
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on bar heights; exact values are not labeled.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753870480_9561",
+    "image_path": "data\\perturbations\\chart_113_medium_bar_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:14:58.944136",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 18.02631902694702,
+    "original_chart_id": "chart_113_medium_bar_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

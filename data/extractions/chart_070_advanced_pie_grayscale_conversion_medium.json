@@ -1,0 +1,64 @@
+{
+  "chart_title": "Treatment Efficacy Analysis - (Scientific Research)",
+  "chart_type": "pie",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 11.7
+    },
+    {
+      "category": "Category 2",
+      "value": 5.5
+    },
+    {
+      "category": "Category 3",
+      "value": 6.5
+    },
+    {
+      "category": "Category 4",
+      "value": 6.7
+    },
+    {
+      "category": "Category 5",
+      "value": 11.4
+    },
+    {
+      "category": "Category 6",
+      "value": 7.1
+    },
+    {
+      "category": "Category 7",
+      "value": 8.5
+    },
+    {
+      "category": "Category 8",
+      "value": 9.4
+    },
+    {
+      "category": "Category 9",
+      "value": 15.2
+    },
+    {
+      "category": "Category 10",
+      "value": 5.0
+    },
+    {
+      "category": "Category 11",
+      "value": 13.0
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data extracted from pie chart. Values are percentages.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753869754_8445",
+    "image_path": "data\\perturbations\\chart_070_advanced_pie_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:02:46.574239",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.85998821258545,
+    "original_chart_id": "chart_070_advanced_pie_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

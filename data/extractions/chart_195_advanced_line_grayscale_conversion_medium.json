@@ -1,0 +1,80 @@
+{
+  "chart_title": "Supply Chain Performance - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 53.2
+    },
+    {
+      "category": "Category 2",
+      "value": 35.8
+    },
+    {
+      "category": "Category 3",
+      "value": 21.0
+    },
+    {
+      "category": "Category 4",
+      "value": 43.7
+    },
+    {
+      "category": "Category 5",
+      "value": 50.0
+    },
+    {
+      "category": "Category 6",
+      "value": 46.8
+    },
+    {
+      "category": "Category 7",
+      "value": 21.2
+    },
+    {
+      "category": "Category 8",
+      "value": 56.6
+    },
+    {
+      "category": "Category 9",
+      "value": 40.6
+    },
+    {
+      "category": "Category 10",
+      "value": 57.0
+    },
+    {
+      "category": "Category 11",
+      "value": 43.7
+    },
+    {
+      "category": "Category 12",
+      "value": 14.5
+    },
+    {
+      "category": "Category 13",
+      "value": 36.5
+    },
+    {
+      "category": "Category 14",
+      "value": 54.4
+    },
+    {
+      "category": "Category 15",
+      "value": 25.5
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The chart contains multiple overlapping series, which may lead to potential inaccuracies in distinguishing exact values for each series.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753871730_7166",
+    "image_path": "data\\perturbations\\chart_195_advanced_line_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:35:43.927870",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 13.431918382644653,
+    "original_chart_id": "chart_195_advanced_line_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

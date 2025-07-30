@@ -1,0 +1,48 @@
+{
+  "chart_title": "Market Share Analysis - (Business Analytics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 90
+    },
+    {
+      "category": "Category 2",
+      "value": 85
+    },
+    {
+      "category": "Category 3",
+      "value": 80
+    },
+    {
+      "category": "Category 4",
+      "value": 70
+    },
+    {
+      "category": "Category 5",
+      "value": 95
+    },
+    {
+      "category": "Category 6",
+      "value": 60
+    },
+    {
+      "category": "Category 7",
+      "value": 75
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated from the chart as exact numbers are not labeled. Multiple series are present, but only one series is extracted for simplicity.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753869021_9904",
+    "image_path": "data\\perturbations\\chart_043_medium_line_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T10:50:28.779249",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.319327354431152,
+    "original_chart_id": "chart_043_medium_line_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

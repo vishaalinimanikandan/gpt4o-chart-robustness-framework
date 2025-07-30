@@ -1,0 +1,120 @@
+{
+  "chart_title": "Investment Allocation - (Financial Analysis)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 103.9
+    },
+    {
+      "category": "Category 2",
+      "value": 88.5
+    },
+    {
+      "category": "Category 3",
+      "value": 94.5
+    },
+    {
+      "category": "Category 4",
+      "value": 107.7
+    },
+    {
+      "category": "Category 5",
+      "value": 90.1
+    },
+    {
+      "category": "Category 6",
+      "value": 85.8
+    },
+    {
+      "category": "Category 7",
+      "value": 81.2
+    },
+    {
+      "category": "Category 8",
+      "value": 77.9
+    },
+    {
+      "category": "Category 9",
+      "value": 102.8
+    },
+    {
+      "category": "Category 1",
+      "value": 59.6
+    },
+    {
+      "category": "Category 2",
+      "value": 48.4
+    },
+    {
+      "category": "Category 3",
+      "value": 54.6
+    },
+    {
+      "category": "Category 4",
+      "value": 64.7
+    },
+    {
+      "category": "Category 5",
+      "value": 69.9
+    },
+    {
+      "category": "Category 6",
+      "value": 47.4
+    },
+    {
+      "category": "Category 7",
+      "value": 34.5
+    },
+    {
+      "category": "Category 8",
+      "value": 39.9
+    },
+    {
+      "category": "Category 9",
+      "value": 30.5
+    },
+    {
+      "category": "Category 1",
+      "value": 23.8
+    },
+    {
+      "category": "Category 2",
+      "value": 34.1
+    },
+    {
+      "category": "Category 3",
+      "value": 32.2
+    },
+    {
+      "category": "Category 4",
+      "value": 32.2
+    },
+    {
+      "category": "Category 5",
+      "value": 23.6
+    },
+    {
+      "category": "Category 6",
+      "value": 31.6
+    },
+    {
+      "category": "Category 7",
+      "value": 19.9
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values were clear and legible. The chart is a grouped bar chart with three series.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753870869_6845",
+    "image_path": "data\\perturbations\\chart_137_complex_bar_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:21:29.755137",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 20.401411294937134,
+    "original_chart_id": "chart_137_complex_bar_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

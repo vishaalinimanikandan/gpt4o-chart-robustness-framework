@@ -1,0 +1,68 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 88.4
+    },
+    {
+      "category": "Category 2",
+      "value": 94.0
+    },
+    {
+      "category": "Category 3",
+      "value": 86.8
+    },
+    {
+      "category": "Category 4",
+      "value": 100.2
+    },
+    {
+      "category": "Category 5",
+      "value": 80.9
+    },
+    {
+      "category": "Category 6",
+      "value": 91.8
+    },
+    {
+      "category": "Category 7",
+      "value": 96.7
+    },
+    {
+      "category": "Category 8",
+      "value": 89.0
+    },
+    {
+      "category": "Category 9",
+      "value": 86.9
+    },
+    {
+      "category": "Category 10",
+      "value": 83.2
+    },
+    {
+      "category": "Category 11",
+      "value": 79.8
+    },
+    {
+      "category": "Category 12",
+      "value": 104.1
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points were clear and legible. Multiple series are present, but only the highest values for each category were extracted.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753871451_4818",
+    "image_path": "data\\perturbations\\chart_176_advanced_bar_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:31:00.483326",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 8.924956798553467,
+    "original_chart_id": "chart_176_advanced_bar_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

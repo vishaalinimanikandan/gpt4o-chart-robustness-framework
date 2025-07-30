@@ -1,0 +1,68 @@
+{
+  "chart_title": "Resource Utilization - (Operational Metrics)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 80
+    },
+    {
+      "category": "Category 2",
+      "value": 100
+    },
+    {
+      "category": "Category 3",
+      "value": 60
+    },
+    {
+      "category": "Category 4",
+      "value": 40
+    },
+    {
+      "category": "Category 5",
+      "value": 80
+    },
+    {
+      "category": "Category 6",
+      "value": 20
+    },
+    {
+      "category": "Category 7",
+      "value": 60
+    },
+    {
+      "category": "Category 8",
+      "value": 40
+    },
+    {
+      "category": "Category 9",
+      "value": 100
+    },
+    {
+      "category": "Category 10",
+      "value": 20
+    },
+    {
+      "category": "Category 11",
+      "value": 80
+    },
+    {
+      "category": "Category 12",
+      "value": 40
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the line positions and grid lines. Overlapping lines and shading may cause slight inaccuracies.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753871268_2338",
+    "image_path": "data\\perturbations\\chart_164_complex_line_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:27:55.349580",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.088932275772095,
+    "original_chart_id": "chart_164_complex_line_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

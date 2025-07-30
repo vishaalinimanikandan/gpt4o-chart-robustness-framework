@@ -1,0 +1,62 @@
+{
+  "chart_title": "Investment Allocation - (Financial Analysis)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point 1",
+      "value": {
+        "Series A": 20,
+        "Series B": 78
+      }
+    },
+    {
+      "category": "Point 2",
+      "value": {
+        "Series A": 30,
+        "Series B": 72
+      }
+    },
+    {
+      "category": "Point 3",
+      "value": {
+        "Series A": 40,
+        "Series B": 68
+      }
+    },
+    {
+      "category": "Point 4",
+      "value": {
+        "Series A": 60,
+        "Series B": 40
+      }
+    },
+    {
+      "category": "Point 5",
+      "value": {
+        "Series A": 70,
+        "Series B": 80
+      }
+    },
+    {
+      "category": "Point 6",
+      "value": {
+        "Series A": 80,
+        "Series B": 60
+      }
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly visible and accurately extracted.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753871013_3115",
+    "image_path": "data\\perturbations\\chart_146_medium_scatter_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:23:40.469786",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 7.466463804244995,
+    "original_chart_id": "chart_146_medium_scatter_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

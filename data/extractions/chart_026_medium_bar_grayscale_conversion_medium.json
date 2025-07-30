@@ -1,0 +1,76 @@
+{
+  "chart_title": "Quarterly Performance Dashboard - (Business Analytics)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Q1 '22 Revenue ($M)",
+      "value": 1.1
+    },
+    {
+      "category": "Q1 '22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q1 '22 Revenue ($M)",
+      "value": 1.2
+    },
+    {
+      "category": "Q1 '22 Profit ($M)",
+      "value": 0.1
+    },
+    {
+      "category": "Q1 '22 Revenue ($M)",
+      "value": 0.9
+    },
+    {
+      "category": "Q1 '22 Profit ($M)",
+      "value": 0.1
+    },
+    {
+      "category": "Q2 '22 Revenue ($M)",
+      "value": 1.0
+    },
+    {
+      "category": "Q2 '22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q2 '22 Revenue ($M)",
+      "value": 1.2
+    },
+    {
+      "category": "Q2 '22 Profit ($M)",
+      "value": 0.1
+    },
+    {
+      "category": "Q3 '22 Revenue ($M)",
+      "value": 1.1
+    },
+    {
+      "category": "Q3 '22 Profit ($M)",
+      "value": 0.2
+    },
+    {
+      "category": "Q3 '22 Revenue ($M)",
+      "value": 0.9
+    },
+    {
+      "category": "Q3 '22 Profit ($M)",
+      "value": 0.1
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "The bars are closely spaced, making it challenging to distinguish between some values. The labels are slightly rotated, which may affect precision.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753868800_5336",
+    "image_path": "data\\perturbations\\chart_026_medium_bar_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T10:46:51.688550",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.972630262374878,
+    "original_chart_id": "chart_026_medium_bar_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

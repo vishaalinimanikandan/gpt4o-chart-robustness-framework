@@ -1,0 +1,68 @@
+{
+  "chart_title": "Sensor Measurements Overtime - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 88.8
+    },
+    {
+      "category": "Category 2",
+      "value": 87.0
+    },
+    {
+      "category": "Category 3",
+      "value": 82.0
+    },
+    {
+      "category": "Category 4",
+      "value": 93.4
+    },
+    {
+      "category": "Category 5",
+      "value": 98.2
+    },
+    {
+      "category": "Category 6",
+      "value": 70.5
+    },
+    {
+      "category": "Category 7",
+      "value": 77.2
+    },
+    {
+      "category": "Category 8",
+      "value": 91.9
+    },
+    {
+      "category": "Category 9",
+      "value": 104.4
+    },
+    {
+      "category": "Category 10",
+      "value": 101.4
+    },
+    {
+      "category": "Category 11",
+      "value": 101.5
+    },
+    {
+      "category": "Category 12",
+      "value": 101.3
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "All values were clear and legible. The chart is a grouped bar chart with multiple series.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753869924_2762",
+    "image_path": "data\\perturbations\\chart_083_complex_bar_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:06:05.847166",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 41.50599265098572,
+    "original_chart_id": "chart_083_complex_bar_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "chart_title": "Investment Allocation - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 30
+    },
+    {
+      "category": "Category 2",
+      "value": 70
+    },
+    {
+      "category": "Category 3",
+      "value": 80
+    },
+    {
+      "category": "Category 4",
+      "value": 60
+    },
+    {
+      "category": "Category 5",
+      "value": 40
+    },
+    {
+      "category": "Category 6",
+      "value": 20
+    },
+    {
+      "category": "Category 7",
+      "value": 50
+    },
+    {
+      "category": "Category 8",
+      "value": 30
+    },
+    {
+      "category": "Category 9",
+      "value": 60
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated based on the visual position of points on the chart. Exact values may vary slightly.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753870679_2033",
+    "image_path": "data\\perturbations\\chart_128_medium_line_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:18:09.100432",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 9.129877090454102,
+    "original_chart_id": "chart_128_medium_line_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

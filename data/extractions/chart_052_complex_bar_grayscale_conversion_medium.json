@@ -1,0 +1,68 @@
+{
+  "chart_title": "Experimental Results Comparison - (Scientific Research)",
+  "chart_type": "grouped_bar",
+  "data": [
+    {
+      "category": "Condition A",
+      "value": 68.3
+    },
+    {
+      "category": "Condition B",
+      "value": 70.4
+    },
+    {
+      "category": "Condition C",
+      "value": 74.5
+    },
+    {
+      "category": "Condition D",
+      "value": 69.3
+    },
+    {
+      "category": "Condition E",
+      "value": 75.2
+    },
+    {
+      "category": "Condition F",
+      "value": 70.4
+    },
+    {
+      "category": "Condition G",
+      "value": 66.7
+    },
+    {
+      "category": "Condition H",
+      "value": 75.6
+    },
+    {
+      "category": "Condition I",
+      "value": 77.9
+    },
+    {
+      "category": "Condition J",
+      "value": 78.9
+    },
+    {
+      "category": "Condition K",
+      "value": 78.8
+    },
+    {
+      "category": "Condition L",
+      "value": 79.0
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly labeled and legible. The chart is a grouped bar chart with multiple series.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753869166_5949",
+    "image_path": "data\\perturbations\\chart_052_complex_bar_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T10:52:57.479899",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 11.193380117416382,
+    "original_chart_id": "chart_052_complex_bar_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

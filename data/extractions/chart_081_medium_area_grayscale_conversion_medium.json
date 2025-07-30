@@ -1,0 +1,48 @@
+{
+  "chart_title": "Multi Variable Relationship - (Scientific Research)",
+  "chart_type": "line",
+  "data": [
+    {
+      "category": "Category 1",
+      "value": 100
+    },
+    {
+      "category": "Category 2",
+      "value": 60
+    },
+    {
+      "category": "Category 3",
+      "value": 90
+    },
+    {
+      "category": "Category 4",
+      "value": 40
+    },
+    {
+      "category": "Category 5",
+      "value": 80
+    },
+    {
+      "category": "Category 6",
+      "value": 70
+    },
+    {
+      "category": "Category 7",
+      "value": 50
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Values are estimated from the chart as exact numerical values are not provided. Multiple series exist, but only one set of values is extracted for simplicity.",
+  "data_completeness": "partial",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753869905_3456",
+    "image_path": "data\\perturbations\\chart_081_medium_area_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:05:16.079055",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 10.153690099716187,
+    "original_chart_id": "chart_081_medium_area_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

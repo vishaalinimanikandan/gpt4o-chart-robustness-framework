@@ -1,0 +1,19 @@
+{
+  "chart_title": "Risk Return Analysis - (Financial Analysis)",
+  "chart_type": "line",
+  "data": [],
+  "extraction_confidence": "low",
+  "extraction_notes": "The chart contains overlapping lines and shaded areas, making it difficult to extract precise numerical values for each series and category.",
+  "data_completeness": "incomplete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753870738_7342",
+    "image_path": "data\\perturbations\\chart_132_complex_line_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:19:03.169213",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 4.933794736862183,
+    "original_chart_id": "chart_132_complex_line_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}

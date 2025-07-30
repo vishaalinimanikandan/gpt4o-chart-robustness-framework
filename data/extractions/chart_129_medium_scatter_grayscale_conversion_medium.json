@@ -1,0 +1,76 @@
+{
+  "chart_title": "Risk Return Analysis - (Financial Analysis)",
+  "chart_type": "scatter",
+  "data": [
+    {
+      "category": "Point 1",
+      "value": {
+        "Series A": 30,
+        "Series B": 30
+      }
+    },
+    {
+      "category": "Point 2",
+      "value": {
+        "Series A": 40,
+        "Series B": 100
+      }
+    },
+    {
+      "category": "Point 3",
+      "value": {
+        "Series A": 50,
+        "Series B": 90
+      }
+    },
+    {
+      "category": "Point 4",
+      "value": {
+        "Series A": 60,
+        "Series B": 80
+      }
+    },
+    {
+      "category": "Point 5",
+      "value": {
+        "Series A": 70,
+        "Series B": 70
+      }
+    },
+    {
+      "category": "Point 6",
+      "value": {
+        "Series A": 80,
+        "Series B": 60
+      }
+    },
+    {
+      "category": "Point 7",
+      "value": {
+        "Series A": 90,
+        "Series B": 50
+      }
+    },
+    {
+      "category": "Point 8",
+      "value": {
+        "Series A": 100,
+        "Series B": 40
+      }
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Data points are clearly visible and evenly distributed across the chart.",
+  "data_completeness": "complete",
+  "_extraction_metadata": {
+    "extraction_id": "ext_1753870690_2068",
+    "image_path": "data\\perturbations\\chart_129_medium_scatter_grayscale_conversion_medium.png",
+    "extraction_timestamp": "2025-07-30T11:18:22.209630",
+    "model": "gpt-4o",
+    "attempt_number": 1,
+    "response_time": 12.101417779922485,
+    "original_chart_id": "chart_129_medium_scatter_grayscale",
+    "perturbation_type": "conversion",
+    "intensity": "medium"
+  }
+}
