@@ -1,0 +1,69 @@
+ Loaded ground truth for 200 charts
+ Loaded audit data: 1400 extraction records
+ Success rate: 1392/1400 (99.43%)
+ Starting comprehensive evaluation...
+   Processed 100/1400 extractions...
+   Processed 200/1400 extractions...
+   Processed 300/1400 extractions...
+   Processed 400/1400 extractions...
+   Processed 500/1400 extractions...
+   Processed 600/1400 extractions...
+   Processed 700/1400 extractions...
+   Processed 800/1400 extractions...
+   Processed 900/1400 extractions...
+   Processed 1000/1400 extractions...
+   Processed 1100/1400 extractions...
+   Processed 1200/1400 extractions...
+   Processed 1300/1400 extractions...
+   Processed 1400/1400 extractions...
+ Calculating relative accuracy...
+
+================================================================================
+ COMPREHENSIVE EVALUATION SUMMARY
+================================================================================
+
+OVERALL PERFORMANCE:
+   Total Extractions: 1,400
+   Successful: 1,392 (99.43%)
+   Failed: 8 (0.57%)
+
+ ACCURACY METRICS (Successful Extractions):
+   Value Accuracy: 20.085 ± 21.908
+   F1 Score: 0.784 ± 0.275
+   Relative Accuracy: 96.819 ± 31.201
+   Composite Score: 49.231 ± 17.532
+
+ OVERALL METRICS (Including Failures):
+   Value Accuracy: 19.970
+   F1 Score: 0.779
+   Relative Accuracy: 96.409
+   Composite Score: 48.950
+
+ PERFORMANCE BY PERTURBATION TYPE:
+         blocks: 39.850 avg score | 200.0/200.0 success (100.0%)
+           blur: 51.517 avg score | 200.0/200.0 success (100.0%)
+     conversion: 47.654 avg score | 197.0/200.0 success (98.5%)
+     corruption: 50.958 avg score | 199.0/200.0 success (99.5%)
+           none: 50.704 avg score | 198.0/200.0 success (99.0%)
+       rotation: 50.458 avg score | 198.0/200.0 success (99.0%)
+          shift: 51.506 avg score | 200.0/200.0 success (100.0%)
+
+ ORIGINAL vs PERTURBED COMPARISON:
+   Original Charts: 50.704 avg composite score
+   Perturbed Charts: 48.657 avg composite score
+   Robustness Gap: 2.046
+================================================================================
+
+ Results saved to: comprehensive_evaluation_results.csv
+ Generated 1400 evaluation records
+ Complete log saved to: evaluation_log_20250802_215326.txt
+
+ SAMPLE RESULTS (First 5 entries):
+                extraction_key perturbation_type  status  value_accuracy  f1_score  relative_accuracy  composite_score
+chart_001_complex_bar_original              none success       22.222222  0.500000              100.0        36.111111
+ chart_002_medium_bar_original              none success       11.111111  0.500000              100.0        30.555556
+ chart_003_medium_bar_original              none success        0.000000  0.769231              100.0        38.461538
+chart_004_complex_pie_original              none success        0.000000  1.000000              100.0        50.000000
+chart_005_complex_bar_original              none success       14.285714  0.600000              100.0        37.142857
+
+ Evaluation complete!
