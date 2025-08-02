@@ -1,0 +1,3 @@
+extraction_key,chart_id,perturbation_type,file_exists,json_valid,in_failure_log,chart_type,data_points,confidence,extraction_timestamp,error_type,error_message,error_timestamp,true_status
+chart_147_complex_line_rotation_medium,chart_147_complex_line,rotation,True,True,False,line,10.0,medium,2025-07-30T11:23:57.671973,,,2025-07-30T00:45:20.542729,Success
+chart_182_complex_bar_rotation_medium,chart_182_complex_bar,rotation,True,True,False,grouped_bar,12.0,high,2025-07-30T11:32:28.549177,,,2025-07-29T22:26:42.682871,Success

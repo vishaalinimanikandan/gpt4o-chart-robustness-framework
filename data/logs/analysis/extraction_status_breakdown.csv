@@ -1,0 +1,5 @@
+status,count,percentage
+success,1392,99.43
+missing,5,0.36
+inconsistent,2,0.14
+failed,1,0.07

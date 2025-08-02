@@ -1,0 +1,2 @@
+total_extractions,success_count,failed_count,missing_count,inconsistent_count,inconsistent_with_valid_json,true_successes,true_failures,success_rate_percent,failure_rate_percent,analysis_date
+1400,1392,1,5,2,2,1394,6,99.57,0.43,2025-08-02 14:35:22

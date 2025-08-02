@@ -1,0 +1,8 @@
+perturbation_type,total_count,success_count,failure_count,success_rate_percent
+blocks,200,200,0,100.0
+blur,200,200,0,100.0
+conversion,200,197,3,98.5
+corruption,200,199,1,99.5
+none,200,198,2,99.0
+rotation,200,200,0,100.0
+shift,200,200,0,100.0

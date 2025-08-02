@@ -1,0 +1,7 @@
+extraction_key,chart_id,is_original,perturbation_type,intensity,status,file_exists,in_failure_log,json_valid,phase,meta_chart_title,meta_chart_type,meta_confidence,meta_completeness,meta_data_points,meta_timestamp,meta_model,meta_attempt,meta_response_time,failure_error_type,failure_error_message,failure_error_timestamp,failure_retry_attempt,failure_extraction_phase,true_status
+chart_114_advanced_bar_original,chart_114_advanced_bar,True,none,none,missing,False,False,False,unknown,,,,,,,,,,,,,,,Failure
+chart_161_complex_bar_original,chart_161_complex_bar,True,none,none,missing,False,False,False,unknown,,,,,,,,,,,,,,,Failure
+chart_054_advanced_bar_legend_corruption_medium,chart_054_advanced_bar_legend,False,corruption,medium,failed,False,True,False,phase2,,,,,,,,,,APITimeoutError,Request timed out.,2025-07-30T01:04:20.755754,3.0,remaining_extractions,Failure
+chart_198_medium_line_grayscale_conversion_medium,chart_198_medium_line_grayscale,False,conversion,medium,missing,False,False,False,unknown,,,,,,,,,,,,,,,Failure
+chart_199_medium_line_grayscale_conversion_medium,chart_199_medium_line_grayscale,False,conversion,medium,missing,False,False,False,unknown,,,,,,,,,,,,,,,Failure
+chart_200_advanced_pie_grayscale_conversion_medium,chart_200_advanced_pie_grayscale,False,conversion,medium,missing,False,False,False,unknown,,,,,,,,,,,,,,,Failure

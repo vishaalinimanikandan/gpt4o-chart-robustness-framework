@@ -1,0 +1,13 @@
+EXTRACTION STATUS SUMMARY
+==============================
+
+Total extractions: 1400
+
+STATUS BREAKDOWN:
+  success: 1392 (99.4%)
+  missing: 5 (0.4%)
+  inconsistent: 2 (0.1%)
+  failed: 1 (0.1%)
+
+TRUE SUCCESSES: 1394 (99.6%)
+TRUE FAILURES: 6 (0.4%)
