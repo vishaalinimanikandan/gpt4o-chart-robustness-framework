@@ -179,22 +179,7 @@ Contributions are welcome! Please feel free to:
 - Implement additional perturbation types
 - Extend evaluation metrics
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- **Supervisor**: Prof. John Dingliana, Trinity College Dublin
-- **Research Guidance**: Asst Prof. Gaye Stephens
-- **Early Development**: Tim Fernando
-- **Institution**: School of Computer Science and Statistics, Trinity College Dublin
-
-## Contact
-
-**Vishaalini Ramasamy Manikandan**  
-Master of Science in Computer Science (Data Science)  
-Trinity College Dublin  
 
 For questions about this research or framework, please open an issue in this repository.
 
